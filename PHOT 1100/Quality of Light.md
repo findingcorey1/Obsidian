@@ -1,0 +1,81 @@
+- Basic lighting
+    - Quality
+        - Hard/soft Light
+    - Direction
+        - Location of light source in relation to background and subject
+        - Direct or indirect onto subject
+    - Source
+        - Available light
+        - added light
+        - Primary light
+        - Fill Light
+
+- Hard/Soft Light
+    - Identify quality of light by looking at shadow
+    - 2 main factors
+        - How big the light source is
+        - Distance of light source to subject
+    - Smaller the light source in relation to your subject, the harder it is
+        - Ex. Sun
+    - ![[Pasted image 20251008171948.png]]
+	    - Direct Sun
+	        - Small light source = hard light
+	    - Sun through clouds
+	        - Large light source = soft light
+	- ![[Pasted image 20251008172034.png]]
+    - Diffused light
+        - Shadow disappears
+    - Hard light
+        - Cast shadow w hard edge Straight Line - object → Shadow
+        - Defined transition btw illumination and shadow
+        - ![[Pasted image 20251008172137.png]]
+    - Soft light
+        - Wrap around subject
+        - Subtle shadow w soft edges
+        - Minimal transition btw illumination and shadow (Gradual Transition)
+        - ![[Pasted image 20251008172152.png]]
+- ![[Pasted image 20251008172331.png]] 
+- Soft light great for portraiture
+    - Soft light appear to wrap around your subject with a smooth transition from light to shadow, producing soft shadows
+    - Allow subject to face …
+- Hard light can be used for portrait
+    - Denote strength darkness grittiness
+    - Abrupt sharp transition between light and shadow, producing hard shadows and more contrast
+- Direction
+    - Angle/direction of where light is from
+    - Light shining from behind the subject towards the camera creates a silhouette
+    - ![[Pasted image 20251008172650.png]]
+	- light from various directions, in the studio
+		- ![[Pasted image 20251008172734.png]]
+- Direct light
+    - Falls form the source to the subject w/o any interference
+    - Lighting diagrams
+	    - ![[Pasted image 20251008172942.png]]
+- Indirect
+    - Reflect of a secondary surface
+        - reflected off ceiling
+        - ![[Pasted image 20251008173002.png]]
+    - Diffused by a filter
+        - Ex. Curtains
+        - ![[Pasted image 20251008173018.png]]
+    - reflected off the ceiling to light the room
+- Source
+    - Added/available light
+        - Available light is what is already available in the spce
+    - Added light is what you bring to the space
+        - Usually artifical
+    - Both can be either
+        - Natural
+            - Sun/moon
+        - Artificial
+            - lamps/flashes
+    - Primary light source
+        - Main source casting light on subject
+    - Fill light
+        - secondary weaker light source
+        - fills in shadow
+        - Use in bright sun to soften shadow
+	- ![[Pasted image 20251008173116.png]]
+* Lowkey light
+	* Light shining at certain angle to make a specific look
+	* ![[Pasted image 20251008173215.png]]
