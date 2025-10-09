@@ -10,7 +10,7 @@
         - Primary light
         - Fill Light
 
-- Hard/Soft Light
+- [[Hard/Soft Light]]
     - Identify quality of light by looking at shadow
     - 2 main factors
         - How big the light source is
@@ -41,17 +41,17 @@
 - Hard light can be used for portrait
     - Denote strength darkness grittiness
     - Abrupt sharp transition between light and shadow, producing hard shadows and more contrast
-- Direction
+- [[Direction]]
     - Angle/direction of where light is from
     - Light shining from behind the subject towards the camera creates a silhouette
     - ![[Pasted image 20251008172650.png]]
 	- light from various directions, in the studio
 		- ![[Pasted image 20251008172734.png]]
-- Direct light
+- [[Direct light]]
     - Falls form the source to the subject w/o any interference
     - Lighting diagrams
 	    - ![[Pasted image 20251008172942.png]]
-- Indirect
+- [[Indirect]]
     - Reflect of a secondary surface
         - reflected off ceiling
         - ![[Pasted image 20251008173002.png]]
@@ -59,7 +59,7 @@
         - Ex. Curtains
         - ![[Pasted image 20251008173018.png]]
     - reflected off the ceiling to light the room
-- Source
+- [[Source]]
     - Added/available light
         - Available light is what is already available in the spce
     - Added light is what you bring to the space
@@ -76,6 +76,6 @@
         - fills in shadow
         - Use in bright sun to soften shadow
 	- ![[Pasted image 20251008173116.png]]
-* Lowkey light
+* [[Lowkey light]]
 	* Light shining at certain angle to make a specific look
 	* ![[Pasted image 20251008173215.png]]

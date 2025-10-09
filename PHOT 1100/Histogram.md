@@ -7,20 +7,20 @@
 * How to read Histogram?
 	* ![](Pasted%20image%2020251008002242.png)
 	* ![](Pasted%20image%2020251008002402.png)
-	* Underexposed
+	* [[Underexposed]]
 		* NOt enough light to see parts of the image clearly
 		* Spike at the left side of the graph means some of the image is under-exposed and may loose shadow detail
 		* ![](Pasted%20image%2020251008002450.png)
-	* Overexposed
-		* Too muhc light to see parts of image clearly
-		* A SPIOKe at the right side of the graph means you are over excposed and may loose highlight detail
+	* [[Overexposed]]
+		* Too much light to see parts of image clearly
+		* A Spike at the right side of the graph means you are over exposed and may loose highlight detail
 		* ![](Pasted%20image%2020251008002431.png)
 	* Shapes
 		* ![](Pasted%20image%2020251008002419.png)![](Pasted%20image%2020251008002440.png)
-* Exposure Meter
+* [[Exposure Meter]]
 	* ![](Pasted%20image%2020251008002644.png)
 	* Meter can't see color
-	* Luminosity
+	* [[Luminosity]]
 		* When measuring exposure, it converts the colors in a scene into tones of grey and emasures the bright
 		* ![](Pasted%20image%2020251008002704.png)
 * If you are photographing a dark subject on dark background, what will the exposure meter try to do?
@@ -35,7 +35,7 @@
 	* show wether you are missing highlights or shadow details
 	* LCD preview may not give accurate reading of the brightness of the image
 	* Bright conditions you might not be able to see the LCD preview screen properly
-* Dynamic Range
+* [[Dynamic Range]]
 	* Every subject/scene you photograph has a dynamic range...
 		* High Dynamic Range
 			* ![](Pasted%20image%2020251008003021.png)
@@ -59,9 +59,9 @@
 				* Highlight areas outside of dynamic range
 * A scene with high Dynamic Range
 	* ![](Pasted%20image%2020251008003855.png)
-* Automatic Exposure Bracket (AEB)
+* [[Automatic Exposure Bracket (AEB)]]
 	* Take a number of shots as different exposure without having to manually change settings between frames
-* High Dynamic Range (HDR)
+* [[High Dynamic Range (HDR)]]
 	* Images merged together in camera to create HDR image
 	* Four ‘bracketed’ images taken to cover both highlight and shadow areas of the scene.
 	* ![](Pasted%20image%2020251008004038.png)
