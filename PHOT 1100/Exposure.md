@@ -10,6 +10,12 @@ What is Exposure?
 	* Less light = Darker photo
 
 [[Exposure Triangle]]
+* ISO
+	* Noise/image quality
+* Aperture
+	* Depth of field
+* Shutter Speed
+	* Blur or freeze motion
 ![](Pasted%20image%2020251007194446.png)
 
 [[Aperture]] (Is like an eye)
@@ -22,6 +28,7 @@ What is Exposure?
 * Aperture measurements are referred to as f-stops
 * The smaller hte f-stop number, the larger the lends opening
 * The larger the f-stop number the smaller the lens opening
+* f1.8 smallest, f/22 largest (in typical dslr)
 ![](Pasted%20image%2020251007194440.png)
 
 [[Depth of Field]]
