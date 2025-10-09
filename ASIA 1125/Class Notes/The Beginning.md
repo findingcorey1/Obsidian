@@ -82,4 +82,38 @@
 			* Modern Chinese man originates from Chinese territory; find in Xuchang (2007) led to a theory that modem humans originate from  Homo erectus in China
 			* A study of 6000 skulls demonstrated that the variations in skull types around the world are consistent with DNA evidence: the dispersals out of Africa in the last 60,000 years wiped the slate clean of all genetic differences that had emerged in the previous half million years; confirms the Africa hypothesis
 			* Weather Sapiens are to blame or not, no sooner had they arrived to a new location than the native population became extinct
-		* 
+			* The last remains of homo soloensis (subspecies of homo erectus, found in sites of Solo River, Java) are from 50,000 years ago; homo denisova (Denisova Cave in Siberia, to Southeast Asia) disappeared shortly after; Neanderthals made their exit about 30,000 ago; the last dwarf-like humans vanished from Flores Islands (Indonesia) 12,000 years ago
+			* At the time of the cognitive revolution there were about 200 species of large terrestrial mammals (above 50 kg), and at the end of the Neolithic revolution after the last glacial (ice) period only about 100 remained
+* Neolithic (agricultural) Revolution
+	* During the last million years, there has been an ice age on average every 100,000 years
+	* The last ice age ran from 75,000 to 15,000 years ago; about 18,000 years ago the last glacial period gave a away to a period of global warming
+	* Temperatures and rainfall rose, climate became suitable for wheat and other cereals (in Middles East and other areas), which multiplied and spread
+	* Neolithic revolution: from hunting and gathering to agriculture, domestication of plants and animals 
+	* Early centers of agriculture:  the Fertile Crescent (11,000 BC), the Yangtze and Yellow River basins (9,000 BC)
+	* The transition to agriculture began around 9500-8500 BCE in the hill country of south-eastern Turkey, western Iran and the Levant
+	* Dogs were domesticated 15,000 BCE (Asia and possibly elsewhere); sheep and goats were domesticated by 9000 BCE (Middle East); pigs – 8000 BCE (Middle East and perhaps China); cattle – 8000 (Middle East); peas and lentils around 8000 BCE; horses by 6000 (Central Asia); olive trees by 5000; grapevines in 3500 BCE
+	* The people in the Hilly Flanks developed agriculture few thousands years before other regions in the world
+	* The wild grasses that the cereals, such as wheat, corn, rice, barley and sorghum, are not spread evenly over the globe
+	* Of the 56 grasses with the biggest, most nutritious seeds, 32 grow wild in southwest Asia and the Mediterranean basin; East Asia has only 6 wild species; Central America – 5, Africa south of Sahara and North America – 4 each, South America and Australia – 2 each, and rest of Europe – 1 
+	* Hence, it is likely that people (living in large groups) in the Hilly Flanks would domesticate plants and animals before anyone else because they had more promising raw materials to work with
+	* People in East Asia domesticated rice millet and pigs; New Guineans tamed sugar cane and bananas; people in Central America domesticated maize and beans
+	* Domesticated animals, such as sheep, chickens, donkeys and others, supplied food, materials (skins, wool) and muscle power
+	* Transportation, ploughing, grinding and other tasks, performed by humans by that time, were increasingly carried out by animals
+	* In most farming societies people focused on plant cultivation and raising animals was secondary, but a new kind of society also emerged in some places, based on raising animals – tribes of pastoralist herders
+	* Transition from nomadic to sedentary societies with build-up villages and towns 
+	* Personal and land ownership, stratification of societies and hierarchies 
+	* With the move to permanent villages and the increase in food supply, the population began to grow
+	* Around 10,000 BCE there were 5-8 million modern humans – foragers on the planet, and by 1st century AD there were 1-2 million foragers and 250 million farmers
+	* Downside on agricultural revolution was increase of violence: in simple agricultural societies with no political structure beyond village and tribe, human violence was responsible for about 15 percent of death 
+	* Food surpluses, combined with new transportation technology enabled more and more people to gather first into large villages, then into towns, and finally into cities, all of them joined together by new kingdoms and commercial networks 
+	* Around 8500 BCE the largest settlements were villages such as Jericho with few hundred people; by 7000 a town in Anatolia numbered between 5000 and 10000 people
+	* In 3100 BCE the whole lower Nile Valley was united in the first Egyptian kingdom
+	* Around 2250 BCE Sargon the Great established the first loose (low-end) empire – the Akkadian 
+	* In 221 BCE, Qin state united the Central Kingdoms by conquering them creating the first Qin empire (taxing 40 million subjects for a standing army and complex bureaucracy), and shortly afterwards Rome united the Mediterranean 
+	* The cooperation networks (from cities in Mesopotamia to the Qin and Roman empires) were based on imagined orders – beliefs and shared myths 
+	* The Code of Hammurabi (1776 BCE) served as cooperation manual for several hundreds of thousands Babylonians 
+
+
+
+
+
