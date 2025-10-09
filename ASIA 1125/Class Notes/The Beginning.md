@@ -15,4 +15,9 @@
 	* Arabia collied with Eurasia
 		* Closing the Tethys ocean and creating the zagros mountains
 			* 35 million years ago
-		* 
+	* The thermal maximum of 55.8 million years ag
+		* Significant global warming event (greenhouse earth- significant CO2 level
+		* Since the Azolla event of 49 million years ago (80% drop in CO2 by this one phenomenon alone), the Cenozoic (New Life) Era has been a period of long-term cooling –  
+icehouse earth; the Arctic cooled from an  
+average sea-surface temperature of 13 C to  
+today’s −9 C
