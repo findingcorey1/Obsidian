@@ -47,4 +47,39 @@
 	* Sapiens has been able to revise and adapt behavior rapidly in accordance to the changing needs, which opened the possibility of cultural evolution
 	* Modern humans outstripped all other human and animal species in its ability to cooperate and form complex organization
 	* Sapiens traded: archeologists excavating 30,000-years-old Sapiens sites in Europe find there seashells from the Mediterranean and Atlantic coasts, likely a result of long-distance trade, and sites in New Guinea with volcanic glass indicating sea trade from a place 400 km away; Neanderthal sites lack any such evidence
-	* 
+	* Transition from apes to upright and 4 legged
+		* ![[Pasted image 20251008233837.png]]
+	* Types
+		* Orrorin Tugenesis
+			* ![[Pasted image 20251008233938.png]]
+			* Tugen Hills, Kenya, 
+			* 6.1-4.5 million years ago
+		* Ardipithecus
+			* 5.77–4.4 million years ago
+			* ![[Pasted image 20251008233956.png]]
+		* Australopithecus afarensis
+			* lived from about 3.9–2.9 million years ago
+			* ![[Pasted image 20251008234025.png]]
+		* Australopithecus africanus
+			* lived between about 3.3 and 2.1 million years ago
+			* ![[Pasted image 20251008234038.png]]
+		* Homo habilis (Handy man)
+			* (forensic facial reconstruction)
+			* Lived between 2.8 and 1.5 million years ago
+			* ![[Pasted image 20251008234108.png]]
+		* Homo erectus
+			* First fossil evidence dates to 1.9 million years ago
+			* ![[Pasted image 20251008234124.png]]
+		* Neanderthal
+			* Separated from Homo sapiens lineage
+			* 600,000 years ago
+			* Ancient DNA puts a face on the Denisovans extinct cousins of Neanderthals
+			* ![[Pasted image 20251008234159.png]]
+		* Homo Sapien (human)
+			* Modern human skull found 40,000 BC; one found in Liujiang is said to be 68,000 years old, but this is disputed (more digging will show if modern humans reached China relatively early or late)
+			* Modern humans reached China around 50,000 years ago; the Korean Peninsula – 40-45,000 years ago; and the Japanese archipelago around 35-38,000 years ago
+			* Multiregionalism: slightly different kinds of modern humans developed in parallel in several parts of the world
+			* Modern Chinese man originates from Chinese territory; find in Xuchang (2007) led to a theory that modem humans originate from  Homo erectus in China
+			* A study of 6000 skulls demonstrated that the variations in skull types around the world are consistent with DNA evidence: the dispersals out of Africa in the last 60,000 years wiped the slate clean of all genetic differences that had emerged in the previous half million years; confirms the Africa hypothesis
+			* Weather Sapiens are to blame or not, no sooner had they arrived to a new location than the native population became extinct
+		* 
