@@ -1,5 +1,5 @@
 Learning Outcome
-* Use basic camera functions iwth proper care and handling
+* Use basic camera functions with proper care and handling
 * Control exposure via shutter, ISO, and aperture with an understanding of equivalent exposure
 * Lots of questions about exposure will feature in Mid-term and Final Exam
 
@@ -9,10 +9,10 @@ What is Exposure?
 	* More light = Brighter photo
 	* Less light = Darker photo
 
-Exposure Triangle
+[[Exposure Triangle]]
 ![](Pasted%20image%2020251007194446.png)
 
-Aperture (Is like an eye)
+[[Aperture]] (Is like an eye)
 * What happens to your pupil in the dark?
 	* Expands (dialates)
 * What happens to your pupil in bright light?
@@ -24,14 +24,14 @@ Aperture (Is like an eye)
 * The larger the f-stop number the smaller the lens opening
 ![](Pasted%20image%2020251007194440.png)
 
-Depth of Field
+[[Depth of Field]]
 * The area of sharpness or focus (from near to far) within a photograph
 * Depth of field can be influeced by three factors
 	1. Aperture
 	2. Distance between camera and subject
 	3. Focal length
 
-ISO
+[[ISO]]
 * Indicated your digital camera's sensitivity to light
 * The higher the ISO number, the less light is needed to take a photo that is correctly exposed
 * ![](Pasted%20image%2020251007194433.png)
@@ -39,7 +39,7 @@ ISO
 * ![](Pasted%20image%2020251007194421.png)
 * Higher ISO = more "noise or grain" in your picture
 
-Shutter Speed:
+[[Shutter Speed]]:
 * Like an eyelid opening and closing
 * Shutter speed is a measurement of the time the shutter is open
 * Measured in seconds or fractions of a second
@@ -58,17 +58,17 @@ Shutter Speed:
 		* Exactly the right amount of light
 	* Over Exposed
 		* Too much light, the glass overflows
-* A "Stop"
+* A "[[Stop]]"
 	* Doubling or halving of the amount of light let in when taking a photo
 	* ![[Pasted image 20251007195028.png]]
 * Photos using Fast shutter speed
 	* To freeze motion, set a shutter speed at 1/500 sec or faster
 * Photographs that use a SLow Shutter Speed
 	* 1/15 or below
-* Light meter
+* [[Light meter]]
 	* Tells you whether your image is correctly exposed, underexposed or over exposed before you take your shot, so you can adjust
 	* ![[Pasted image 20251007195303.png]]
-* Manual Mode
+* [[Manual Mode]]
 	* Why is it the best choice for learning exposure?
 		* Advantages
 			* (M) = Manual mode: Allows you full control over aperature and shutter speed
@@ -77,7 +77,7 @@ Shutter Speed:
 			* Teaches you the most important photographic skills: Exposure
 
 Camera Basic Functions
-* Dioptor control
+* Diopter control
 	* Allows to change viewfinder focus based on your eyesight
 	* Slider is on the underside of viewfinder
 	* ![[Pasted image 20251007195709.png]]
