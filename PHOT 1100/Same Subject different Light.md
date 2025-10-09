@@ -16,8 +16,21 @@
         - Keeping everything consistent and same height
     - File Naming
         - Label each file with the type of light that it shows and a descruption of the lght source: 
-	        - Light direction/hard or soft/ light source 
-    - Lghting pattern
+	        - Light direction/hard or soft/ light source type
+	    - YHour instructor needs to know what lighting you are demonstrationg so they can grade each image accurately
+	    - Ex.
+		    - high hard light.jpg  
+		    - rimlight torch.jpg  
+		    - Projector.jpg  
+		    - Rembrandt LED soft light.jpg
+		    - ![[Pasted image 20251009155324.png]]
+* Grading
+	* Creativity, a good variety of quality, direction and color of light (60)
+	* Technical: exposure / focus / image quality (15) 
+	* Framing and pose of model is the same in all four images (15)
+	* Proper file naming (10)
+What
+    - Lighting pattern
         - Split lighting
             - (Side lighting) divides your subject in two with light and shadow
             - one half illuminated and the other half falls into shadow
@@ -31,10 +44,21 @@
     - Grading
         - creativity, good variety of quality, direction and color of light
     - Use variety of light sources
-        - Light quality
+        - Light quality 
+	        - (Direct and small = hard, Indirect and larger = soft)
         - Light direction
+	        - (left, right) Rembrant, Split lighting, Rim lighting.
         - Color of light
+	        - (gels, LED’s white balance, edit color afterwards)
         - Unusual light source
+	        - (laptop, projector, fairy lights)
+	- Light modifiers/diffusers
+		- Fabric Diffuser
+			- The light shines through the fabric which softens and diffuses the light
+		- Bard doors
+			- Control the spill of light by shaping the light without affecting the overall quality
+		- Reflector
+		- Color gel
 - Rembrandt lighting
     - Named after dutch painter rembrandt, who often used this type of lighting
     - one light and a reflector (or fill light)
@@ -45,5 +69,12 @@
         - if the eye are different distance from the camera, then focus on the nearest eye to the camera
         - Communicate with your model: talk to your model and direct the pose
         - Make sure your background is simple
-
-- In class Rembrandt lighting
+* Camera Setup w LED light
+	1. Set the camera to “Manual”. 
+	2. Set the shutter speed to 1/125 sec 
+	3. Set Aperture at f6.3 
+	4. Zoom your lens to 45mm.  
+	5. Start with ISO 400. You can increase it later if you need to.
+	6. The LED Lights has a power dial.  
+* Move light closer to subject for stronger light.  
+- Move light further away for weaker light.
