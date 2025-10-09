@@ -1,0 +1,47 @@
+- Assignemnt 4: Lighting
+    - October 24
+    - Choose a person for your 4 portraits or an interesting object
+    - Vary the quality, direction, and color of light to create different images
+    - compose 4th four images so the subject is same size and in the same position in each frame
+    - Ex. all centred composition or all rule or thirds composition
+    - All pose and everything is the same just the lighting is different
+    - Assignmte 4
+        - Exposure must be correct
+        - subject must be in sharp focus
+        - Lighting should vary considerably for each image
+        - Don’t be afraid to use unconventional light source, candles, phones or class projector
+    - Tripod useful for this assignment
+        - Use longer shutter speed = more light entering the camera = Brighter = Keep ISO down
+        - Keeping everything consistent and same height
+    - File Naming
+        - …
+    - Lghting pattern
+        - Split lighting
+            - (Side lighting) divides your subject in two with light and shadow
+            - one half illuminated and the other half falls into shadow
+            - this style of light is great for creating dramatic or mysterious portraits
+        - Rim lighting
+            - puts light around the edge of a subject
+            - move the light behind the subject
+        - Window lighting
+        - Cloudy/dark background
+        - You can choose to shoot all portraits outdoor if you want but … harder to get a variety of lighting if you do it all outside
+    - Grading
+        - creativity, good variety of quality, direction and color of light
+    - Use variety of light sources
+        - Light quality
+        - Light direction
+        - Color of light
+        - Unusual light source
+- Rembrandt lighting
+    - Named after dutch painter rembrandt, who often used this type of lighting
+    - one light and a reflector (or fill light)
+    - Characterized by an illuminated triangle under the eye of the subject, on the less illuminated side of the face
+    - Softbox is set at about 45 degree angle between the camera and the model and also raised about the model head at about 34 degree angle
+    - Tips
+        - Eyes: with portraits always focus your camera on the eye of the model
+        - if the eye are different distance from the camera, then focus on the nearest eye to the camera
+        - Communicate with your model: talk to your model and direct the pose
+        - Make sure your background is simple
+
+- In class Rembrandt lighting
