@@ -1,11 +1,12 @@
-- Assignemnt 4: Lighting
+- Assignment 4: Lighting
     - October 24
     - Choose a person for your 4 portraits or an interesting object
     - Vary the quality, direction, and color of light to create different images
     - compose 4th four images so the subject is same size and in the same position in each frame
-    - Ex. all centred composition or all rule or thirds composition
+    - Ex. all centered composition or all rule or thirds composition
+	    - ![[Pasted image 20251009155141.png]]
     - All pose and everything is the same just the lighting is different
-    - Assignmte 4
+    - Assignment 4
         - Exposure must be correct
         - subject must be in sharp focus
         - Lighting should vary considerably for each image
@@ -14,7 +15,8 @@
         - Use longer shutter speed = more light entering the camera = Brighter = Keep ISO down
         - Keeping everything consistent and same height
     - File Naming
-        - …
+        - Label each file with the type of light that it shows and a descruption of the lght source: 
+	        - Light direction/hard or soft/ light source 
     - Lghting pattern
         - Split lighting
             - (Side lighting) divides your subject in two with light and shadow
