@@ -47,7 +47,7 @@ What
         - Light quality 
 	        - (Direct and small = hard, Indirect and larger = soft)
         - Light direction
-	        - (left, right) Rembrant, Split lighting, Rim lighting.
+	        - (left, right) Rembrandt, Split lighting, Rim lighting.
         - Color of light
 	        - (gels, LED’s white balance, edit color afterwards)
         - Unusual light source
@@ -60,10 +60,10 @@ What
 		- Reflector
 		- Color gel
 - Rembrandt lighting
-    - Named after dutch painter rembrandt, who often used this type of lighting
+    - Named after Dutch painter Rembrandt, who often used this type of lighting
     - one light and a reflector (or fill light)
     - Characterized by an illuminated triangle under the eye of the subject, on the less illuminated side of the face
-    - Softbox is set at about 45 degree angle between the camera and the model and also raised about the model head at about 34 degree angle
+    - Soft box is set at about 45 degree angle between the camera and the model and also raised about the model head at about 34 degree angle
     - Tips
         - Eyes: with portraits always focus your camera on the eye of the model
         - if the eye are different distance from the camera, then focus on the nearest eye to the camera
@@ -76,5 +76,7 @@ What
 	4. Zoom your lens to 45mm.  
 	5. Start with ISO 400. You can increase it later if you need to.
 	6. The LED Lights has a power dial.  
-* Move light closer to subject for stronger light.  
-- Move light further away for weaker light.
+		* Move light closer to subject for stronger light.  
+		* Move light further away for weaker light.
+	7. Attach a grid and barn doors to control light spill.
+
