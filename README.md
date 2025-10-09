@@ -1,6 +1,7 @@
 # Obsidian-School
 School Notes backup
 
-Test Test Test
+Read as you wish
+
 
 
