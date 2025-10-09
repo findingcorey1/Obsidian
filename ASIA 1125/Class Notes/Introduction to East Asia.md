@@ -1,4 +1,4 @@
-* Tradition:
+* [[Tradition]]:
 	1. Antiquity
 	2. Classicism
 	3. Enchanted cosmology: 
@@ -9,4 +9,16 @@
 	6. Social hierarchies, family and community
 	7. Legacies
 		* Culture, customs, values, identities
-	8. 
+* [[Topics of East Asia (China)]]
+	* Chinese civilizations in global perspective
+	* state formation
+	* economy and society
+	* Religions and schools of thought
+		* Chinese concepts 
+	* Sino-centric world order
+		* Understanding of the world
+	* war and peace
+	* China in Asia
+	* Internal and external forces of change
+* China Today
+	* 
