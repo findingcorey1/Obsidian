@@ -172,7 +172,7 @@ D) Indirect light
 
 **2. What is the primary effect of moving a light source closer to the subject?**  
 A) The light becomes harder.  
-B) The light becomes softer.  
+==B) The light becomes softer.==  
 C) The light changes color.  
 **D) The light becomes more direct.**
 
@@ -191,7 +191,7 @@ D) A small LED panel mounted directly on the camera.
 **5. The "source" of light in a studio portrait where the main light is a strobe and the fill is from a reflector is:**  
 A) Entirely natural  
 B) Entirely available  
-C) Entirely added  
+==C) Entirely added==  
 **D) A mix of available and added**
 
 **6. What is the key visual difference between the shadow cast by hard light versus soft light?**  
@@ -225,7 +225,7 @@ B) To backlight the subject and create separation from the background.
 D) To act as the brightest light in the scene.
 
 **11. If a photographer uses only the light from a smartphone screen held close to a subject's face, the light quality would likely be:**  
-A) Very hard because the screen is small.  
+==A) Very hard because the screen is small.==  
 B) Very soft because the screen is large.  
 C) Indirect because it's from a phone.  
 **D) A primary light source because it's the main light.**
@@ -244,7 +244,7 @@ D) Reflector
 
 **14. What happens to the perceived size of a light source when you move it farther from the subject?**  
 **A) It becomes larger, making the light softer.**  
-B) It becomes smaller, making the light harder.  
+==B) It becomes smaller, making the light harder.==  
 C) It stays the same size, so the quality doesn't change.  
 D) It becomes less bright, but the quality stays the same.
 
@@ -268,18 +268,18 @@ D) Whether the light is natural or artificial.
 
 **18. In a studio, a flash unit firing directly into a large, parabolic umbrella aimed at the subject produces what kind of light?**  
 A) Direct, hard light  
-B) Indirect, soft light  
+==B) Indirect, soft light==  
 **C) Direct, soft light**  
 D) Indirect, hard light
 
 **19. According to the notes, what is the defining characteristic of "Lowkey light"?**  
 A) It is a type of fill light used to brighten shadows.  
-B) It uses a specific angle to create a particular, often darker, mood or look.  
+**B) It uses a specific angle to create a particular, often darker, mood or look.**  
 C) It is another term for soft, diffused window light.  
 D) It refers to the least powerful light source in a setup.
 
 **20. If the sun is your primary light source, what is the most effective way to turn it into a fill light?**  
-A) Use a reflector to bounce its light onto the subject.  
+**A) Use a reflector to bounce its light onto the subject.**  
 B) Point the camera directly at the sun.  
 C) Use it to backlight the subject.  
 D) You cannot use the sun as a fill light.****
