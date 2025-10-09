@@ -174,29 +174,29 @@ D) Indirect light
 A) The light becomes harder.  
 B) The light becomes softer.  
 C) The light changes color.  
-D) The light becomes more direct.
+**D) The light becomes more direct.**
 
 **3. A photographer places a large white reflector opposite a window to bounce light onto the shadow side of a model's face. This reflector is acting as:**  
 A) The primary light source  
-B) A fill light  
+**B) A fill light**  
 C) A hard light source  
 D) An available light source
 
 **4. Which lighting scenario would create the softest light on a subject?**  
 A) A bare lightbulb in a dark room, 10 feet from the subject.  
 B) The midday sun on a clear day.  
-C) A large softbox placed very close to the subject.  
+**C) A large softbox placed very close to the subject.**  
 D) A small LED panel mounted directly on the camera.
 
 **5. The "source" of light in a studio portrait where the main light is a strobe and the fill is from a reflector is:**  
 A) Entirely natural  
 B) Entirely available  
 C) Entirely added  
-D) A mix of available and added
+**D) A mix of available and added**
 
 **6. What is the key visual difference between the shadow cast by hard light versus soft light?**  
 A) Hard light shadows are fuzzy; soft light shadows are sharp.  
-B) Hard light shadows have sharp edges; soft light shadows have blurred or graduated edges.  
+**B) Hard light shadows have sharp edges; soft light shadows have blurred or graduated edges.**  
 C) Soft light creates darker shadows than hard light.  
 D) Hard light shadows are larger than soft light shadows.
 
@@ -204,72 +204,72 @@ D) Hard light shadows are larger than soft light shadows.
 A) Direct and hard  
 B) Direct and soft  
 C) Indirect and hard  
-D) Indirect and soft
+**D) Indirect and soft**
 
 **8. In the context of these notes, "available light" could refer to:**  
 A) Only sunlight coming through a window.  
 B) Only a lamp that is already in the room.  
-C) Either sunlight or an existing room lamp.  
+**C) Either sunlight or an existing room lamp.**  
 D) Only light that the photographer adds.
 
 **9. The transition zone between light and shadow on a subject's face is most abrupt and defined when using:**  
 A) A large softbox  
 B) Light diffused by clouds  
-C) A small, point light source  
+**C) A small, point light source**  
 D) A reflective umbrella
 
 **10. What is the main purpose of a fill light in a three-point lighting setup?**  
 A) To create the primary shape and dimension of the subject.  
 B) To backlight the subject and create separation from the background.  
-C) To reduce the contrast by illuminating the shadows created by the primary light.  
+**C) To reduce the contrast by illuminating the shadows created by the primary light.**  
 D) To act as the brightest light in the scene.
 
 **11. If a photographer uses only the light from a smartphone screen held close to a subject's face, the light quality would likely be:**  
 A) Very hard because the screen is small.  
 B) Very soft because the screen is large.  
 C) Indirect because it's from a phone.  
-D) A primary light source because it's the main light.
+**D) A primary light source because it's the main light.**
 
 **12. Which statement best describes the relationship between light size and quality?**  
-A) The larger the light source relative to the subject, the softer the light.  
+**A) The larger the light source relative to the subject, the softer the light.**  
 B) The smaller the light source relative to the subject, the softer the light.  
 C) The brightness of the light determines if it is hard or soft.  
 D) The distance of the light has no effect on its quality.
 
 **13. A "primary light" is also commonly known as a:**  
 A) Fill light  
-B) Key light  
+**B) Key light**  
 C) Back light  
 D) Reflector
 
 **14. What happens to the perceived size of a light source when you move it farther from the subject?**  
-A) It becomes larger, making the light softer.  
+**A) It becomes larger, making the light softer.**  
 B) It becomes smaller, making the light harder.  
 C) It stays the same size, so the quality doesn't change.  
 D) It becomes less bright, but the quality stays the same.
 
 **15. Light that passes through a translucent white curtain before reaching the subject becomes:**  
 A) More direct and harder  
-B) Indirect and diffused  
+**B) Indirect and diffused**  
 C) A fill light  
 D) A primary light source
 
 **16. For a portrait, a photographer wants to create a dramatic, high-contrast image with deep, well-defined shadows. Which light quality should they seek?**  
 A) Soft Light  
-B) Hard Light  
+**B) Hard Light**  
 C) Fill Light  
 D) Indirect Light
 
 **17. The concept of "direction" in lighting directly influences:**  
 A) The color temperature of the image.  
-B) The shape and placement of shadows on the subject.  
+**B) The shape and placement of shadows on the subject.**  
 C) Whether the light is hard or soft.  
 D) Whether the light is natural or artificial.
 
 **18. In a studio, a flash unit firing directly into a large, parabolic umbrella aimed at the subject produces what kind of light?**  
 A) Direct, hard light  
 B) Indirect, soft light  
-C) Direct, soft light  
+**C) Direct, soft light**  
 D) Indirect, hard light
 
 **19. According to the notes, what is the defining characteristic of "Lowkey light"?**  
