@@ -39,17 +39,17 @@ Principles of good compositions
 
 Eight Methods of Compositions
 * Centered, Rule fo thirds, leading lines, Point of view (Low/high/close), framing, symmetry, patter/repetition, Foreground/Middle ground/Background
-1. Centered
+1. [[Centered]]
 	* Main subject is in middle of image frame
 	* Beginner photographer will do this shot
 	* Some consider bad comp technique
 	* Can be very powerful
 	* ![](Pasted%20image%2020251007221058.png)
-2. Rule of Thirds
+2. [[Rule of Thirds]]
 	*  When you compose your picture, mentally divide the photo into thirds, horizontally & vertically so that you have nine equal parts.
 	* With the grid in mind, identify the important points of interest and frame the photo so that the main subject is placed on one of the dividing lines.
 	* ![](Pasted%20image%2020251007221158.png) ![](Pasted%20image%2020251007221212.png) 
-3. Leading Lines
+3. [[Leading Lines]]
 	* eye is naturally drawn along lines.
 	* By using lines in your composition, you can affect the way we view the image.
 	* Lines can pull the eye into a picture, towards the subject, or on a journey "through" the scene.
@@ -57,7 +57,7 @@ Eight Methods of Compositions
 	* Architecture provides strong structural lines.
 	* Landscapes provide softer, more natural lines.
 	* ![](Pasted%20image%2020251007221322.png) ![](Pasted%20image%2020251007221333.png) ![](Pasted%20image%2020251007221346.png) 
-4. Point of View (Low/High/Close)
+4. [[Point of View]] (Low/High/Close)
 	1. A lot of beginners shoot everything at head height... which can lead to very predictable compositions.
 	2. Point of view is an aspect of composition that can add real drama to your subject.
 	3. Some different points of view composition include:
@@ -67,20 +67,19 @@ Eight Methods of Compositions
 		   ![](Pasted%20image%2020251007221448.png)
 		3. Close-Up (camera close to subject)
 		   ![](Pasted%20image%2020251007221500.png)
-5. Framing
+5. [[Framing]]
 	1. An image where the subject is framed by something.
 	2. You can use architectural elements like windows and archways...
 	   ![](Pasted%20image%2020251007221531.png)
-6. Symmetry
+6. [[Symmetry]]
 	1. SYMMETRY refers to a line (either horizontal or vertical) that splits the photo in half and, if both sides of the photo are an exact mirror image of each other, then this photo is said to be symmetrical.
 	2. ![](Pasted%20image%2020251007221616.png)
-7. Pattern/Repetition
+7. [[Pattern/Repetition]]
 	1. Emphasize pattern:
 		1. Fill your frame with any repeated occurrence of objects or shapes.
 	2. Break pattern:
-		1. Include a contrasting color, shape or texture that breaks the pattern, or a totally different object among a group of identical  
-objects.
-8. Foreground/Middle ground/ Background
+		1. Include a contrasting color, shape or texture that breaks the pattern, or a totally different object among a group of identical  objects.
+8. [[Foreground/Middle ground/ Background]]
 	1. Foreground is what is closest to the camera.
 	2. Background is the part of the image that is furthest away from the camera.
 	3. Middle ground is part of the image in between the foreground and the background.

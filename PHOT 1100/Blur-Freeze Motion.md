@@ -9,15 +9,16 @@ The effect of shutter speed on motion blur
 * Common Shutter Speed
 	* ![](Pasted%20image%2020251007222243.png)
 
-What does "Long Exposure" mean?
+What does "[[Long Exposure]]" mean?
 * Keeping shutter open for an extended period
 
 Exposure modes on Digital Cameras
 * ![](Pasted%20image%2020251007222446.png)
 * Equivalent exposure:
 	* If you change your shutter speed, you will need to adjust your aperture, and potentially ISO, to maintain a correct exposure.
+
 Assignment 2: Blur/Freeze motion
-* Blur motion
+* [[Blur motion]]
 	* Choose a moving subject and photograph it against a still background
 	* Secure your camera on a tripod. This ensures the static background is in sharp focus to contrast with the motion blur.
 	* Choose a shutter speed of 1/4 second or longer according to the available light and motion of the subject.
@@ -26,7 +27,7 @@ Assignment 2: Blur/Freeze motion
 		* Long shutter speed in daytime = too much light (over exposed)
 		* Car lights much more visible at night
 		* Poor Composition
-* Freeze motion
+* [[Freeze motion]]
 	* We can suspend a subject mid-movement to show that it is moving in space.
 	* Photograph a moving subject using a fast shutter speed to freeze everything in the image.
 	* Make sure your subject is in an obvious state of motion
@@ -39,7 +40,7 @@ Assignment 2: Blur/Freeze motion
 		* If you make your picture at night or indoors your camera will need a slower shutter speed to get enough light = motion blur
 		* Fast shutter will be under-exposed
 	* ![](Pasted%20image%2020251007223558.png)
-* Zoom
+* [[Zoom]]
 	* “zoom effect”
 	* It is best to use a stationary (not moving) subject.
 	* Mount camera on tripod.
@@ -54,7 +55,7 @@ Assignment 2: Blur/Freeze motion
 			* It is possible to do a zoom effect with post-production (But dont do it)
 			* Smooth Zooming: to get nice smooth motion lines in your photo you’ll need to zoom the lens smoothly. Keep zooming for the whole of the exposure.
 			* Getting a good zoom effect photo takes a lot of practice and experimentation and/or a bit of luck.
-* Panning
+* [[Panning]]
 	* We can move our camera along with a moving subject to show motion in the background.
 	* Blur motion
 		* Static background is clear with no blur. 
