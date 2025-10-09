@@ -21,4 +21,3 @@
 	* China in Asia
 	* Internal and external forces of change
 * China Today
-	* 
