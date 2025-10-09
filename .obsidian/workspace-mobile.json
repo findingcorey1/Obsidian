@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHOT 1100/Same Subject different Light.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Same Subject different Light"
+              "title": "README"
             }
           }
         ]
@@ -155,5 +155,7 @@
     }
   },
   "active": "90a199ee23bd2b03",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "PHOT 1100/Same Subject different Light.md"
+  ]
 }
