@@ -34,8 +34,11 @@
 	* Pottery from Majiyao culture (3100 - 2700 BCE)
 		* ![[Pasted image 20251009211520.png]]
 ### Longshan culture (3000 - 2000 BCE)
-* Societies had become stratified, a large number of ordered communities (wan guo - "ten thousands states")
-* Graves for the first time since farmers built villages and buried their dead in cemeteries outside those villages
+	* Societies had become stratified, a large number of ordered communities (wan guo - "ten thousands states")
+	* Graves for the first time since farmers built villages and buried their dead in cemeteries outside those villages
 	* material wealth became concentrated into the graves of small number of presumably special people
-* Hierarchical order in cluster of tombs (w large graves which were richly furnished) suggest segmentary lineage type of kinship organization, in which each lineage is stratified according to the distance from the stem
-* 
+	* Hierarchical order in cluster of tombs (w large graves which were richly furnished) suggest segmentary lineage type of kinship organization, in which each lineage is stratified according to the distance from the stem
+	* Shamans - small group of people within each community who were privileged to perform shamanistic ritual and were allowed to visit heaven (in graves of religious leaders or shamans - ritual axes of jade)
+	* Political power manifests itself in two aspects of ancient Chinese life – rituals and war
+	* These elites and their followers did not live in villages but in nodes of centres of power woven into networks large and small – political chiefdoms
+	* 
