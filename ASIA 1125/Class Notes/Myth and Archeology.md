@@ -9,4 +9,12 @@
 		* Often portrayed as a majestic figure in imperial robes, reflecting how divine order mirrors early bureaucracy
 		* Heavenly court functions much like the Chinese imperial court 
 			* With ministers, generals, scribes, and inspectors who report on human deeds
-	* Three sover
+	* Three sovereigns and Five emperors preceded Xia, According to Shi ji 史記 
+		* Scribe's record, 109 BCE Sima Qian
+	* Three Soveriegns (Fu xi, Nuwa and Shennong) were demigods, they used their abilities to help create mankind and educate essential skills and knowledge
+	* Five emperors weere exemplary sages with great moral character: 
+		* Yellow Emperor, Zhuanxu, Emperor Ku, Emperor Yao, Shun
+		* Fu xi and Nu wa (Couples) ![[Pasted image 20251009205311.png]]
+		* Shennong ![[Pasted image 20251009205346.png]]
+	* Founding myth: Yellow Emperor
+		* Huangdi 黄帝 (2697-2598 BCE) 
