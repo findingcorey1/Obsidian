@@ -34,4 +34,5 @@
 	* Pottery from Majiyao culture (3100 - 2700 BCE)
 		* ![[Pasted image 20251009211520.png]]
 ### Longshan culture (3000 - 2000 BCE)
-* Societies had become stratified, a large number of ordered communities (
+* Societies had become stratified, a large number of ordered communities (wan guo - "ten thousands states")
+* 
