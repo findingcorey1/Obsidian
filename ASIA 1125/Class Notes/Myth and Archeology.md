@@ -43,4 +43,6 @@
 	* These elites and their followers did not live in villages but in nodes of centres of power woven into networks large and small – political chiefdoms
 	* The Liangzhu site (Changzhou, Jiangsu) consists of more than dozen localities distributed over several square kilometers 
 	* Elements of writing – inscribed but yet to be deciphered pottery pieces
-	* 
+	* Longshan cultures was the context within which the earliest Chinese historical period began
+	* Three dynasties, Xia, Shang and Zhou,emerged from the Longshan base
+	* Bronze age, 2000-700 BCE: iron smelting technology, persistence of bronze objects
