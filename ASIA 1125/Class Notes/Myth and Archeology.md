@@ -46,3 +46,20 @@
 	* Longshan cultures was the context within which the earliest Chinese historical period began
 	* Three dynasties, Xia, Shang and Zhou,emerged from the Longshan base
 	* Bronze age, 2000-700 BCE: iron smelting technology, persistence of bronze objects
+
+### Erlitou Culture, 1900 – 1500 BCE
+* The Erlitou culture may have evolved from the matrix of Longshan culture; originally centered around Henan and Shanxi Province, the culture spread to Shaanxi and Hubei Province 
+* Erlitou monopolized the production of ritual bronze vessels, including the earliest recovered dings
+	* Bronze jue - wine vessel
+
+### Shu culture in Sichuan basin Sanxingdui 1300-1100 BCE
+* Sacrificial altar
+	* Three levels: 
+		  the bottom level is a circular b bearing a pair of fabulous animals,
+		  second level are 4 standing human fi supporting hills on their heads.
+		  The top level is a four-sided structure adorn with human figures and human-headed bird
+	* The 3 levels probably represents the vertical order of man, earth and heaven.
+	* Religious figure  ![[Pasted image 20251009220955.png]]
+	* Bronze figure  ![[Pasted image 20251009221013.png]]
+	* Massive bronze sacred tree (4 m) ![[Pasted image 20251009221035.png]]
+	* 
