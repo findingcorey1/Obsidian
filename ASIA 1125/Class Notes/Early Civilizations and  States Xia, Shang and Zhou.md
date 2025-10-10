@@ -16,4 +16,16 @@
 	* ![[Pasted image 20251009232549.png]]
 * According to tradition (Shi ji), the Xia dynasty (2070-1600 BCE) was established by the legendary Yu the Great after Shun, the last of the Five Emperors, gave his throne to him
 * Yu devised a system to flod controls that were crucial in establishing the prosperity of the chinese hearland 
-	* Yellow river and wei river (building irrigation canals which relieved floodwater into fields, and dredging the riverbe
+	* Yellow river and wei river (building irrigation canals which relieved floodwater into fields, and dredging the riverbeds)
+* Yu believed to have been a man of the common people
+	* The project renown status, and is referred to in chinese history as "Great tu controls the water"   (大禹治水 Da Yu Zhi Shui)  
+* King Shun, who reigned after Yao, was so impressed by Yu’s work that he passed the throne to Yu instead of to his own son
+* Yu the great
+	* ![[Pasted image 20251009232947.png]]
+* Yu is said to have initially declined the throne, but was so popular with other local lords and chiefs that he agreed to become the new emperor, at the age of fifty-three
+* He established a capital at Anyi, the ruins of which are in modern Xia County in southern Shanxi Province 
+* Yu divided the realm into nine provinces (zhou)
+* Xia is described as dynasty (Xia benji – Basic annals of Xia), as Yu was succeeded by his son Qi
+* Tracing Chinese history from the heroic emperors to the Xia to succeeding dynasties stems from the idea of the Mandate of Heaven: only one legitimate dynasty can exist at any given time (Confucian school in the Eastern Zhou period) – basic concept of imperial historiography
+* Is Xia dynasty the beginning of Chinese “history”?
+	* 
