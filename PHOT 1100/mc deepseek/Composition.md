@@ -67,11 +67,11 @@ D) Framing
 **11. In the "Foreground/Middle ground/Background" principle, what is the "middle ground"?**
 A) The part of the image that is closest to the camera.
 B) The part of the image that is furthest from the camera.
-C) The part of the image in between the foreground and background.
+**C) The part of the image in between the foreground and background.**
 D) The main subject of the photograph.
 
 **12. According to the notes, what is a common pitfall of a "bad composition"?**
-A) The viewer's eye wanders and isn't sure where to focus.
+**A) The viewer's eye wanders and isn't sure where to focus.**
 B) The image is always underexposed.
 C) The subject is always too small.
 D) The background is always completely blurred.
@@ -79,23 +79,23 @@ D) The background is always completely blurred.
 **13. Which of the following is NOT listed as one of the eight methods of composition?**
 A) Rule of Thirds
 B) Leading Lines
-C) Golden Ratio
+**C) Golden Ratio**
 D) Symmetry
 
 **14. A "Bird's Eye View" point of view is achieved by:**
 A) Placing the camera at a worm's eye level.
 B) Placing the camera very close to the subject.
-C) Placing the camera up high, looking down.
+**C) Placing the camera up high, looking down.**
 D) Placing the camera at the subject's eye level.
 
 **15. The principle that "every photograph should have a clear subject" relates most directly to which concept?**
-A) Simplicity
+**A) Simplicity**
 B) Pattern/Repetition
 C) Metadata
 D) Shutter Speed
 
 **16. Breaking a pattern in a composition can be achieved by:**
-A) Including a contrasting color or shape that interrupts the repetition.
+**A) Including a contrasting color or shape that interrupts the repetition.**
 B) Ensuring all elements are perfectly identical.
 C) Blurring the background completely.
 D) Placing the pattern in the center of the frame.
@@ -103,25 +103,25 @@ D) Placing the pattern in the center of the frame.
 **17. What information is typically included in a photograph's metadata?**
 A) The photographer's personal thoughts about the image.
 B) The price of the camera used.
-C) The date, camera model, and exposure settings (aperture, shutter speed, ISO).
+**C) The date, camera model, and exposure settings (aperture, shutter speed, ISO).**
 D) The compositional rules applied to the image.
 
 **18. A centered composition is often considered:**
 A) A technique only for professional photographers.
-B) A beginner's technique, but it can be very powerful when used intentionally.
+**B) A beginner's technique, but it can be very powerful when used intentionally.**
 C) The only correct way to compose a portrait.
 D) A violation of the Rule of Thirds and therefore always bad.
 
 **19. The notes suggest that a common mistake beginners make with point of view is:**
 A) Shooting from too many different angles.
-B) Shooting everything from head height, leading to predictable compositions.
+**B) Shooting everything from head height, leading to predictable compositions.**
 C) Always shooting from a worm's eye view.
 D) Never changing their distance from the subject.
 
 **20. In a composition, the "background" should ideally:**
 A) Be the brightest part of the image.
 B) Compete with the subject for the viewer's attention.
-C) Not distract from the main subject.
+**C) Not distract from the main subject.**
 D) Always be out of focus.
 
 ***
