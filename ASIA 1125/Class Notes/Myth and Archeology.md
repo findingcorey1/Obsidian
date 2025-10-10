@@ -1,4 +1,4 @@
-* China
+### China
 	* Jade Emperor’s (Yu Huang Dadi 玉皇大帝 ) story functions as a cosmogonic myth
 		* myth about the beginning of the universe and the worlds order
 	* In mythology, the hade emperor was once a prince in an ancient kingdom
@@ -17,4 +17,9 @@
 		* Fu xi and Nu wa (Couples) ![[Pasted image 20251009205311.png]]
 		* Shennong ![[Pasted image 20251009205346.png]]
 	* Founding myth: Yellow Emperor
-		* Huangdi 黄帝 (2697-2598 BCE) 
+		* Huangdi 黄帝 (2697-2598 BCE) - the ancestor of Huaxia
+			* concept of Chinese civilization
+		* Yellow Emperor and his court officials are credited with the institutions of rule are credited with the institutions of rule, sophisticated calendars, and writing
+	* Jianhu and Peiligang culture (around 7000 - 5000 BCE) (Henan, Yellow River)
+		* one of the earliest northern villages, with millet farming, music (bone flutes), and proto writing
+	*Shangshan (9400 - 6600) BCE
