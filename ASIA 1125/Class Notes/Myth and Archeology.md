@@ -22,4 +22,9 @@
 		* Yellow Emperor and his court officials are credited with the institutions of rule are credited with the institutions of rule, sophisticated calendars, and writing
 	* Jianhu and Peiligang culture (around 7000 - 5000 BCE) (Henan, Yellow River)
 		* one of the earliest northern villages, with millet farming, music (bone flutes), and proto writing
-	*Shangshan (9400 - 6600) BCE
+	*Shangshan (9400 - 6600 BCE) (Early Neolithic)
+		Early village, linked to the origins of rice agriculture in the south (Yangzi Valley)
+		Togther, they show that the roots of Chinese civization came form both the Yangzi (Rice) and (Millet) basins
+
+### Nuanxhuangtou culture (9500 - 9000 BCE)
+* 
