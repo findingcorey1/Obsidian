@@ -28,4 +28,12 @@
 * Xia is described as dynasty (Xia benji – Basic annals of Xia), as Yu was succeeded by his son Qi
 * Tracing Chinese history from the heroic emperors to the Xia to succeeding dynasties stems from the idea of the Mandate of Heaven: only one legitimate dynasty can exist at any given time (Confucian school in the Eastern Zhou period) – basic concept of imperial historiography
 * Is Xia dynasty the beginning of Chinese “history”?
-	* 
+	* In traditional Chinese historiography it is unquestioned because the sequence of the Three Sovereigns (Three August Ones), the Five Emperors and the Three Dynasties (Xia, Shang and Zhou) lay at the root of every Chinese person’s idea of the beginning of Chinese history
+	* But later Chinese historiography pointed to the mythical nature of Yu
+* Aspects of the Xia are the opposite of emblematic traits of the Shang dynasty: while the Shang represent fire or the sun, birds and the east, the Xia represent the west and water (Sarah Alan)
+* The development of this mythical Xia was necessary for the Zhou dynasty, who justified their conquest of the Shang by noting that the Shang had supplanted the Xia
+* Peer polity interaction (Renfrew): state formation is intelligible only in terms of multiple units and regions; in China Xia, Shang and Zhou dynasties probably overlapped one another rather than succeeding one other through warfare and annihilation
+* Sima Qian selected Xia among contemporary polities perhaps because in the earliest part of the Chinese Bronze Age it was the most powerful
+* In 2011, Chinese archaeologists uncovered the remains of an imperial sized palace (from about 1700 BCE) at Erlitou in Henan, evidence for Xia dynasty
+
+### Shang dynasty, 1600 - 1046 BC
