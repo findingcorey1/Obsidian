@@ -42,13 +42,13 @@ D) Selective depth of field
 
 **7. How does moving your subject closer to the camera affect depth of field?**
 A) It creates a deeper depth of field
-B) It creates a shallower depth of field
+==B) It creates a shallower depth of field==
 C) It has no effect on depth of field
 **D) It only affects background blur but not foreground sharpness**
 
 **8. When using a longer focal length (zooming in), what happens to the depth of field?**
 **A) It becomes deeper**
-B) It becomes shallower
+==B) It becomes shallower==
 C) It remains unchanged
 D) It becomes unpredictable
 
@@ -72,14 +72,14 @@ D) Entirely in front of the subject
 
 **12. What happens to depth of field as you zoom your lens to a longer focal length (assuming aperture and focus point remain the same)?**
 A) The depth of field increases
-B) The depth of field decreases
+==B) The depth of field decreases==
 **C) The depth of field remains the same**
 D) The depth of field becomes unpredictable
 
 **13. Which setting has NO direct effect on depth of field?**
 **A) Aperture**
 B) Focal length
-C) Shutter speed
+==C) Shutter speed==
 D) Subject distance
 
 **14. What is the relationship between aperture size and depth of field?**
@@ -90,37 +90,37 @@ D) Smaller apertures (larger f-numbers) create shallower depth of field
 
 **15. When focusing very close to the camera, what characteristic does the depth of field typically have?**
 A) It becomes deeper
-B) It becomes shallower
+==B) It becomes shallower==
 C) It becomes evenly distributed front and back
 D) It extends only behind the subject
 
 **16. For a portrait where you want the subject's face sharp but the background blurry, which combination would be most effective?**
 A) Small aperture (f/16) and wide lens
-B) Large aperture (f/2.8) and telephoto lens
+**B) Large aperture (f/2.8) and telephoto lens**
 C) Small aperture (f/16) and telephoto lens
 D) Large aperture (f/2.8) and wide lens
 
 **17. In equivalent exposure, if you change your aperture from f/5.6 to f/11 (making it smaller), and want to maintain the same exposure, what should you do?**
-A) Increase your shutter speed
-B) Decrease your shutter speed
+**A) Increase your shutter speed**
+==B) Decrease your shutter speed==
 C) Increase your ISO
 D) Change your focal length
 
 **18. What is the primary reason f/16 would be problematic for street photography in normal daylight?**
 A) It creates too much background blur
-B) It doesn't let in enough light, requiring a slower shutter speed that might cause blur
+**B) It doesn't let in enough light, requiring a slower shutter speed that might cause blur**
 C) It makes the depth of field too shallow
 D) It causes excessive noise in the image
 
 **19. When your subject is close to the camera, how is the depth of field distributed around the point of focus?**
-A) Approximately 50% in front and 50% behind the subject
+**A) Approximately 50% in front and 50% behind the subject**
 B) 100% behind the subject
 C) Approximately 1/3 in front and 2/3 behind the subject
 D) Entirely in front of the subject
 
 **20. What problem might occur when trying to demonstrate depth of field differences without a tripod?**
 A) The aperture settings won't work properly
-B) The camera may move between shots, making comparisons difficult
+**B) The camera may move between shots, making comparisons difficult**
 C) The ISO will automatically adjust
 D) The focal length will change unexpectedly
 
