@@ -45,79 +45,79 @@ D) Any shutter speed, as long as the aperture is wide open
 **8. According to the analogy in the notes, exposure is like filling a glass with water. In this analogy, what does the water represent?**  
 A) Color  
 B) Focus  
-C) Light  
+**C) Light**  
 D) Time
 
 **9. What does a "stop" refer to in photography?**  
 A) The mechanism that closes the aperture  
-B) A doubling or halving of the amount of light let in when taking a photo  
+**B) A doubling or halving of the amount of light let in when taking a photo**  
 C) The moment the shutter button is pressed  
 D) The lowest possible ISO setting
 
 **10. What is the primary function of the camera's light meter?**  
 A) To measure the distance to the subject  
-B) To indicate whether your image will be correctly exposed, underexposed, or overexposed before you take the shot  
+**B) To indicate whether your image will be correctly exposed, underexposed, or overexposed before you take the shot**  
 C) To automatically focus on the subject  
 D) To set the white balance for the scene
 
 **11. Why is Manual (M) mode considered the best for learning exposure?**  
 A) Because it is the easiest and fastest mode to use.  
 B) Because it gives the camera full control, ensuring perfect results.  
-C) Because it gives you full control, making you think about the settings and teaching you the essential skill of exposure.  
+**C) Because it gives you full control, making you think about the settings and teaching you the essential skill of exposure.**  
 D) Because it automatically brackets exposures for HDR images.
 
 **12. What is the function of the diopter control on a camera?**  
 A) It controls the aperture size.  
-B) It changes the viewfinder's focus to match your eyesight.  
+**B) It changes the viewfinder's focus to match your eyesight.**  
 C) It adjusts the shutter speed.  
 D) It sets the ISO sensitivity.
 
 **13. In Aperture Priority (Av) mode, what does the photographer control?**  
 A) The photographer chooses the shutter speed, and the camera chooses the aperture.  
-B) The photographer chooses the aperture, and the camera chooses the shutter speed.  
+**B) The photographer chooses the aperture, and the camera chooses the shutter speed.**  
 C) The photographer controls both the aperture and shutter speed.  
 D) The camera makes all exposure decisions.
 
 **14. What is a general rule for using ISO?**  
 A) Always use the highest ISO for the brightest images.  
-B) Use the lowest ISO you possibly can to minimize noise.  
+**B) Use the lowest ISO you possibly can to minimize noise.**  
 C) ISO should always be set to Auto.  
 D) ISO only affects black and white images.
 
 **15. Which factor does NOT influence depth of field?**  
 A) Aperture  
 B) Distance between camera and subject  
-C) Shutter Speed  
-D) Focal length
+==C) Shutter Speed==  
+**D) Focal length**
 
 **16. If a scene is "overexposed," what has happened?**  
 A) Not enough light has reached the sensor, resulting in a dark image.  
-B) Too much light has reached the sensor, resulting in a too-bright image.  
+**B) Too much light has reached the sensor, resulting in a too-bright image.**  
 C) The camera has focused on the wrong subject.  
 D) The image has too much noise or grain.
 
 **17. What is the primary consequence of a very slow shutter speed (e.g., 1/15 or slower)?**  
 A) It will freeze all motion in the scene.  
-B) It can create motion blur in the image.  
+**B) It can create motion blur in the image.**  
 C) It will make the image underexposed.  
 D) It will decrease the depth of field.
 
 **18. In Shutter Priority (Tv) mode, what does the photographer control?**  
-A) The photographer chooses the shutter speed, and the camera chooses the aperture.  
+**A) The photographer chooses the shutter speed, and the camera chooses the aperture.**  
 B) The photographer chooses the aperture, and the camera chooses the shutter speed.  
 C) The photographer controls both the aperture and shutter speed.  
 D) The camera makes all exposure decisions.
 
 **19. The Bulb (B) shutter speed setting is used to:**  
 A) Take the fastest possible photo.  
-B) Hold the shutter open for as long as the shutter button is pressed.  
+**B) Hold the shutter open for as long as the shutter button is pressed.**  
 C) Automatically focus on a moving subject.  
 D) Set the camera to its highest ISO.
 
 **20. What is the main trade-off when increasing the ISO to achieve a correct exposure in low light?**  
 A) Increased depth of field  
 B) Increased motion blur  
-C) Increased noise or grain in the picture  
+**C) Increased noise or grain in the picture**  
 D) Decreased color saturation
 
 ---
