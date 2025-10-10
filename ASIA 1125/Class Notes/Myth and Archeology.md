@@ -35,4 +35,6 @@
 		* ![[Pasted image 20251009211520.png]]
 ### Longshan culture (3000 - 2000 BCE)
 * Societies had become stratified, a large number of ordered communities (wan guo - "ten thousands states")
+* Graves for the first time since farmers built villages and buried their dead in cemeteries outside those villages
+	* material wealth became concentrated into the graves of small number of presumably special people
 * 
