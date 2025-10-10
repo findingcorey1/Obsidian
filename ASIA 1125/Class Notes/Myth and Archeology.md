@@ -41,4 +41,6 @@
 	* Shamans - small group of people within each community who were privileged to perform shamanistic ritual and were allowed to visit heaven (in graves of religious leaders or shamans - ritual axes of jade)
 	* Political power manifests itself in two aspects of ancient Chinese life – rituals and war
 	* These elites and their followers did not live in villages but in nodes of centres of power woven into networks large and small – political chiefdoms
+	* The Liangzhu site (Changzhou, Jiangsu) consists of more than dozen localities distributed over several square kilometers 
+	* Elements of writing – inscribed but yet to be deciphered pottery pieces
 	* 
