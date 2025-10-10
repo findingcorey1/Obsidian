@@ -62,4 +62,14 @@
 	* Religious figure  ![[Pasted image 20251009220955.png]]
 	* Bronze figure  ![[Pasted image 20251009221013.png]]
 	* Massive bronze sacred tree (4 m) ![[Pasted image 20251009221035.png]]
-	* 
+	* Bronze mythical beast ![[Pasted image 20251009221153.png]]
+	* Bronze figure with officer's cap ![[Pasted image 20251009221224.png]]
+	* Bronze mask ![[Pasted image 20251009221233.png]]
+	* Bronze birds ![[Pasted image 20251009221249.png]]
+	* Jade Blades ![[Pasted image 20251009221312.png]]
+
+### Xia dynasty, c. 2070- c. 1600 BCE
+
+### Shang dynasty, 1600 - 1046 BCE
+
+### Zhou dynasty, 1046 – 256 BCE
