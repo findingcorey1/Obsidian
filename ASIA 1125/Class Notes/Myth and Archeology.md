@@ -1,5 +1,5 @@
 ### China
-	* Jade Emperor’s (Yu Huang Dadi 玉皇大帝 ) story functions as a cosmogonic myth
+	Jade Emperor’s (Yu Huang Dadi 玉皇大帝 ) story functions as a cosmogonic myth
 		* myth about the beginning of the universe and the worlds order
 	* In mythology, the hade emperor was once a prince in an ancient kingdom
 		* known for his kindness, compassion, and deep sense of justice, he practiced virtue for thousands of yuears
@@ -27,4 +27,9 @@
 		Togther, they show that the roots of Chinese civization came form both the Yangzi (Rice) and (Millet) basins
 
 ### Nuanxhuangtou culture (9500 - 9000 BCE)
-* 
+* Earliest Neolithic site in Hebei
+	* Pottery, millet, cultivation
+* Neolithic Culture
+	* ![[Pasted image 20251009211443.png]]
+	* Pottery from Majiyao culture (3100 - 2700 BCE)
+	* 
