@@ -67,10 +67,22 @@
 * At Jiahu neolithic settlement (7000-5800 BCE), archaeologists identified eleven markings of Jiahu symbols, also known as pictograms: nine on tortoise shells and two on bone, as possible evidence for proto- writing or sign-use, which led later to writing system
 * The king read the cracks and concluded that his wife’s birth would go well, as long as she gives birth on one of two days in a ten-day cycle (ding or geng day); the king usually did the prognostications although he could rely also on the priest to read the cracks
 * Another version of divination on the left side phrases the charge negatively:
-* Essay type
+	* Essay type
 	* [Preface] Crackmaking on jiashen (day twenty-  one), Que divined:  
 	* [Charge/topic] “Lady Hao will give birth and it  may not be good.”  
 	* [Verification] After thirty one days, on jiayin  (day fifty-one), she gave birth. It was not good.  It was a girl.
 * The two sides of the text, one phrased positively, the other negatively, allowed diviners to test different sides of the proposition
 * The largely positive nature of the oracle bone texts, which usually record good weather or victories, suggests that even the bones may have been censored, so those recording positive outcomes were kept
-* 
+* But the important text of Lady Hao’s childbirth shows that the Shang recorded failed prognostications in addition to their successes 
+* The king made offerings to ancestors; divine hierarchy: ancestors - distant ones were more powerful, communicating with supreme deity Di and nature gods
+* Hierarchy in society – royal lineage and it branches (K.C Chang – the royal lineage was divided into ten groups or branches and succession alternated between them)
+* Members of the royal lineage and the women from families that could marry them constituted the aristocracy
+* Also privileged, though less so, were court officials and landed lords who organized in lineages and branches as well
+* Further were “the multitude” who cleared and cultivated the land
+* Hierarchy defined even the relationships among corpses: noble-born accompaniers-in- death (in coffins near the ruler) ranked first after the Shang kings; the bodies of tomb guards lay near their weapons; at the base came prisoners of war, whose heads and limbs were cut off and then buried
+* Many of prisoners were from Qiang people, who lived west of the Shang; they constituted a large workforce
+* The Shang king travelled frequently with his entourage collecting livestock from localities; his officials did not collect taxes on regular bases
+* King’s camp served as shifting base of operations rather than a fixed capital
+* The area under Shang direct control stretched from Anyang to a point 200 km west
+* Shang kings could mobilize thousands of people to carry out large projects like clearing land and building tombs; they could order mass killings of Qiang slaves
+* If the Shang formed a state, it was a soft state, whose stability depended on king’s frequent visits to his subordinates and their domains, and whose bureaucracy remained divine rather than human
