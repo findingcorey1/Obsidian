@@ -37,3 +37,4 @@
 * In 2011, Chinese archaeologists uncovered the remains of an imperial sized palace (from about 1700 BCE) at Erlitou in Henan, evidence for Xia dynasty
 
 ### Shang dynasty, 1600 - 1046 BC
+* Qi's (Yu's son_ descendant Tang (recorded as Da Yi, 1675-1646 BCE) overthew the impious and cruel final xia ruler Jie in the battl
