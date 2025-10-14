@@ -51,4 +51,26 @@
 	* Bronze axe
 		* ![[Pasted image 20251014160159.png]]
 * Writing system 1200 BCE, inscriptions on turtle shells and scapula bones in Anyang sites – oracle bone inscriptions, divination
-* As early as 4000 BCE diviners heated scapulas to solicit the opinion of the spirits but only some 3000 years later, at Anyang, did they write down the questions and the interpretations of the cracks  The scribes used complex language with a clear grammatical structure that these peoples had developed a script several hundred years before they wrote on the oracle bones Divination
+* As early as 4000 BCE diviners heated scapulas to solicit the opinion of the spirits but only some 3000 years later, at Anyang, did they write down the questions and the interpretations of the cracks
+* The scribes used complex language with a clear grammatical structure that these peoples had developed a script several hundred years before they wrote on the oracle bones
+	* Divination inscription, reign of King Wu Ding
+		* ![[Pasted image 20251014160305.png]]
+	* Oracle bone pit, Anyang
+		* ![[Pasted image 20251014160324.png]]
+* Essay Type
+	* [Preface] Crackmaking on jiashen (day twenty-  one), Que divined:  
+	* [Charge/topic] “Lady Hao’s childbearing will be good.”  
+	* [Prognostication] The king read the cracks  and said: “If it be on ding day that she gives  birth, it will be good. If it be on a geng day  that she gives birth, there will be prolonged  luck.”  
+	* [Verification] After thirty one days, on jiayin  (day fifty-one), she gave birth. It was not good.  It was a girl.
+* Oracle bone of Lady Hao’s childbirth
+	* ![[Pasted image 20251014160547.png]]
+* At Jiahu neolithic settlement (7000-5800 BCE), archaeologists identified eleven markings of Jiahu symbols, also known as pictograms: nine on tortoise shells and two on bone, as possible evidence for proto- writing or sign-use, which led later to writing system
+* The king read the cracks and concluded that his wife’s birth would go well, as long as she gives birth on one of two days in a ten-day cycle (ding or geng day); the king usually did the prognostications although he could rely also on the priest to read the cracks
+* Another version of divination on the left side phrases the charge negatively:
+* Essay type
+	* [Preface] Crackmaking on jiashen (day twenty-  one), Que divined:  
+	* [Charge/topic] “Lady Hao will give birth and it  may not be good.”  
+	* [Verification] After thirty one days, on jiayin  (day fifty-one), she gave birth. It was not good.  It was a girl.
+* The two sides of the text, one phrased positively, the other negatively, allowed diviners to test different sides of the proposition
+* The largely positive nature of the oracle bone texts, which usually record good weather or victories, suggests that even the bones may have been censored, so those recording positive outcomes were kept
+* 
