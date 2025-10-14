@@ -37,4 +37,18 @@
 * In 2011, Chinese archaeologists uncovered the remains of an imperial sized palace (from about 1700 BCE) at Erlitou in Henan, evidence for Xia dynasty
 
 ### Shang dynasty, 1600 - 1046 BC
-* Qi's (Yu's son_ descendant Tang (recorded as Da Yi, 1675-1646 BCE) overthew the impious and cruel final xia ruler Jie in the battl
+* Qi's (Yu's son_ descendant Tang (recorded as Da Yi, 1675-1646 BCE) overthew the impious and cruel final Xia ruler Jie in the battle of Mingtao and became the first king of Shang
+* Wu ding was the 11th king (reign 1250-1192 BCE) of the Shang (17 Kings) and the earliest figure in the history of the Chinese dynasties who has been confirmed by contemporary records
+* Archaeological record suggest that during the first half of second millennium BCE urban societies arose in the Yellow River region
+* About 1500 BCE a major state formation (coincided with Shang in the records) emerged there and expanded outwards to rule, perhaps briefly, larger territories
+* By about 1300 BCE that state retreated likely under pressure from newer polities that had formed on its broders
+* In the next few centuries there was network of interacting entities, among them the one that ruled at Anyang (Shang) which became a major settlement about 1200 BCE
+* The horse-drawn chariot (a borrowing which implies contact with northern zone), appeared at Anyang, and the tomb of Fu Hao contained artifacts from many different sources, indicating interaction between Anyang and various neighbors
+* The material culture evidence shows that the most civilized neighbors of Anyang kings were in the Yangzi region
+* But in the 11th century BCE Shang (Anyang) dynasty fell to Zhou , less civilized contemporaries from Wei River valley
+	* Shang Dynasty two-handled bronze vessel
+		* ![[Pasted image 20251014160150.png]]
+	* Bronze axe
+		* ![[Pasted image 20251014160159.png]]
+* Writing system 1200 BCE, inscriptions on turtle shells and scapula bones in Anyang sites – oracle bone inscriptions, divination
+* As early as 4000 BCE diviners heated scapulas to solicit the opinion of the spirits but only some 3000 years later, at Anyang, did they write down the questions and the interpretations of the cracks  The scribes used complex language with a clear grammatical structure that these peoples had developed a script several hundred years before they wrote on the oracle bones Divination
