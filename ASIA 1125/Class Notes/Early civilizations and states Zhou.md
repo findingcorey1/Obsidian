@@ -17,4 +17,8 @@
 * Set an example for all succeeding dynasties, who would claim they had defeated the previous dynasty not because of superior strength but because their supreme deity, Heaven, had willed them to do so
 * For Zhou people Heaven represented supreme divine force (what Di was for Shang) – similar to the concept of cosmos
 * Later thinkers interpreted the Mandate of Heaven as a check on evil rulers
+* If an emperor could not govern the Heaven would show that it had withdrawn support by sending disasters, unusual celestial events or man-made disasters like peasant rebellions (some philosophers argued that people had the right to rebel against a bad king)
+* Zhou recognized only patrilineal primogeniture as legal
+* The decentralized system became strained as the familial relationships between the Zhou kings and the regional dynasties thinned over the generations
+* Peripheral territories developed local power and prestige rivalling that of the Zhou
 * 
