@@ -22,4 +22,6 @@
 * The decentralized system became strained as the familial relationships between the Zhou kings and the regional dynasties thinned over the generations
 * Peripheral territories developed local power and prestige rivalling that of the Zhou
 	* ![[Pasted image 20251014165207.png]]
+* Continuities between Shang and Zhou: Zhou kings consulted oracle bones and at the same time they consulted the hexagrams (six broken or unbroken lines, king Wen sequence of sixty-four divination figures) indicated by the yarrow stalks
+* Zhou kings’ subjects used oracles to determine whether they should marry or what the ancestors were saying during their ceremonies
 * 
