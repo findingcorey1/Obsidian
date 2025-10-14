@@ -21,4 +21,5 @@
 * Zhou recognized only patrilineal primogeniture as legal
 * The decentralized system became strained as the familial relationships between the Zhou kings and the regional dynasties thinned over the generations
 * Peripheral territories developed local power and prestige rivalling that of the Zhou
+	* ![[Pasted image 20251014165207.png]]
 * 
