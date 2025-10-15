@@ -6,4 +6,10 @@
 * The Qin ruler used the bureaucracy to build a war machine
 * The state created by Qin survived for only fourteen years, and its successor, the Han dynasty, ruled China for the next four centuries 
 * The architect of Qin success was Shang Yang, a powerful prime minister, who initiated series of reforms to build a strong legalist state in 359 BC
+* The Legalists (fajia “law experts”) abolished intermediaries between cultivators and the state, extending earlier attempts of Warring States to establish direct link between ruler and subjects
+* Registers listed members of groups of five and ten who bore mutual responsibility should one commit a crime
+* Minister Shang divided Qin society into interlocking units, (smallest were five and ten households); these units formed larger units of county (xian) which provided local government’s services
+* County officials organized the army, carried out public works, collected taxes, and administered justice; the state reached from the county and reached down to the lowest unit of land (individual’s field)
+* Statue of Yang Shang
+	* ![[Pasted image 20251014191040.png]]
 * 
