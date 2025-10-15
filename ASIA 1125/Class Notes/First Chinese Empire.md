@@ -38,4 +38,13 @@
 * Standardization of the script, the Small Seal replaced the Large Seal script (used by Warring States with reginal variations), and the Qin officials discouraged the use of different variants for the same character
 * The rulers ensured linguistic unity even when the empire was no longer unified; the Small Seal script was replaced by the succeeding dynasty, clerical script, with characters used today)
 * Large-scale book burning in 213 BCE to eliminate different viewpoints; Confucian classics (The Book of Songs and Book of Documents) were banned along annals of earlier kings
-* 
+* The terracotta army (7,300 figures) – model army of the Qin founder; lifelike sculptures buried in a tomb east of modern city of Xian; seven kinds of uniform depending on the unit 
+* Terracotta army
+	* ![[Pasted image 20251014212145.png]]
+* Bronze chariot
+	* ![[Pasted image 20251014212158.png]]
+* When Qin died in 210 BCE, he named his first son Fusu to succeed him, but a powerful eunuch Zha Gao placed another son Huhai (Qin Ershi) on the throne by altering first emperor’s will together with prime minister Li Si and forging letter ordering the first son to commit suicide
+* The Qin founder was the first ruler to put an eunuch in important advisory position (Zhou or perhaps also Shang rulers placed castrated men to take care of their wives and concubines, giving them considerable access to the ruler and women’s quarters)
+* Qin Er Shi executed officials and imperial princes, killed messengers who brought bad news, launched extravagant projects, enlarged army, increased taxes
+* In 207 BCE, people revolted killing officials and raising armies; Zha Gao forced the second Qin emperor to commit suicide 
+* Gao ordered the killing of Legalist chancellor Li Si and became a chancellor himself in 208 BCE
