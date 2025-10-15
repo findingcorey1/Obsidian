@@ -7,9 +7,9 @@ Identification Question:
 	2. Sites along Oma river, ethiopia yield the earliest fossil evidence for anatomically modern homosapiens, about 200,000 years ago
 	3. Mitochondrial Eve is the matrilineal most recent common ancestor (MRCA) of all currently living humans (between 100,000 and 200,000 years ago)
 	* Emergence of M and N mitochondrial haplogroups – around 70,00 to 60,000 years ago, migration out of Africa (home sapiens who migrated may have interbred with Neanderthals they encountered)
-3. [Cognitive revolution](School/ASIA1125/ClassNotes/The Beginning)
-4. 
-	1. 
+3. Cognitive revolution
+	1. Sapiens started to form more elaborate strucutures 
+	2. 
 4. Neolithic (agricultural) revolution  
 5. Jade Emperor  
 6. Yellow Emperor  
