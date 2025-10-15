@@ -7,14 +7,17 @@ Identification Question:
 	2. Sites along Oma river, Ethiopia yield the earliest fossil evidence for anatomically modern homo sapiens, about 200,000 years ago
 	3. Mitochondrial Eve is the matrilineal most recent common ancestor (MRCA) of all currently living humans (between 100,000 and 200,000 years ago)
 	* Emergence of M and N mitochondrial haplogroups – around 70,00 to 60,000 years ago, migration out of Africa (home sapiens who migrated may have interbred with Neanderthals they encountered)
-3. Cognitive revolution
+3. [Cognitive revolution]()
 	1. Started approx. 70,000 years ago, at that time they developed language and communication
 	2. Sapiens started to form more elaborate structures called cultures (70,000 years ago
 	3. History is the development of human cultures
 		1. History chronicles the evolution of human societies including belief, behaviors, and traditions
 	4. 60-70,000 years ago sapiens left for a second time
 		1. Spread out of Africa called the first wave of human globalization colonization
-		2. Great leap also happened at this time, known as "
+		2. Great leap also happened at this time, known as "==<u>behavioral modernity</u>=="
+			1. <u>Behavioral and cognitive traits</u> that distinguish homo sapiens as sapiens as compared to other anatomically modem humans 
+			2. <u>Traits</u> included: Burial, fishing, giurative art (cave painting, figurines), self ornaments (jewelry, ochre), bone tools and blade technology, transportation, distinct artifacts (region specific), fireplaces
+		3. 
 4. Neolithic (agricultural) revolution  
 5. Jade Emperor  
 6. Yellow Emperor  
