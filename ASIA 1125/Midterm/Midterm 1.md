@@ -77,6 +77,13 @@ Identification Question:
 13. Xia dynasty  
 	1. Dated back in 2070 - 1600 BCE
 	2. Closely associated with Erlitou culture (ca. 1900–1500 BCE), but the connection is debated
+		1. Erlitou culture was discovered in Henan province and represents the earliest large- scale Bronze Age culture in China
+		2. featured urban centers, palatial complexes, bronze casting workshops, and evidence of early state-level organization
+		3. Dating and location overlapped with the xia timeline that it made it a prime candidate
+		4. Chinese scholarship treat erlitou as the archaeological reflection of Xia
+		5. Western scholars called erlitou simply an early bronze culture
+		6. Crucial, directly represents the transition from neolithic societies to the earliest state in china 
+	3. was established by Yu the greate after shun, last of the five emperors 
 14. Shang dynasty  
 15. Wu Ding  
 16. Fu Hao  
