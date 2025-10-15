@@ -73,7 +73,9 @@ Identification Question:
 		8. Jade Blades
 12. Late bronze culture 
 	1. During the Shang Dynasty
+	2. Shang Dynasty: ex. Two handled bronze vessel, bronze axe
 13. Xia dynasty  
+	1. 
 14. Shang dynasty  
 15. Wu Ding  
 16. Fu Hao  
