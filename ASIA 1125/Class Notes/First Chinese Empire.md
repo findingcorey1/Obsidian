@@ -18,4 +18,10 @@
 * King Zheng came to the throne in 246 at age of thirteen, and when he turned twenty-one, he took control of power and led the kingdom through fifteen years of all-out war that culminated with unification of China in 221 BCЕ 
 * Of the Seven Warring States, Qin eventually emerged the strongest and annexed the other six states
 * Han was the first to fall, in 230 BCЕ, while Qi was the last to surrender in 221 BCЕ
+* King Zheng of Qin took the title Shi Huangdi ( 秦始皇帝 , “First August Emperor of Qin), a new title composed by combining various honorifics previously used individually for various human or divine rulers
+* Huang” ( 皇 ) - august / exalted; 皇 as 白 + 王 (linked to mythic “Three Sovereigns,” especially the Yellow Emperor ( 黃帝 ); Huang 黃 as 艹 + 田 + 八 + 一 
+* “Di” 帝 - emperor (divine, taken from the “Five Emperors” of legend)
+* ![[Pasted image 20251014194935.png]]
+* Qin Shi Huang, king of Qin (247-220 BCЕ)  
+* Emperor (220-210)
 * 
