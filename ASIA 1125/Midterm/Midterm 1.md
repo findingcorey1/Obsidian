@@ -3,15 +3,18 @@ Identification Question:
 	1. Human skull found 40,000 BC, one found in Liujiang (aprox 68,000 years old)
 	2. Modern human reached <u>China</u> about 50,000 years ago. <u>Korean Peninsula</u> about 40-45,000 years ago, <u>Japan archipelago</u> about 35-38,000 years ago
 2. Out of Africa theory
-	1. Widely accepted theory/explanation that homosapiens first evolved in Africa and migrated to other parts of the world
-	2. Sites along Oma river, ethiopia yield the earliest fossil evidence for anatomically modern homosapiens, about 200,000 years ago
+	1. Widely accepted theory/explanation that homo sapiens first evolved in Africa and migrated to other parts of the world
+	2. Sites along Oma river, Ethiopia yield the earliest fossil evidence for anatomically modern homo sapiens, about 200,000 years ago
 	3. Mitochondrial Eve is the matrilineal most recent common ancestor (MRCA) of all currently living humans (between 100,000 and 200,000 years ago)
 	* Emergence of M and N mitochondrial haplogroups – around 70,00 to 60,000 years ago, migration out of Africa (home sapiens who migrated may have interbred with Neanderthals they encountered)
 3. Cognitive revolution
-	1. Sapiens started to form more elaborate structures called cultures (70,000 years ago
-	2. History is the development of human cultures
-		1. history chronicles the evolution of human societies includiong belief, behaviours, and traditions
-	3. 
+	1. Started approx. 70,000 years ago, at that time they developed language and communication
+	2. Sapiens started to form more elaborate structures called cultures (70,000 years ago
+	3. History is the development of human cultures
+		1. History chronicles the evolution of human societies including belief, behaviors, and traditions
+	4. 60-70,000 years ago sapiens left for a second time
+		1. Spread out of Africa called the first wave of human globalization colonization
+		2. Great leap also happened at this time, known as "
 4. Neolithic (agricultural) revolution  
 5. Jade Emperor  
 6. Yellow Emperor  
