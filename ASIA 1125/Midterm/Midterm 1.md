@@ -21,8 +21,9 @@ Identification Question:
 4. Neolithic (agricultural) revolution
 	1. It was the shift from hunting and gathering to farming and settled living
 		1. Domestication of plants and animals
-	2. Early centre of agricultureL Fertile Crescent (11,000BC), the Yangtze and Yellow River basins (9,000 BC)
+	2. Early Centre of agriculture Fertile Crescent (11,000BC), the Yangtze and Yellow River basins (9,000 BC)
 	3. transition to agriculture began around 9500-8500 BCE in the hill country of south-eastern Turkey, western Iran and the Levant
+	4. Dogs, sheep's and goats, pigs and cattle's were domesticated, 
 5. Jade Emperor  
 6. Yellow Emperor  
 7. Early modern humans (Home Sapiens) in China  
