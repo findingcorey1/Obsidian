@@ -19,7 +19,10 @@ Identification Question:
 			2. <u>Traits</u> included: Burial, fishing, giurative art (cave painting, figurines), self ornaments (jewelry, ochre), bone tools and blade technology, transportation, distinct artifacts (region specific), fireplaces
 			3. Appearance of new ways of thinking and communicating constitutes cognitive revolution 
 4. Neolithic (agricultural) revolution
-	1. 
+	1. It was the shift from hunting and gathering to farming and settled living
+		1. Domestication of plants and animals
+	2. Early centre of agricultureL Fertile Crescent (11,000BC), the Yangtze and Yellow River basins (9,000 BC)
+	3. transition to agriculture began around 9500-8500 BCE in the hill country of south-eastern Turkey, western Iran and the Levant
 5. Jade Emperor  
 6. Yellow Emperor  
 7. Early modern humans (Home Sapiens) in China  
