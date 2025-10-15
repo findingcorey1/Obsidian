@@ -24,4 +24,13 @@
 	* ![[Pasted image 20251014165207.png]]
 * Continuities between Shang and Zhou: Zhou kings consulted oracle bones and at the same time they consulted the hexagrams (six broken or unbroken lines, king Wen sequence of sixty-four divination figures) indicated by the yarrow stalks
 * Zhou kings’ subjects used oracles to determine whether they should marry or what the ancestors were saying during their ceremonies
-* 
+* Both Shang and Zhou people used their literacy to record campaigns against their voiceless neighbors, whom they pushed further away from the heartland of the Yellow River valley
+* Shang and Zhou were soft states with incipient form of taxation and uncertain borders; gifts from subjects to ruler provided the major source of royal income, and in exchange the kings granted their subjects land, ritual privileges to use certain tools
+* The kings could call on their subordinates to provide them with troops, while the subordinates could easily defect to the side of a ruler they thought more powerful
+* The Book of Songs (305 works dating from 11th to 7th centuries BCE) describes the obligations of farm laborers to their lord, whom they gave agricultural produce, hunted animals and cloth
+* Division of labor characterized the estate: men farmed and hunted, while women gathered mulberry leaves, spun thread, dyed textiles, and made clothing
+* Inscriptions of Zhou bells chime the prayers of the living for their sons and grandsons – not for their daughters and granddaughters (the precedence of sons over daughters is visible in early oracle bones and extends even to today's china)
+* Further weakening of royal authority
+* In 770 BCE, two dependent states made an alliance with some tribal peoples to overthrow the Zhou king
+* Local nobles declared Marquis of Shen’s grandson King Ping – beginning of Eastern Zhou (770 BCE); coincided with raid of Haojing (West Zhou capital) by Scythian tribes
+* The defeated Zhou shifted the capital east, near Louyang on Yellow River, where the king rules as s symbolic head over competing regional leaders, who commanded armies 
