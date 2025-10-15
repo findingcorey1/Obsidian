@@ -1,7 +1,7 @@
 Identification Question:
 1. Homo Sapiens  
 	1. Human skull found 40,000 BC, one found in Liujiang (aprox 68,000 years old)
-	2. Modern human reacehd china about 50,
+	2. Modern human reached <u>China</u> about 50,000 years ago. <u>Korean Peninsula</u> about 40-45,000 years ago, <u>Japan archipelago</u> about 35-38,000 years ago
 2. Out of Africa theory  
 3. Cognitive revolution  
 4. Neolithic (agricultural) revolution  
