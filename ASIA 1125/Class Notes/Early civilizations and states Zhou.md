@@ -33,4 +33,20 @@
 * Further weakening of royal authority
 * In 770 BCE, two dependent states made an alliance with some tribal peoples to overthrow the Zhou king
 * Local nobles declared Marquis of Shen’s grandson King Ping – beginning of Eastern Zhou (770 BCE); coincided with raid of Haojing (West Zhou capital) by Scythian tribes
-* The defeated Zhou shifted the capital east, near Louyang on Yellow River, where the king rules as s symbolic head over competing regional leaders, who commanded armies 
+* The defeated Zhou shifted the capital east, near Louyang on Yellow River, where the king rules as s symbolic head over competing regional leaders, who commanded armies superior to his
+* The historians divide six centuries of warfare (from 770 to 221 BCE) comprising the Eastern Zhou period into two halves: the Spring and Autumn period (770-481 BCE), followed by partition of Jin and the Warring States period (481-221 BCE)
+* From time to time, the Zhou king recognized one ruler as more powerful than the others, but no polity succeeded in conquering all its neighbors
+* Some of the more than one hundred polities were large, others consisted of only a walled town or two
+* Eventually some seven states became predominant; the “[[central states]]” (zhongguo) were all located around Yellow River; Yangtze River marked the southern frontier of the Chinese central area
+	* ![[Pasted image 20251014170940.png]]
+* The Zhou people classified non-Chinese neighbors in four groups: the Rong and Di tribes to the west and north, the Yi to the east, and the Man to the south; many of these groups also lived in mountain pockets within the central states
+* For all mixing and interaction the Zhou reluctantly acknowledged their debt to the alien people, from whom they learned to fight with cavalry rather than with chariots
+* As certain polities conquered more territory, the general awareness of the cultural differences between the Chinese and the non-Chinese intensified 
+* The Commentary of Mr. Zuo (4th century BCE) explains events during the Spring and Autumn period: over 500 battles among polities and over 100 civil wars within polities in a span of 259 years – between 722 and 463 BCE
+* Duke Wen of Jin – Double Ears (636-628 BCE) was so successful ruler that the Zhou king awarded him the title Duke Wen after his death
+* Duke Wen ruled Jin realm, originally territory of younger brother of a Zhou king (present Shanxi province), capital Hoama
+* Wen was born to non-Chinese (Rong) mother, and fought with his half-brothers to regain control of his father’s realm; he tripled the army after he became ruler of Jin
+* After Wen’s defeat of Chu forces rulers of several small polities acknowledged the dominant position of Jin by taking an oath before gods, called blood covenants, which bound the participants to adhere to the agreements Duke
+* Duke Wen of Jin, by Li Tang (1140)
+	* ![[Pasted image 20251014171254.png]]
+* 
