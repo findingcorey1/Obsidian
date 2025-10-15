@@ -75,7 +75,8 @@ Identification Question:
 	1. During the Shang Dynasty
 	2. Shang Dynasty: ex. Two handled bronze vessel, bronze axe
 13. Xia dynasty  
-	1. 
+	1. Dated back in 2070 - 1600 BCE
+	2. Closely associated with Erlitou culture (ca. 1900–1500 BCE), but the connection is debated
 14. Shang dynasty  
 15. Wu Ding  
 16. Fu Hao  
