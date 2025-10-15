@@ -33,4 +33,8 @@
 * The Qin dynasty mobilized the population for massive projects: by 210 BCE, 6,800 km of roads were built; 300,000 people built walls (earth) in the north; construction of irrigation canals 
 * Qin divided the territory into regional units – commanderies; the initial 36 were increased to 42
 * ![[Pasted image 20251014200848.png]]
+* The whole of Qin was divided into administrative units: first commanderies, then counties (Xian), townships (Xiang) and hundred-family units (Li), which roughly corresponds to the modern-day subdistricts and communities
+* Appointments were subsequently based on merit instead of hereditary rights – early signs of meritocratic system
+* Standardization of the script, the Small Seal replaced the Large Seal script (used by Warring States with reginal variations), and the Qin officials discouraged the use of different variants for the same character
+* The rulers ensured linguistic unity even when the empire was no longer unified; the Small Seal script was replaced by the succeeding dynasty, clerical script, with characters used today)
 * 
