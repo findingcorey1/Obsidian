@@ -35,10 +35,20 @@ Identification Question:
 	2. Story functions as a cosmogonic myth (myth: beginning of the universe and the worlds order)
 	3. Mythology: the hade emperor was once a prince in an ancient kingdom, he was known for kindness, compassion, and deep sense of justice. he practiced virtue for thousands of years
 	4. Through discipline, meditation, and countless trials, he attained immortality and was chosen by the heavenly hierarchy to rule the cosmos
-	5. 
-6. Yellow Emperor  
+	5. His role in the cosmos was that he became the supreme ruler of Heaven, Earth, and the Underworld, governing gods, spirits, and humans. He was often portrayed as majestic figure in a imperial robe, which shows how divine order mirrors early bureaucracy
+	6. Heavenly court functions much like the Chinese imperial court 
+		With ministers, generals, scribes, and inspectors who report on human deeds
+6. Yellow Emperor 
+	1.  Founding myth: Yellow Emperor
+		* Huangdi 黄帝 (2697-2598 BCE) - the ancestor of Huaxia
+			* concept of Chinese civilization
+		* Yellow Emperor and his court officials are credited with the institutions of rule are credited with the institutions of rule, sophisticated calendars, and writing
+	* Jianhu and Peiligang culture (around 7000 - 5000 BCE) (Henan, Yellow River)
+		* one of the earliest northern villages, with millet farming, music (bone flutes), and proto writing
 7. Early modern humans (Home Sapiens) in China  
-8. First Neolithic villages in China (Yellow River and Yangtze River basins)  
+8. First Neolithic villages in China (Yellow River and Yangtze River basins)
+	1. Early village, linked to the origins of rice agriculture in the south (Yangzi Valley)
+		Togther, they show that the roots of Chinese civization came form both the Yangzi (Rice) and (Millet) basins
 9. Longshan culture  
 10. Erlitou culture  
 11. Shu culture  
