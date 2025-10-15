@@ -3,8 +3,13 @@ Identification Question:
 	1. Human skull found 40,000 BC, one found in Liujiang (aprox 68,000 years old)
 	2. Modern human reached <u>China</u> about 50,000 years ago. <u>Korean Peninsula</u> about 40-45,000 years ago, <u>Japan archipelago</u> about 35-38,000 years ago
 2. Out of Africa theory
+	1. Widely accepted theory/explanation that homosapiens first evolved in Africa and migrated to other parts of the world
+	2. Sites along Oma river, ethiopia yield the earliest fossil evidence for anatomically modern homosapiens, about 200,000 years ago
+	3. Mitochondrial Eve is the matrilineal most recent common ancestor (MRCA) of all currently living humans (between 100,000 and 200,000 years ago)
+	* Emergence of M and N mitochondrial haplogroups – around 70,00 to 60,000 years ago, migration out of Africa (home sapiens who migrated may have interbred with Neanderthals they encountered)
+3. [Cognitive revolution](School/ASIA1125/ClassNotes/The Beginning)
+4. 
 	1. 
-3. Cognitive revolution  
 4. Neolithic (agricultural) revolution  
 5. Jade Emperor  
 6. Yellow Emperor  
