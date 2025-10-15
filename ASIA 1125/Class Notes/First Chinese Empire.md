@@ -24,4 +24,7 @@
 * ![[Pasted image 20251014194935.png]]
 * Qin Shi Huang, king of Qin (247-220 BCЕ)  
 * Emperor (220-210)
-* 
+* Qin ruler required all six defeated kings move to his capital with the noble families of their kingdoms 
+* He took the title Shi Huangdi (First Augustus Emperor); Di (emperor, highest deity); fusing god-like king with great conqueror made self-divinization plausible 
+* In an effort to consolidate power, Qin emperor toured the empire five times between 220 and 210 BCЕ, to show himself to people and make offerings to the spirits 
+* Along Yang Shang’s teaching, Qin emphasized farming the mainstay of the 
