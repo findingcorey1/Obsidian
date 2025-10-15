@@ -23,7 +23,8 @@ Identification Question:
 		1. Domestication of plants and animals
 	2. Early Centre of agriculture Fertile Crescent (11,000BC), the Yangtze and Yellow River basins (9,000 BC)
 	3. transition to agriculture began around 9500-8500 BCE in the hill country of south-eastern Turkey, western Iran and the Levant
-	4. Dogs, sheep's and goats, pigs and cattle's were domesticated, 
+	4. Dogs, sheep's and goats, pigs and cattle's were domesticated, Peas and lentils, horses, olive trees, grapevines
+	5. People living in large groups in HIlly flanks would domesticate plants and animals before anyone else because they had more promising raw materials to work with
 5. Jade Emperor  
 6. Yellow Emperor  
 7. Early modern humans (Home Sapiens) in China  
