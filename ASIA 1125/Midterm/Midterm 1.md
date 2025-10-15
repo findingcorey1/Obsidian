@@ -1,4 +1,4 @@
-Identification Questions
+Identification Question:
 1. Homo Sapiens  
 2. Out of Africa theory  
 3. Cognitive revolution  
@@ -21,13 +21,9 @@ Identification Questions
 20. Warring States  
 21. Yang Shang (Lord Shang)  
 22. Qin Shi Huangdi  
-23. Confucianism  
-24. Mohism  
-25. Daoism  
-26. Legalism  
-27. Art of War  
-28. Buddhism in China  
-29. Han dynasty
+23. Human (early spiritual practices)  
+24. Heaven (early spiritual practices)  
+25. Ancestors (early spiritual practices)
 
 Dear All,
 
