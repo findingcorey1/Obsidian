@@ -1,4 +1,4 @@
-Lecure 6:
+Lecture 6:
 Please share your reflections by responding to **one** of the following questions:
 
 1. How was the human being understood during the Zhou dynasty (Spring and Autumn period)?
@@ -11,4 +11,5 @@ Please share your reflections by responding to **one** of the following questi
     
 5. What was the role of rituals in Chinese rulership?
 
-What was the role of rituals in Chinese rulership?
+What were the goals of early spiritual practices?
+The goal of early Chinese spiritual practices were the attempts to domesticate humans and build better relationships between each other spirits, either living or 
