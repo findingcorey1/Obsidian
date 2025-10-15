@@ -1,5 +1,8 @@
 Identification Question:
 1. Homo Sapiens  
+	1. Term:
+	2. Figure:
+	3. Significance 
 2. Out of Africa theory  
 3. Cognitive revolution  
 4. Neolithic (agricultural) revolution  
