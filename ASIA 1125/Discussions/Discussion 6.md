@@ -11,3 +11,4 @@ Please share your reflections by responding to **one** of the following questi
     
 5. What was the role of rituals in Chinese rulership?
 
+What was the role of rituals in Chinese rulership?

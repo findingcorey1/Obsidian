@@ -10,22 +10,22 @@
 * Fortunately for the living, the energies of anger and resentment dissipated over time; with this the spirit grew even more powerful and more distant from the living and increasingly roam in the heavens above
 * The heavens were filled with other spirits (shen) as well, including various nature spirits, and most importantly, with Heaven itself (also called the Di – God) which many saw as the most powerful deity
 * Shangdi (上帝) or Di is a supreme god and sky deity in Chinese traditional religions; he was also identified as Tian (天) - Heaven, Universe
-* nAs the spirit of the deceased shed more of the elements which held it down to earth (body and souls of personality) it became like other spirits in the heavens – more powerful than the ghosts but also distant and potentially indifferent to humans
+* As the spirit of the deceased shed more of the elements which held it down to earth (body and souls of personality) it became like other spirits in the heavens – more powerful than the ghosts but also distant and potentially indifferent to humans
 * Such indifference could be dangerous, since the spirits controlled things like weather
 * The spirits could be capricious because they were relatively unengaged with persons (not because they were filled with anger like the recently deceased ghosts), so they could send rain or drought regardless of the needs of people
 * Humans had tendencies to be both resentful and/or indifferent toward other humans; there was a view of death that energies that would make up ghosts and spirits were already within the living human
-* Rituals were attempts to domesticate (cultivate) humans and help them forge better relationships with each other, and rituals dealing with ghosts and spirits equally involved attempts to domesticate them and draw them into webs of relationships with humans
+* ==Rituals were attempts to domesticate (cultivate) humans and help them forge better relationships with each other, and rituals dealing with ghosts and spirits equally involved attempts to domesticate them and draw them into webs of relationships with humans==
 * The problem was clear: humans had to deal with recently deceased ghosts and powerful spirits
 * Hence the goal of early Chinese practice was to transform these figures as much as possible, or at least to forge relationships with them – such that they become more responsive to the needs of the living humans
 * For the recently deceased the main concern was to separate the personality of the deceased from the spirit
-* Ritual actions would be taken to keep the souls with the body when the deceased is buried in a tomb – the goal would be to keep the souls in the tomb removed from the living
-* nRitual exhortations so that the souls don’t leave the tomb; also by making the tomb a place which the souls would want to remain (thus things associated with person in life like food, texts, etc., would be placed in the tomb)
+* ==Ritual actions would be taken to keep the souls with the body when the deceased is buried in a tomb – the goal would be to keep the souls in the tomb removed from the living==
+* ==Ritual exhortations so that the souls don’t leave the tomb; also by making the tomb a place which the souls would want to remain (thus things associated with person in life like food, texts, etc., would be placed in the tomb)==
 * Hence the souls would be tempted to stay in the tombs, not rejoin the spirits and not attack the living
 * Further destiny of souls was less clear: they could dissipate over time or might be reborn in various paradises (in western paradises associated with Xiwangmu for instance)
-* The fate of the spirit would be different: the living would undertake ritual actions to transform the spirit into ancestor
+* ==The fate of the spirit would be different: the living would undertake ritual actions to transform the spirit into ancestor==
 * The spirit would be given tablet in the ancestral hall, a temple name, and defined time for sacrifices, based on the place in the ancestral lineage, not on the personality of the person (which the living hoped to be kept separate, in the tomb)
 * At the proper ritual moments the spirits would be called down from heavens to enter the temple and to be sacrificed to as ancestor, then called on to act like ancestor and treat the living as descendants who should be supported
-* If successful, this would mean that the spirit, cleared from the energies and souls that could be dangerous, would become supportive ancestor using its power to act on behalf of the living (domestication of the spirits)
+* ==If successful, this would mean that the spirit, cleared from the energies and souls that could be dangerous, would become supportive ancestor using its power to act on behalf of the living (domestication of the spirits)==
 * The separation of the souls from the spirit and converting the spirit into ancestor is not always successful; for the recently deceased the spirit could link up with the souls and energies and thus become dangerous ghosts and the more distant ancestors tend to become indifferent to the needs of the living
 * Therefore the sacrifices had to be given repeatedly because the process was never complete
 * Rulership: in early dynasties the lineage in control would always seek the support of the highest divinity – Di for Shang and Heaven for Zhou
