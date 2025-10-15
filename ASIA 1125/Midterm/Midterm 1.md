@@ -25,7 +25,17 @@ Identification Question:
 	3. transition to agriculture began around 9500-8500 BCE in the hill country of south-eastern Turkey, western Iran and the Levant
 	4. Dogs, sheep's and goats, pigs and cattle's were domesticated, Peas and lentils, horses, olive trees, grapevines
 	5. People living in large groups in HIlly flanks would domesticate plants and animals before anyone else because they had more promising raw materials to work with
-5. Jade Emperor  
+	6.  In most farming societies people focused on plant cultivation and raising animals was secondary, but a new kind of society also emerged in some places, based on raising animals – tribes of pastoralist herders
+	7. Transition from nomadic to sedentary societies with build-up villages and towns 
+	8. Personal and land ownership, stratification of societies and hierarchies 
+	9. With the move to permanent villages and the increase in food supply, the population began to grow
+	10. Food surpluses, combined with new transportation technology enabled more and more people to gather first into large villages, then into towns, and finally into cities, all of them joined together by new kingdoms and commercial networks 
+5. Jade Emperor
+	1. Yu Huang Dadi 玉皇大帝]
+	2. Story functions as a cosmogonic myth (myth: beginning of the universe and the worlds order)
+	3. Mythology: the hade emperor was once a prince in an ancient kingdom, he was known for kindness, compassion, and deep sense of justice. he practiced virtue for thousands of years
+	4. Through discipline, meditation, and countless trials, he attained immortality and was chosen by the heavenly hierarchy to rule the cosmos
+	5. 
 6. Yellow Emperor  
 7. Early modern humans (Home Sapiens) in China  
 8. First Neolithic villages in China (Yellow River and Yangtze River basins)  
