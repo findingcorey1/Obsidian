@@ -62,8 +62,17 @@ Identification Question:
 	2. At the time they created sacrificial altars
 		1. It consisted of 3 levels: 
 			1. Bottom Level: Circular b bearing, had a pair of fabulous animals
-			2. Second Level: 4 standing human if supp
-12. Late bronze culture  
+			2. Second Level: 4 standing human if supporting hills on their heads.
+			3. Top Level: Four sided Sticture adorn with humann figures and human-headed bird
+		2. Represented the vertical order of man, earth and heaven
+		3. Had bronze sacred tree (4m tall)
+		4. Bronze mythical Beast
+		5. Bronze figure with officer's cap
+		6. Bronze Mask
+		7. Bronze Birds
+		8. Jade Blades
+12. Late bronze culture 
+	1. During the Shang Dynasty
 13. Xia dynasty  
 14. Shang dynasty  
 15. Wu Ding  
