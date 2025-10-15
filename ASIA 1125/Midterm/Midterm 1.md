@@ -1,13 +1,13 @@
 Identification Question:
-1. Homo Sapiens  
+1. Homo Sapiens  (The beginning)
 	1. Human skull found 40,000 BC, one found in Liujiang (aprox 68,000 years old)
 	2. Modern human reached <u>China</u> about 50,000 years ago. <u>Korean Peninsula</u> about 40-45,000 years ago, <u>Japan archipelago</u> about 35-38,000 years ago
-2. Out of Africa theory
+2. Out of Africa theory (The beginning)
 	1. Widely accepted theory/explanation that homo sapiens first evolved in Africa and migrated to other parts of the world
 	2. Sites along Oma river, Ethiopia yield the earliest fossil evidence for anatomically modern homo sapiens, about 200,000 years ago
 	3. Mitochondrial Eve is the matrilineal most recent common ancestor (MRCA) of all currently living humans (between 100,000 and 200,000 years ago)
 	* Emergence of M and N mitochondrial haplogroups – around 70,00 to 60,000 years ago, migration out of Africa (home sapiens who migrated may have interbred with Neanderthals they encountered)
-3. Cognitive revolution
+3. Cognitive revolution (The beginning)
 	1. Started approx. 70,000 years ago, at that time they developed language and communication
 	2. Sapiens started to form more elaborate structures called cultures (70,000 years ago
 	3. History is the development of human cultures
@@ -18,7 +18,7 @@ Identification Question:
 			1. <u>Behavioral and cognitive traits</u> that distinguish homo sapiens as sapiens as compared to other anatomically modem humans 
 			2. <u>Traits</u> included: Burial, fishing, giurative art (cave painting, figurines), self ornaments (jewelry, ochre), bone tools and blade technology, transportation, distinct artifacts (region specific), fireplaces
 			3. Appearance of new ways of thinking and communicating constitutes cognitive revolution 
-4. Neolithic (agricultural) revolution
+4. Neolithic (agricultural) revolution (The beginning)
 	1. It was the shift from hunting and gathering to farming and settled living
 		1. Domestication of plants and animals
 	2. Early Centre of agriculture Fertile Crescent (11,000BC), the Yangtze and Yellow River basins (9,000 BC)
@@ -30,7 +30,7 @@ Identification Question:
 	8. Personal and land ownership, stratification of societies and hierarchies 
 	9. With the move to permanent villages and the increase in food supply, the population began to grow
 	10. Food surpluses, combined with new transportation technology enabled more and more people to gather first into large villages, then into towns, and finally into cities, all of them joined together by new kingdoms and commercial networks 
-5. Jade Emperor
+5. Jade Emperor (The beginning)
 	1. Yu Huang Dadi 玉皇大帝]
 	2. Story functions as a cosmogonic myth (myth: beginning of the universe and the worlds order)
 	3. Mythology: the hade emperor was once a prince in an ancient kingdom, he was known for kindness, compassion, and deep sense of justice. he practiced virtue for thousands of years
@@ -38,20 +38,31 @@ Identification Question:
 	5. His role in the cosmos was that he became the supreme ruler of Heaven, Earth, and the Underworld, governing gods, spirits, and humans. He was often portrayed as majestic figure in a imperial robe, which shows how divine order mirrors early bureaucracy
 	6. Heavenly court functions much like the Chinese imperial court 
 		With ministers, generals, scribes, and inspectors who report on human deeds
-6. Yellow Emperor 
+6. Yellow Emperor (Myth and Archeology)
 	1.  Founding myth: Yellow Emperor
 		* Huangdi 黄帝 (2697-2598 BCE) - the ancestor of Huaxia
 			* concept of Chinese civilization
 		* Yellow Emperor and his court officials are credited with the institutions of rule are credited with the institutions of rule, sophisticated calendars, and writing
 	* Jianhu and Peiligang culture (around 7000 - 5000 BCE) (Henan, Yellow River)
 		* one of the earliest northern villages, with millet farming, music (bone flutes), and proto writing
-7. Early modern humans (Home Sapiens) in China  
-8. First Neolithic villages in China (Yellow River and Yangtze River basins)
+7. Early modern humans (Home Sapiens) in China  (Myth and Archeology)
+	1. 
+8. First Neolithic villages in China (Yellow River and Yangtze River basins) (Myth and Archeology)
 	1. Early village, linked to the origins of rice agriculture in the south (Yangzi Valley)
-		Togther, they show that the roots of Chinese civization came form both the Yangzi (Rice) and (Millet) basins
-9. Longshan culture  
-10. Erlitou culture  
-11. Shu culture  
+		Together, they show that the roots of Chinese cavitation came form both the Yangzi (Rice) and (Millet) basins
+9. Longshan culture (Myth and Archeology)
+	1. Societies became stratisfied, large number of ordered communities (ex. wan guo "ten thousands state")
+10. Erlitou culture (Myth and Archeology)
+	1. 1900 - 1500 BCE
+	2. The Erlitou culture may have evolved from the matrix of Longshan culture; originally centered around Henan and Shanxi Province, the culture spread to Shaanxi and Hubei Province 
+	3. Erlitou monopolized the production of ritual bronze vessels, including the earliest recovered dings
+		* Bronze jue - wine vessel
+11. Shu culture (Myth and Archeology)
+	1. 1300 - 1100 BCE
+	2. At the time they created sacrificial altars
+		1. It consisted of 3 levels: 
+			1. Bottom Level: Circular b bearing, had a pair of fabulous animals
+			2. Second Level: 4 standing human if supp
 12. Late bronze culture  
 13. Xia dynasty  
 14. Shang dynasty  
