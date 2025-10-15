@@ -8,8 +8,10 @@ Identification Question:
 	3. Mitochondrial Eve is the matrilineal most recent common ancestor (MRCA) of all currently living humans (between 100,000 and 200,000 years ago)
 	* Emergence of M and N mitochondrial haplogroups – around 70,00 to 60,000 years ago, migration out of Africa (home sapiens who migrated may have interbred with Neanderthals they encountered)
 3. Cognitive revolution
-	1. Sapiens started to form more elaborate strucutures 
-	2. 
+	1. Sapiens started to form more elaborate structures called cultures (70,000 years ago
+	2. History is the development of human cultures
+		1. history chronicles the evolution of human societies includiong belief, behaviours, and traditions
+	3. 
 4. Neolithic (agricultural) revolution  
 5. Jade Emperor  
 6. Yellow Emperor  
