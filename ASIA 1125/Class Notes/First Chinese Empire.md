@@ -37,4 +37,5 @@
 * Appointments were subsequently based on merit instead of hereditary rights – early signs of meritocratic system
 * Standardization of the script, the Small Seal replaced the Large Seal script (used by Warring States with reginal variations), and the Qin officials discouraged the use of different variants for the same character
 * The rulers ensured linguistic unity even when the empire was no longer unified; the Small Seal script was replaced by the succeeding dynasty, clerical script, with characters used today)
+* Large-scale book burning in 213 BCE to eliminate different viewpoints; Confucian classics (The Book of Songs and Book of Documents) were banned along annals of earlier kings
 * 
