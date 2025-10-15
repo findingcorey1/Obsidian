@@ -16,4 +16,6 @@
 * Militarization: once a man reached an age of fifteen or seventeen (and height of 1.5 meters) he was obliged to perform military service, fulfill labour obligations, and pay taxes on his land (the Legalists did not distinguish army from society, so they expected all men to serve in army)
 * The Qin first implemented these measures within their own borders, but in 316 BCЕ Qin state began a series of conquests that accelerated under the leadership of young King Zheng (259-210 BCЕ)
 * King Zheng came to the throne in 246 at age of thirteen, and when he turned twenty-one, he took control of power and led the kingdom through fifteen years of all-out war that culminated with unification of China in 221 BCЕ 
+* Of the Seven Warring States, Qin eventually emerged the strongest and annexed the other six states
+* Han was the first to fall, in 230 BCЕ, while Qi was the last to surrender in 221 BCЕ
 * 
