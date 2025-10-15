@@ -49,4 +49,20 @@
 * After Wen’s defeat of Chu forces rulers of several small polities acknowledged the dominant position of Jin by taking an oath before gods, called blood covenants, which bound the participants to adhere to the agreements Duke
 * Duke Wen of Jin, by Li Tang (1140)
 	* ![[Pasted image 20251014171254.png]]
-* 
+* Even though Double Ears had shown that he was the most powerful leader within the central polities, he adhered to an ancient ritual forms by presenting the Zhou king four hundred horses and a thousand men taken from the Chu forces
+* The Zhou king recognized Wen of Jin as the protector of all the other polities 
+* Soon after the alliance with other polities was concluded Double Ears died
+* The Commentary of Mr. Zuo records several hundred alliances, evidence that participants frequently violated them to go to war and then form a new alliance  
+* By the 5th century BCE, the Zhou had become so weak that it was forced to share power with the ruler of Jin polity 
+* But the official end of Zhou dynasty came only in 256 BCE with the death of the last Zhou ruler
+* Zhao of Qin defeated King Nan of Zhou, conquering West Zhou, symbolically becoming the Son of Heaven 
+* The peoples of Anyang (Shang and Zhou) are the ancestors of today’s Chinese 
+* Determining their ethnic origin is difficult, but as they expanded the territory they absorbed many non-Chinese peoples
+* Warring State, 350 BCE
+	* ![[Pasted image 20251014172737.png]]
+* Warring States, 250 BCE
+	* ![[Pasted image 20251014172746.png]]
+* Seven Warring States in the 3rd century BCЕ: Qin ( 秦 ), Qi ( 齊 / 齐 ), Chu ( 楚 ), Yan ( 燕 ), Han ( 韓 / 韩 ), Zhao ( 趙 / 赵 ), Wei ( 魏 )
+* Urbanization; militarization; peak of Chinese bronze-ware making 
+* The written script evolved into its modern form with the use of an archaic clerical script that emerged during the late Warring States period 
+* Development of Chinese philosophy starting from 6th century BC: Confucius, Mencius – Confucianism; Laozi – Daoism; Mozi – Mohism; Legalism (Shang Yang)
