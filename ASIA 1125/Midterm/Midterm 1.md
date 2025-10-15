@@ -84,8 +84,14 @@ Identification Question:
 		5. Western scholars called erlitou simply an early bronze culture
 		6. Crucial, directly represents the transition from neolithic societies to the earliest state in china 
 	3. was established by Yu the great after shun, last of the five emperors (was passed on by shun)
-	4. 
-14. Shang dynasty  
+	4. Yu was believed as a man of the common people
+		1.  The project renown status, and is referred to in chinese history as "Great tu controls the water"   (大禹治水 Da Yu Zhi Shui) 
+		2. Was said initially that he declined the thrown but lowkcal lords praised him and was with how popular he was, the chiefs also agreed that he became the emperor at age 53
+	5. Established capital of Anyi, ruins of which are in modern Xia County in southern Shanxi Province 
+	6. Divided the realm into nine provinces
+14. Shang dynasty 
+	1. 1600 - 1046 BCE
+	2. 
 15. Wu Ding  
 16. Fu Hao  
 17. Zhou dynasty  
