@@ -1,8 +1,7 @@
 Identification Question:
 1. Homo Sapiens  
-	1. Term:
-	2. Figure:
-	3. Significance 
+	1. Human skull found 40,000 BC, one found in Liujiang (aprox 68,000 years old)
+	2. Modern human reacehd china about 50,
 2. Out of Africa theory  
 3. Cognitive revolution  
 4. Neolithic (agricultural) revolution  
