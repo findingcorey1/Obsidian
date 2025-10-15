@@ -12,4 +12,8 @@
 * County officials organized the army, carried out public works, collected taxes, and administered justice; the state reached from the county and reached down to the lowest unit of land (individual’s field)
 * Statue of Yang Shang
 	* ![[Pasted image 20251014191040.png]]
+* Minister Shang established private ownership of land; the land continued to be viewed of ruler’s property, but the link between the land ownership and military service provided people with stronger claim to the land than when they worked in estates in earlier times
+* Militarization: once a man reached an age of fifteen or seventeen (and height of 1.5 meters) he was obliged to perform military service, fulfill labour obligations, and pay taxes on his land (the Legalists did not distinguish army from society, so they expected all men to serve in army)
+* The Qin first implemented these measures within their own borders, but in 316 BCЕ Qin state began a series of conquests that accelerated under the leadership of young King Zheng (259-210 BCЕ)
+* King Zheng came to the throne in 246 at age of thirteen, and when he turned twenty-one, he took control of power and led the kingdom through fifteen years of all-out war that culminated with unification of China in 221 BCЕ 
 * 
