@@ -83,7 +83,8 @@ Identification Question:
 		4. Chinese scholarship treat erlitou as the archaeological reflection of Xia
 		5. Western scholars called erlitou simply an early bronze culture
 		6. Crucial, directly represents the transition from neolithic societies to the earliest state in china 
-	3. was established by Yu the greate after shun, last of the five emperors 
+	3. was established by Yu the great after shun, last of the five emperors (was passed on by shun)
+	4. 
 14. Shang dynasty  
 15. Wu Ding  
 16. Fu Hao  
