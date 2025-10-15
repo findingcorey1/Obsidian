@@ -27,4 +27,10 @@
 * Qin ruler required all six defeated kings move to his capital with the noble families of their kingdoms 
 * He took the title Shi Huangdi (First Augustus Emperor); Di (emperor, highest deity); fusing god-like king with great conqueror made self-divinization plausible 
 * In an effort to consolidate power, Qin emperor toured the empire five times between 220 and 210 BCЕ, to show himself to people and make offerings to the spirits 
-* Along Yang Shang’s teaching, Qin emphasized farming the mainstay of the 
+* Along Yang Shang’s teaching, Qin emphasized farming the mainstay of the economy
+* The emperor unified all measures and imposed standard currency on the realm – a circular coin with a square in the middle (replacing monies of Warring States in the forms of knives, shovels, and shells); the coins could be threaded together to form strings
+* In addition to unified units for length and volume, the new dynasty standardized the gauge for vehicles so that roads should be with uniform width 
+* The Qin dynasty mobilized the population for massive projects: by 210 BCE, 6,800 km of roads were built; 300,000 people built walls (earth) in the north; construction of irrigation canals 
+* Qin divided the territory into regional units – commanderies; the initial 36 were increased to 42
+* ![[Pasted image 20251014200848.png]]
+* 
