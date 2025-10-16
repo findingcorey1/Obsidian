@@ -128,13 +128,23 @@ Identification Question:
 	6. was shown that he was the most powerful leader, he adhered to ancient ritual nforms by presenting 400 horses and thousands of men taken from the chu forces
 	7. The Zhou king recognized Wen of Jin as the protector of all the other polities
 	8. 
-20. Warring States  (Early Civilizations and States Xia, Shang and Zhou)
+20. Warring States  (Early Civilizations and States Xia, Shang and Zhou), (First Chinese Empire)
 	1.  Seven Warring States in the 3rd century BCЕ: Qin ( 秦 ), Qi ( 齊 / 齐 ), Chu ( 楚 ), Yan ( 燕 ), Han ( 韓 / 韩 ), Zhao ( 趙 / 赵 ), Wei ( 魏 )
 	2. Urbanization; militarization; peak of Chinese bronze-ware making 
 	3. The written script evolved into its modern form with the use of an archaic clerical script that emerged during the late Warring States period 
 	4. Development of Chinese philosophy starting from 6th century BC: Confucius, Mencius – Confucianism; Laozi – Daoism; Mozi – Mohism; Legalism (Shang Yang)
+
+	5. Warring States period, many of the seven states underwent bureaucratic and military reforms in order to mobilise resources; intensification of warfare over the period, but also economic and cultural developments on a large scale
+	6. 221BCE, Warring satte period came to end, as the kingdom of Qin defeated all competitors kingdom and unifed the empire
+		1. At that time King Zheng of Qin crowned himself China first emperor
 21. Yang Shang (Lord Shang)  
-	1. 
+	1. A powerful prime miniser, who initiated series of reforms to build a strong legalist state in 359 BCE (Legalist - Law expert)
+		1. Architect of qin success
+	2. He divided Qin society into interlocking units
+		1. Smallest were 5 and 10 households
+		2. Units formed larger units of county (Xian)
+			1. Provided local government's service
+			2. They orga
 22. Qin Shi Huangdi  
 23. Human (early spiritual practices)  
 24. Heaven (early spiritual practices)  
