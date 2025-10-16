@@ -87,6 +87,7 @@ Identification Question:
 	2. The Erlitou culture may have evolved from the matrix of Longshan culture; originally centered around Henan and Shanxi Province, the culture spread to Shaanxi and Hubei Province 
 	3. Erlitou monopolized the production of ritual bronze vessels, including the earliest recovered dings
 		* Bronze jue - wine vessel
+	4. ==Bronze production was less advance in the erlitou stage, only a few locallyproduced bronze object, mostly cups
 11. Shu culture (Myth and Archeology)
 	1. 1300 - 1100 BCE
 	2. At the time they created sacrificial altars
