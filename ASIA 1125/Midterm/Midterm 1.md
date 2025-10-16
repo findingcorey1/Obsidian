@@ -52,7 +52,7 @@ Identification Question:
 		* Yellow Emperor and his court officials are credited with the institutions of rule are credited with the institutions of rule, sophisticated calendars, and writing
 	* Jianhu and Peiligang culture (around 7000 - 5000 BCE) (Henan, Yellow River)
 		* one of the earliest northern villages, with millet farming, music (bone flutes), and proto writing
-	* 
+	* ==Known as "three sovereigns and five emperor" . was the peak at finding China's firs
 7. Early modern humans (Home Sapiens) in China  (Myth and Archeology)
 	1. Modern humans reached china around 50,000 years ago
 	2. There were at the time different kinds of modern humans that developed in parrallel in several parts of the worl.
