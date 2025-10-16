@@ -1,0 +1,1 @@
+The significance of the cognitive revolution started back at approximately 70,000 years ago where homo sapiens had started to develop more elaborate structures called culture. Every cul
