@@ -8,7 +8,7 @@ Identification Question:
 	6. ==During Old stone age (100,000 to 10,000 BC)(Paleolithic period), humans began to speak 
 		1. Language expandid symbolic capabilitie, allowing for development of notions of gods and kinship, for instance
 	7. ==Over the course of these thousands of years, we can reasonably assume that many bands of people migrated across the Chinese subcontinent, fighting with each other when threatened, splitting up or merging when survival dictated. Some early bands moved on to the Pacific islands or the Americas
-	8. 
+	8. Multiregionalism: slightly different kinds of modern humans developed in parallel in several parts of the world
 2. Out of Africa theory (The beginning)
 	1. Widely accepted theory/explanation that homo sapiens first evolved in Africa and migrated to other parts of the world
 	2. Mitochondrial Eve is the matrilineal most recent common ancestor (MRCA) of all currently living humans (between 100,000 and 200,000 years ago)
