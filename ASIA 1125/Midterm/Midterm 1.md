@@ -64,18 +64,24 @@ Identification Question:
 		5. ==Hemudu villagers were at a higher technological level compared to those in the north amergican indian tribes in the seventeenth century
 		6. ==Neolithic cultures can be divided east-west on the basis of artistic styles and burial practices by the middle of the neolithic period
 9. Longshan culture (Myth and Archeology)
-	1. (3000 - 2000 BCE)
-	2. Societies became stratisfied, large number of ordered communities (ex. wan guo "ten thousands state")
-	3. There were graves for the first time since farmers built vilalges and burried their dead bodies in cemeteries outside those villages
-	4. Hierarchical order in cluster of tombs
+	1. (3000 - 2000 BCE), ==Late Neolithic Period== 
+	2. ==Increased social and political complexity as well as incerase contact
+	3. Societies became stratisfied, large number of ordered communities (ex. wan guo "ten thousands state")
+	4. There were graves for the first time since farmers built vilalges and burried their dead bodies in cemeteries outside those villages
+		1. ==Elite burioalas become more elaborate
+		2. ==Richest graves consisted of 50+ items ranging from necklace and bracelets made from jade to stone and pottery beads. 
+		3. 
+	5. Hierarchical order in cluster of tombs
 		1. suggest segmentary lineage type of kinship organization
 		2. Each lineage is stratified according to the distance of the stem
-	5. Political power manifests itself in two aspects of ancient Chinese life – rituals and war
-	6. These elites and their followers did not live in villages but in nodes of centres of power woven into networks large and small – political chiefdoms
-	7. Elements of writing – inscribed but yet to be deciphered pottery pieces
-	8. Longshan cultures was the context within which the earliest Chinese historical period began
-	9. Three dynasties, Xia, Shang and Zhou,emerged from the Longshan base
-	10. Bronze age, 2000-700 BCE: iron smelting technology, persistence of bronze objects
+	6. Political power manifests itself in two aspects of ancient Chinese life – rituals and war
+	7. These elites and their followers did not live in villages but in nodes of centres of power woven into networks large and small – political chiefdoms
+	8. Elements of writing – inscribed but yet to be deciphered pottery pieces
+	9. Longshan cultures was the context within which the earliest Chinese historical period began
+	10. Three dynasties, Xia, Shang and Zhou,emerged from the Longshan base
+	11. Bronze age, 2000-700 BCE: iron smelting technology, persistence of bronze objects
+	12. ==Pottery designs and shapes spread into new areas
+		1. Cooking tripods spread west, while geometric decorations spread east
 10. Erlitou culture (Myth and Archeology)
 	1. 1900 - 1500 BCE
 	2. The Erlitou culture may have evolved from the matrix of Longshan culture; originally centered around Henan and Shanxi Province, the culture spread to Shaanxi and Hubei Province 
