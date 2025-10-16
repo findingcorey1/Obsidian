@@ -180,10 +180,10 @@ Identification Question:
 	2. Urbanization; militarization; peak of Chinese bronze-ware making 
 	3. The written script evolved into its modern form with the use of an archaic clerical script that emerged during the late Warring States period 
 	4. Development of Chinese philosophy starting from 6th century BC: Confucius, Mencius – Confucianism; Laozi – Daoism; Mozi – Mohism; Legalism (Shang Yang)
-
 	5. Warring States period, many of the seven states underwent bureaucratic and military reforms in order to mobilise resources; intensification of warfare over the period, but also economic and cultural developments on a large scale
 	6. 221BCE, Warring satte period came to end, as the kingdom of Qin defeated all competitors kingdom and unifed the empire
 		1. At that time King Zheng of Qin crowned himself China first emperor
+	7. ==During the Warring States period, the feudal domains of the early Zhou came to function as independent states. Over time the number of states rapidly declined as the more powerful ones conquered and absorbed their neighbours.
 21. Yang Shang (Lord Shang)  
 	1. A powerful prime miniser, who initiated series of reforms to build a strong legalist state in 359 BCE (Legalist - Law expert)
 		1. Architect of qin success
