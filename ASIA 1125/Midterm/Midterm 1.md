@@ -4,6 +4,10 @@ Identification Question:
 	2. Modern human reached <u>China</u> about 50,000 years ago. <u>Korean Peninsula</u> about 40-45,000 years ago, <u>Japan archipelago</u> about 35-38,000 years ago
 	3. They reached China by going through India and southeast asia about 50,000 years ago
 	4. ==appeared in east asia around 100,000 years ago spreading around africa
+	5. ==During Old stone age (100,000 to 10,000 BC)(Paleolithic period), humans began to speak 
+		1. Language expandid symbolic capabilitie, allowing for development of notions of gods and kinship, for instance
+	6. ==Over the course of these thousands of years, we can reasonably assume that many bands of people migrated across the Chinese subcontinent, fighting with each other when threatened, splitting up or merging when survival dictated. Some early bands moved on to the Pacific islands or the Americas
+	7. 
 2. Out of Africa theory (The beginning)
 	1. Widely accepted theory/explanation that homo sapiens first evolved in Africa and migrated to other parts of the world
 	2. Sites along Oma river, Ethiopia yield the earliest fossil evidence for anatomically modern homo sapiens, about 200,000 years ago
