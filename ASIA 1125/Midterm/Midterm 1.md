@@ -155,8 +155,11 @@ Identification Question:
 	4. He took the title Shi Huangdi (First Augustus Emperor); Di (emperor, highest deity); fusing god-like king with great conqueror made self-divinization plausible 
 	5. He emphasized farming as the mainstay of the economy
 	6. Unified all measures and imposed standard currency on the realm
-		1. Circular coin with a square in the middle
-		2. 
+		1. Circular coin with a square in the middle, coins threaded together to form string as a way of showing 
+		2. unified units for length and volume, the new dynasty standardized the gauge for vehicles so that roads should be with uniform width
+		3. replacing monies of Warring States in the forms of knives, shovels, and shel
+	7. Qin divided the territory into regional units – commanderies; the initial 36 were increased to 42
+	8. whole of Qin was divided into administrative units: first commanderies, then counties (Xian), townships (Xiang) and hundred-family units (Li), which roughly corresponds to the modern-day subdistricts and communities
 23. Human (early spiritual practices)  
 24. Heaven (early spiritual practices)  
 25. Ancestors (early spiritual practices)
