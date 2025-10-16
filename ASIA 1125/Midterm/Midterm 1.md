@@ -88,7 +88,7 @@ Identification Question:
 		1.  The project renown status, and is referred to in chinese history as "Great tu controls the water"   (大禹治水 Da Yu Zhi Shui) 
 		2. Was said initially that he declined the thrown but lowkcal lords praised him and was with how popular he was, the chiefs also agreed that he became the emperor at age 53
 	5. Established capital of Anyi, ruins of which are in modern Xia County in southern Shanxi Province 
-	6. Divided the realm into nine provinces (regions) and had bronzes vessels casted to represent each one
+	6. Divided the realm into nine provinces ==(regions) and had bronzes vessels casted to represent each one==
 14. Shang dynasty (Early Civilizations and States Xia, Shang and Zhou)
 	1. 1600 - 1046 BCE
 	2. Qi overthew the impious and cruel final Xia ruler Jie in the battle of Mingtao and became the first king of Shang
@@ -113,6 +113,7 @@ Identification Question:
 		1. Heaven represented supreme divine force (what Di was for Shang) – similar to the concept of cosmos
 	5. Zhou set an example for all succeeding dynasties, who would claim they had defeated the previous dynasty not because of superior strength but because their supreme deity, Heaven, had willed them to do so 
 	6. recognized only patrilineal primogeniture as legal
+	7. T==he zhou became the last of the three ancient dynasties Xia, Shang and Zhou==
 18. Spring and Autumn Period  (Early Civilizations and States Xia, Shang and Zhou)
 	1. Zhou period was split into two halves(
 		1. Spring and Autumn period (770-481 BCE),
