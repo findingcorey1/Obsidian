@@ -105,6 +105,9 @@ Identification Question:
 12. Late bronze culture 
 	1. During the Shang Dynasty
 	2. Shang Dynasty: ex. Two handled bronze vessel, bronze axe
+	3. By the late bronze culture (Late shang), huge bronze vessels were produced
+		1. one from about 1200bce weighting more than 1900 pounds (862kg)
+			1. Stands out for their quantity, decoration, varierty of shapes and sizes, possibly made for uses sacrificial rituals
 
 13. Xia dynasty  (Early Civilizations and States Xia, Shang and Zhou)
 	1. Dated back in 2070 - 1600 BCE
