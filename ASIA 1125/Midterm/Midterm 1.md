@@ -36,6 +36,7 @@ Identification Question:
 	8. Personal and land ownership, stratification of societies and hierarchies 
 	9. With the move to permanent villages and the increase in food supply, the population began to grow
 	10. Food surpluses, combined with new transportation technology enabled more and more people to gather first into large villages, then into towns, and finally into cities, all of them joined together by new kingdoms and commercial networks 
+	11. ==Destinctive pottery forms, such as tripods, were repoduced in shang bronzes, showing link between artistic tradition of the shang and the previous culture of the area
 5. Jade Emperor (The beginning)
 	1. Yu Huang Dadi 玉皇大帝]
 	2. Story functions as a cosmogonic myth (myth: beginning of the universe and the worlds order)
