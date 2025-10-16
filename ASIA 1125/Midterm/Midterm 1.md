@@ -108,7 +108,9 @@ Identification Question:
 17. Zhou dynasty  
 	1. 1046 -2256 BCE
 	2. Zhou was in alliance with qiang who conquered the Shang
-	3. 
+	3. He set up fengjian system of decentralized government; the conquered land was divided into hereditary fiefs ( 諸侯 , zhuhou) turning into powerful domains of local lords
+	4. Introduced the concept of Mandate of heaven to legitimize its rulership and explained and justified the demise of xia and shang
+	5. Zhou set an example for all succeediung dynasties, 
 18. Spring and Autumn Period  
 19. Duke Wen of Jin – Double Ears  
 20. Warring States  
