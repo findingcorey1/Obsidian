@@ -163,7 +163,9 @@ Identification Question:
 23. Human (early spiritual practices)  
 	1. Believed to be composed by numerous energies, souls, and powers
 	2. Some forms of qi (氣) were associated with human emotions, while the souls - the hun (魂, the yang soul – mind and heaven) and po (魄, the yin soul – body and earth) - were linked to aspects of personality
-	3. Vital component of human beings were spirits (shen, 神), which means the 
+	3. Vital component of human beings were spirits (shen, 神), which means they present humans with consciousness and awareness
+		1. When humans die their energies and spirits would leave their body but when humans are still alive they would try to contain their energies and spirits and keep them within their body
+		2. Spirits that are release recently tend to show excess energy like jealousy, anger and resentment at those who are living because they are still living. After they release they become more powerful and dangerous to the point they will haunt those who are living.
 24. Heaven (early spiritual practices)
 	1. 
 25. Ancestors (early spiritual practices)
