@@ -51,10 +51,15 @@ Identification Question:
 	2. There were at the time different kinds of modern humans that developed in parrallel in several parts of the worl.
 	3. Modern chinese man originated from the Chinese territory found in xuchang (2007) which lead to a theory that modern humans originated from homo errectus in CHina
 	4. ==Several major language families that formed among the hunter gathereres in the chinese continents==
-		1. Siino-tibetan (family that chinese belongs), Austroasiatic, Austronesian, Austronesian, Monk-mer, and Tai kdai
+		1. ==Siino-tibetan (family that chinese belongs), Austroasiatic, Austronesian, Austronesian, Monk-mer, and Tai kdai==
+	5. ==Language expanded symbolic capabilities, which allowed for development of notions of god and kinship== 
 8. First Neolithic villages in China (Yellow River and Yangtze River basins) (Myth and Archeology)
 	1. Early village, linked to the origins of rice agriculture in the south (Yangzi Valley)
 		Together, they show that the roots of Chinese cavitation came form both the Yangzi (Rice) and (Millet) basins
+	2. ==can be divided by lantitude into the yangzi rice zone and the northern millet zone
+		1. ==Yangzi valley may be cultivated in the early 6800BCE, supplemented by fish and aquatic plants such as lotus, water chesnuts, and caltrops
+		2. ==Built wooden houses on stilts and amde lacquered bowls and blackish pottery with incised geometric designs. Basketry and weaving were highly developed.
+		3. 
 9. Longshan culture (Myth and Archeology)
 	1. Societies became stratisfied, large number of ordered communities (ex. wan guo "ten thousands state")
 10. Erlitou culture (Myth and Archeology)
