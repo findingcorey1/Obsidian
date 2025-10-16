@@ -145,15 +145,18 @@ Identification Question:
 	1. 
 17. Zhou dynasty  (Early Civilizations and States Xia, Shang and Zhou)
 	1. 1046 -2256 BCE
-		1. 1046 BCE, zhou rose agaisnt shang and defeated it in battle
-			1. THe first phase of the zhour period was descrivbed as the western zhou (1046
+		1. ==1046 BCE, zhou rose agaisnt shang and defeated it in battle==
+			1. ==THe first phase of the zhour period was descrivbed as the western zhou (1046 - 770BCE since the capital was in the west, in the wei river valley of Shaanxi province==
 	2. Zhou was in alliance with qiang who conquered the Shang
 	3. He set up fengjian system of decentralized government; the conquered land was divided into hereditary fiefs ( 諸侯 , zhuhou) turning into powerful domains of local lords
 	4. Introduced the concept of Mandate of heaven to legitimize its rulership and explained and justified the demise of xia and shang
 		1. Heaven represented supreme divine force (what Di was for Shang) – similar to the concept of cosmos
 	5. Zhou set an example for all succeeding dynasties, who would claim they had defeated the previous dynasty not because of superior strength but because their supreme deity, Heaven, had willed them to do so 
 	6. recognized only patrilineal primogeniture as legal
-	7. T==he zhou became the last of the three ancient dynasties Xia, Shang and Zhou==
+	7. T==he zhou became the last of the three ancient dynasties Xia, Shang and Zhou
+	8. Early zhou was the first period from which texts have been transmitted
+		1. ==Book of documents (shujing), later was deeemed on of teh confucian classics containing texts from the beginning of the zhou giving a version of their history
+	9. 
 18. Spring and Autumn Period  (Early Civilizations and States Xia, Shang and Zhou)
 	1. Zhou period was split into two halves(
 		1. Spring and Autumn period (770-481 BCE),
