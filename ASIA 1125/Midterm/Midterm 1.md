@@ -59,7 +59,10 @@ Identification Question:
 	2. ==can be divided by lantitude into the yangzi rice zone and the northern millet zone
 		1. ==Yangzi valley may be cultivated in the early 6800BCE, supplemented by fish and aquatic plants such as lotus, water chesnuts, and caltrops
 		2. ==Built wooden houses on stilts and amde lacquered bowls and blackish pottery with incised geometric designs. Basketry and weaving were highly developed.
-		3. 
+		3. ==Residents left spindle whorls whihc used to twist yarns and shuttles used in weaving
+		4. ==Used wooden tools like hoes, spears, mallets, and paddles
+		5. ==Hemudu villagers were at a higher technological level compared to those in the north amergican indian tribes in the seventeenth century
+		6. ==Neolithic cultures can be divided east-west on the basis of artistic styles and burial practices by the middle of the neolithic period
 9. Longshan culture (Myth and Archeology)
 	1. Societies became stratisfied, large number of ordered communities (ex. wan guo "ten thousands state")
 10. Erlitou culture (Myth and Archeology)
