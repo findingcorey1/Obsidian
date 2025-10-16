@@ -144,7 +144,9 @@ Identification Question:
 		1. Smallest were 5 and 10 households
 		2. Units formed larger units of county (Xian)
 			1. Provided local government's service
-			2. They orga
+			2. They organized armies, carried out public work, collected taxes, and administered jsutice
+	3. Shang established private ownership of land
+		1. land continued to be viewed under rulers property but the link between the land ownership and military service provided people with stronger claim to the land than when they worked in estates in earlier times 
 22. Qin Shi Huangdi  
 23. Human (early spiritual practices)  
 24. Heaven (early spiritual practices)  

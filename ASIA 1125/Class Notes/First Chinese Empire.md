@@ -22,7 +22,8 @@
 * Huang” ( 皇 ) - august / exalted; 皇 as 白 + 王 (linked to mythic “Three Sovereigns,” especially the Yellow Emperor ( 黃帝 ); Huang 黃 as 艹 + 田 + 八 + 一 
 * “Di” 帝 - emperor (divine, taken from the “Five Emperors” of legend)
 * ![[Pasted image 20251014194935.png]]
-* Qin Shi Huang, king of Qin (247-220 BCЕ)  
+
+Qin Shi Huang, king of Qin (247-220 BCЕ)  
 * Emperor (220-210)
 * Qin ruler required all six defeated kings move to his capital with the noble families of their kingdoms 
 * He took the title Shi Huangdi (First Augustus Emperor); Di (emperor, highest deity); fusing god-like king with great conqueror made self-divinization plausible 
