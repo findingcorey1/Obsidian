@@ -117,8 +117,12 @@ Identification Question:
 	1. Zhou period was split into two halves(
 		1. Spring and Autumn period (770-481 BCE),
 		2. Jin and the Warring States period (481-221 BCE)
-		3. 
-19. Duke Wen of Jin – Double Ears  
+	2. The Commentary of Mr. Zuo (4th century BCE) explains events during the Spring and Autumn period: over 500 battles among polities and over 100 civil wars within polities in a span of 259 years – between 722 and 463 BCE
+	3. 
+19. Duke Wen of Jin – Double Ears  (Early Civilizations and States Xia, Shang and Zhou)
+	1. (636-628 BCE)
+	2. was very successful, zhou king awardid him the title duke wen after death
+	3. 
 20. Warring States  
 21. Yang Shang (Lord Shang)  
 22. Qin Shi Huangdi  
