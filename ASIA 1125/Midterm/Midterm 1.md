@@ -139,6 +139,7 @@ Identification Question:
 		5. ==cups, goblets, steamers, and cauldrons beutifially shaped and decorated in variety of shapes and sizes     
 15. Wu Ding  (Early Civilizations and States Xia, Shang and Zhou)
 	1. Wu ding was the 11th king (reign 1250-1192 BCE) of the Shang (17 Kings) and the earliest figure in the history of the Chinese dynasties who has been confirmed by contemporary records
+	2. gas yieleded the remains 
 16. Fu Hao  (Early Civilizations and States Xia, Shang and Zhou)
 	1. 
 17. Zhou dynasty  (Early Civilizations and States Xia, Shang and Zhou)
