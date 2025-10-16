@@ -54,6 +54,10 @@ Identification Question:
 		* one of the earliest northern villages, with millet farming, music (bone flutes), and proto writing
 	* ==Known as "three sovereigns and five emperor" . was the peak at finding China's first dynasty 
 	* works such as the Bamboo annals and the Records of the Grand Historian, we are told that this period culminated in the founding of China’s first dynasty, the semi-mythical Xia, whose claimed transfer of power to the Shang Dynasty formed the ideological basis f or dynastic succession in the millennia ahead.
+	* ==Huang di, the yellow lord, inveneted the bow and arrow, boats, carts, ceramics, writing, and silk. 
+		* ==fought a great battle against alien tribes, thus securing the yellow river plain for his people
+		* ==China's earlist history stated he was said to be the first of the five great pre-dynastic rulers
+		* 
 7. Early modern humans (Home Sapiens) in China  (Myth and Archeology)
 	1. Modern humans reached china around 50,000 years ago
 	2. There were at the time different kinds of modern humans that developed in parrallel in several parts of the worl.
