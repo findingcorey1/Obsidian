@@ -74,7 +74,7 @@ Identification Question:
 12. Late bronze culture 
 	1. During the Shang Dynasty
 	2. Shang Dynasty: ex. Two handled bronze vessel, bronze axe
-13. Xia dynasty  
+13. Xia dynasty  (Early Civilizations and States Xia, Shang and Zhou)
 	1. Dated back in 2070 - 1600 BCE
 	2. Closely associated with Erlitou culture (ca. 1900–1500 BCE), but the connection is debated
 		1. Erlitou culture was discovered in Henan province and represents the earliest large- scale Bronze Age culture in China
@@ -89,7 +89,7 @@ Identification Question:
 		2. Was said initially that he declined the thrown but lowkcal lords praised him and was with how popular he was, the chiefs also agreed that he became the emperor at age 53
 	5. Established capital of Anyi, ruins of which are in modern Xia County in southern Shanxi Province 
 	6. Divided the realm into nine provinces
-14. Shang dynasty 
+14. Shang dynasty (Early Civilizations and States Xia, Shang and Zhou)
 	1. 1600 - 1046 BCE
 	2. Qi overthew the impious and cruel final Xia ruler Jie in the battle of Mingtao and became the first king of Shang
 	3. Wu ding was the 11th king (reign 1250-1192 BCE) of the Shang (17 Kings) and the earliest figure in the history of the Chinese dynasties who has been confirmed by contemporary records
@@ -101,17 +101,23 @@ Identification Question:
 		2. Bronze Axe
 		3. 1200 BCE, inscription on tutle shells and scapula bones, oracle bone inscription, divination
 		4. Oracle bone pit
-15. Wu Ding  
+15. Wu Ding  (Early Civilizations and States Xia, Shang and Zhou)
 	1. Wu ding was the 11th king (reign 1250-1192 BCE) of the Shang (17 Kings) and the earliest figure in the history of the Chinese dynasties who has been confirmed by contemporary records
-16. Fu Hao  
+16. Fu Hao  (Early Civilizations and States Xia, Shang and Zhou)
 	1. 
-17. Zhou dynasty  
+17. Zhou dynasty  (Early Civilizations and States Xia, Shang and Zhou)
 	1. 1046 -2256 BCE
 	2. Zhou was in alliance with qiang who conquered the Shang
 	3. He set up fengjian system of decentralized government; the conquered land was divided into hereditary fiefs ( 諸侯 , zhuhou) turning into powerful domains of local lords
 	4. Introduced the concept of Mandate of heaven to legitimize its rulership and explained and justified the demise of xia and shang
-	5. Zhou set an example for all succeediung dynasties, 
-18. Spring and Autumn Period  
+		1. Heaven represented supreme divine force (what Di was for Shang) – similar to the concept of cosmos
+	5. Zhou set an example for all succeeding dynasties, who would claim they had defeated the previous dynasty not because of superior strength but because their supreme deity, Heaven, had willed them to do so 
+	6. recognized only patrilineal primogeniture as legal
+18. Spring and Autumn Period  (Early Civilizations and States Xia, Shang and Zhou)
+	1. Zhou period was split into two halves(
+		1. Spring and Autumn period (770-481 BCE),
+		2. Jin and the Warring States period (481-221 BCE)
+		3. 
 19. Duke Wen of Jin – Double Ears  
 20. Warring States  
 21. Yang Shang (Lord Shang)  
