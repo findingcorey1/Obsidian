@@ -139,11 +139,14 @@ Identification Question:
 		5. ==cups, goblets, steamers, and cauldrons beutifially shaped and decorated in variety of shapes and sizes     
 15. Wu Ding  (Early Civilizations and States Xia, Shang and Zhou)
 	1. Wu ding was the 11th king (reign 1250-1192 BCE) of the Shang (17 Kings) and the earliest figure in the history of the Chinese dynasties who has been confirmed by contemporary records
-	2. gas yieleded the remains 
+	2. has yielded the remains of 90 followers who accompanied him in death, 74 human sacrifices, 12 horses, and eleven dogs.
+		1. Victims were placed in a ashaft, ledges and ramps
 16. Fu Hao  (Early Civilizations and States Xia, Shang and Zhou)
 	1. 
 17. Zhou dynasty  (Early Civilizations and States Xia, Shang and Zhou)
 	1. 1046 -2256 BCE
+		1. 1046 BCE, zhou rose agaisnt shang and defeated it in battle
+			1. THe first phase of the zhour period was descrivbed as the western zhou (1046
 	2. Zhou was in alliance with qiang who conquered the Shang
 	3. He set up fengjian system of decentralized government; the conquered land was divided into hereditary fiefs ( 諸侯 , zhuhou) turning into powerful domains of local lords
 	4. Introduced the concept of Mandate of heaven to legitimize its rulership and explained and justified the demise of xia and shang
