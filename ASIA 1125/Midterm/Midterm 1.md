@@ -105,6 +105,7 @@ Identification Question:
 12. Late bronze culture 
 	1. During the Shang Dynasty
 	2. Shang Dynasty: ex. Two handled bronze vessel, bronze axe
+
 13. Xia dynasty  (Early Civilizations and States Xia, Shang and Zhou)
 	1. Dated back in 2070 - 1600 BCE
 	2. Closely associated with Erlitou culture (ca. 1900–1500 BCE), but the connection is debated
