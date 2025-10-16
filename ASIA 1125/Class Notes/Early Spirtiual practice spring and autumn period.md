@@ -5,7 +5,7 @@
 * Another vital component of the human being was the spirit (shen, 神), which endowed humans with consciousness and awareness
 * While alive humans would try to cultivate these energies and their spirit and keep them within human body
 * When humans die, these energies and spirit would leave the body
-* ==The recently deceased ghosts tend to be overwhelmed by energies associated with jealousy, anger and resentment directed at the living, partially because they were still alive; the spirit freed from the body would become more powerful==
+* The recently deceased ghosts tend to be overwhelmed by energies associated with jealousy, anger and resentment directed at the living, partially because they were still alive; the spirit freed from the body would become more powerful
 * This results in dangerous ghosts or demons which tend to haunt the living
 * Fortunately for the living, the energies of anger and resentment dissipated over time; with this the spirit grew even more powerful and more distant from the living and increasingly roam in the heavens above
 * The heavens were filled with other spirits (shen) as well, including various nature spirits, and most importantly, with Heaven itself (also called the Di – God) which many saw as the most powerful deity

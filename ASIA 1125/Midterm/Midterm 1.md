@@ -166,10 +166,16 @@ Identification Question:
 	3. Vital component of human beings were spirits (shen, 神), which means they present humans with consciousness and awareness
 		1. When humans die their energies and spirits would leave their body but when humans are still alive they would try to contain their energies and spirits and keep them within their body
 		2. Spirits that are release recently tend to show excess energy like jealousy, anger and resentment at those who are living because they are still living. After they release they become more powerful and dangerous to the point they will haunt those who are living.
+	4. 
 24. Heaven (early spiritual practices)
-	1. 
+	1. The heavens were filled with other spirits (shen) as well, including various nature spirits, and most importantly, with Heaven itself (also called the Di – God) which many saw as the most powerful deity
+	2.  Shangdi (上帝) or Di is a supreme god and sky deity in Chinese traditional religions; he was also identified as Tian (天) - Heaven, Universe
+	3.  As the spirit of the deceased shed more of the elements which held it down to earth (body and souls of personality) it became like other spirits in the heavens – more powerful than the ghosts but also distant and potentially indifferent to humans
+	4. Such indifference could be dangerous, since the spirits controlled things like weather
+	5. At the proper ritual moments the spirits would be called down from heavens to enter the temple and to be sacrificed to as ancestor, then called on to act like ancestor and treat the living as descendants who should be supported
 25. Ancestors (early spiritual practices)
-	1. 
+	1. The goal was to use sacrifice to transform the recently deceased spirits into ancestors who the would be called upon in support of their descendants
+	2. The separation of the souls from the spirit and converting the spirit into ancestor is not always successful; for the recently deceased the spirit could link up with the souls and energies and thus become dangerous ghosts and the more distant ancestors tend to become indifferent to the needs of the living
 
 Dear All,
 
