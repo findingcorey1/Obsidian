@@ -228,7 +228,9 @@ Identification Question:
 	3.  As the spirit of the deceased shed more of the elements which held it down to earth (body and souls of personality) it became like other spirits in the heavens – more powerful than the ghosts but also distant and potentially indifferent to humans
 	4. Such indifference could be dangerous, since the spirits controlled things like weather
 	5. At the proper ritual moments the spirits would be called down from heavens to enter the temple and to be sacrificed to as ancestor, then called on to act like ancestor and treat the living as descendants who should be supported
-	6. ==Conceived as something like the sacred moral power
+	6. ==Conceived as something like the sacred moral power of the cosmos
+	7. ==In transmitted text and bronze inscriptions, it was said that the rule fo zhou kings were linked to heaven
+		1. ==A king and dynasty could rule only so long as they retain
 25. Ancestors (early spiritual practices)
 	1. The goal was to use sacrifice to transform the recently deceased spirits into ancestors who the would be called upon in support of their descendants
 	2. The separation of the souls from the spirit and converting the spirit into ancestor is not always successful; for the recently deceased the spirit could link up with the souls and energies and thus become dangerous ghosts and the more distant ancestors tend to become indifferent to the needs of the living
