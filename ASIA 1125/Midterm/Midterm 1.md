@@ -91,7 +91,11 @@ Identification Question:
 	6. Divided the realm into nine provinces
 14. Shang dynasty 
 	1. 1600 - 1046 BCE
-	2. 
+	2. Qi overthew the impious and cruel final Xia ruler Jie in the battle of Mingtao and became the first king of Shang
+	3. Wu ding was the 11th king (reign 1250-1192 BCE) of the Shang (17 Kings) and the earliest figure in the history of the Chinese dynasties who has been confirmed by contemporary records
+	4. ~1500 BCE was the time of major state formation emerged, expanded outwards to rule and later briefly larger territories as well
+		1. ~1300 BCE the state retreated due to being under pressure from newer polities that formed on its borders 
+	5. 
 15. Wu Ding  
 16. Fu Hao  
 17. Zhou dynasty  

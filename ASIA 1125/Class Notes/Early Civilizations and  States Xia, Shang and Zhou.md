@@ -41,7 +41,7 @@
 * Wu ding was the 11th king (reign 1250-1192 BCE) of the Shang (17 Kings) and the earliest figure in the history of the Chinese dynasties who has been confirmed by contemporary records
 * Archaeological record suggest that during the first half of second millennium BCE urban societies arose in the Yellow River region
 * About 1500 BCE a major state formation (coincided with Shang in the records) emerged there and expanded outwards to rule, perhaps briefly, larger territories
-* By about 1300 BCE that state retreated likely under pressure from newer polities that had formed on its broders
+* By about 1300 BCE that state retreated likely under pressure from newer polities that had formed on its borders
 * In the next few centuries there was network of interacting entities, among them the one that ruled at Anyang (Shang) which became a major settlement about 1200 BCE
 * The horse-drawn chariot (a borrowing which implies contact with northern zone), appeared at Anyang, and the tomb of Fu Hao contained artifacts from many different sources, indicating interaction between Anyang and various neighbors
 * The material culture evidence shows that the most civilized neighbors of Anyang kings were in the Yangzi region
