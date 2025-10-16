@@ -126,9 +126,15 @@ Identification Question:
 	4. Wen was born to non-Chinese (Rong) mother, and fought with his half-brothers to regain control of his father’s realm; he tripled the army after he became ruler of Jin
 	5. After Wen’s defeat of Chu forces rulers of several small polities acknowledged the dominant position of Jin by taking an oath before gods, called blood covenants, which bound the participants to adhere to the agreements Duke 
 	6. was shown that he was the most powerful leader, he adhered to ancient ritual nforms by presenting 400 horses and thousands of men taken from the chu forces
-	7. 
-20. Warring States  
+	7. The Zhou king recognized Wen of Jin as the protector of all the other polities
+	8. 
+20. Warring States  (Early Civilizations and States Xia, Shang and Zhou)
+	1.  Seven Warring States in the 3rd century BCЕ: Qin ( 秦 ), Qi ( 齊 / 齐 ), Chu ( 楚 ), Yan ( 燕 ), Han ( 韓 / 韩 ), Zhao ( 趙 / 赵 ), Wei ( 魏 )
+	2. Urbanization; militarization; peak of Chinese bronze-ware making 
+	3. The written script evolved into its modern form with the use of an archaic clerical script that emerged during the late Warring States period 
+	4. Development of Chinese philosophy starting from 6th century BC: Confucius, Mencius – Confucianism; Laozi – Daoism; Mozi – Mohism; Legalism (Shang Yang)
 21. Yang Shang (Lord Shang)  
+	1. 
 22. Qin Shi Huangdi  
 23. Human (early spiritual practices)  
 24. Heaven (early spiritual practices)  
