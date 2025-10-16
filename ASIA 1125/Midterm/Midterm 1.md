@@ -1,5 +1,5 @@
 Identification Question:
-1. Homo Sapiens  (The beginning)
+1. [[Homo Sapiens]]  (The beginning)
 	1. Human skull found 40,000 BC, one found in Liujiang (aprox 68,000 years old)
 	2. Modern human reached <u>China</u> about 50,000 years ago. <u>Korean Peninsula</u> about 40-45,000 years ago, <u>Japan archipelago</u> about 35-38,000 years ago
 2. Out of Africa theory (The beginning)
@@ -88,7 +88,7 @@ Identification Question:
 		1.  The project renown status, and is referred to in chinese history as "Great tu controls the water"   (大禹治水 Da Yu Zhi Shui) 
 		2. Was said initially that he declined the thrown but lowkcal lords praised him and was with how popular he was, the chiefs also agreed that he became the emperor at age 53
 	5. Established capital of Anyi, ruins of which are in modern Xia County in southern Shanxi Province 
-	6. Divided the realm into nine provinces
+	6. Divided the realm into nine provinces (regions) and had bronzes vessels casted to represent each one
 14. Shang dynasty (Early Civilizations and States Xia, Shang and Zhou)
 	1. 1600 - 1046 BCE
 	2. Qi overthew the impious and cruel final Xia ruler Jie in the battle of Mingtao and became the first king of Shang
@@ -176,6 +176,8 @@ Identification Question:
 25. Ancestors (early spiritual practices)
 	1. The goal was to use sacrifice to transform the recently deceased spirits into ancestors who the would be called upon in support of their descendants
 	2. The separation of the souls from the spirit and converting the spirit into ancestor is not always successful; for the recently deceased the spirit could link up with the souls and energies and thus become dangerous ghosts and the more distant ancestors tend to become indifferent to the needs of the living
+	3. With each passing generations sacrifices would be given to the most recently deceased ancestors who would be called to serve the next highest in the lineage, all the way up to these ancestors who would be called upon to serve Heaven
+	4. 
 
 Dear All,
 
