@@ -95,10 +95,18 @@ Identification Question:
 	3. Wu ding was the 11th king (reign 1250-1192 BCE) of the Shang (17 Kings) and the earliest figure in the history of the Chinese dynasties who has been confirmed by contemporary records
 	4. ~1500 BCE was the time of major state formation emerged, expanded outwards to rule and later briefly larger territories as well
 		1. ~1300 BCE the state retreated due to being under pressure from newer polities that formed on its borders 
-	5. 
+	5. Horse draw chariots appeared at Anyang and the tomb of Fu hao contained artifacts from different sources, which showed interactions between Anyang and various neighbors
+	6. material culture evidence shows that the most civilized neighbors of Anyang kings were in the Yangzi region
+		1. Two handled bronze vessels
+		2. Bronze Axe
+		3. 1200 BCE, inscription on tutle shells and scapula bones, oracle bone inscription, divination
+		4. Oracle bone pit
 15. Wu Ding  
+	1. Wu ding was the 11th king (reign 1250-1192 BCE) of the Shang (17 Kings) and the earliest figure in the history of the Chinese dynasties who has been confirmed by contemporary records
 16. Fu Hao  
+	1. 
 17. Zhou dynasty  
+	1. 1046 -2256 BCE
 18. Spring and Autumn Period  
 19. Duke Wen of Jin – Double Ears  
 20. Warring States  
