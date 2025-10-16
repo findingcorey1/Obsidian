@@ -122,7 +122,11 @@ Identification Question:
 19. Duke Wen of Jin – Double Ears  (Early Civilizations and States Xia, Shang and Zhou)
 	1. (636-628 BCE)
 	2. was very successful, zhou king awardid him the title duke wen after death
-	3. 
+	3. ruled Jin realm, originally territory of younger brother of a Zhou king (present Shanxi province), capital Hoama
+	4. Wen was born to non-Chinese (Rong) mother, and fought with his half-brothers to regain control of his father’s realm; he tripled the army after he became ruler of Jin
+	5. After Wen’s defeat of Chu forces rulers of several small polities acknowledged the dominant position of Jin by taking an oath before gods, called blood covenants, which bound the participants to adhere to the agreements Duke 
+	6. was shown that he was the most powerful leader, he adhered to ancient ritual nforms by presenting 400 horses and thousands of men taken from the chu forces
+	7. 
 20. Warring States  
 21. Yang Shang (Lord Shang)  
 22. Qin Shi Huangdi  
