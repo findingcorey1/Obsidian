@@ -2,6 +2,7 @@ Identification Question:
 1. [[Homo Sapiens]]  (The beginning)
 	1. Human skull found 40,000 BC, one found in Liujiang (aprox 68,000 years old)
 	2. Modern human reached <u>China</u> about 50,000 years ago. <u>Korean Peninsula</u> about 40-45,000 years ago, <u>Japan archipelago</u> about 35-38,000 years ago
+	3. They reached China by going through India and southeast asia about 50,000 years ago
 2. Out of Africa theory (The beginning)
 	1. Widely accepted theory/explanation that homo sapiens first evolved in Africa and migrated to other parts of the world
 	2. Sites along Oma river, Ethiopia yield the earliest fossil evidence for anatomically modern homo sapiens, about 200,000 years ago
@@ -46,7 +47,8 @@ Identification Question:
 	* Jianhu and Peiligang culture (around 7000 - 5000 BCE) (Henan, Yellow River)
 		* one of the earliest northern villages, with millet farming, music (bone flutes), and proto writing
 7. Early modern humans (Home Sapiens) in China  (Myth and Archeology)
-	1. 
+	1. Modern humans reached china around 50,000 years ago
+	2. 
 8. First Neolithic villages in China (Yellow River and Yangtze River basins) (Myth and Archeology)
 	1. Early village, linked to the origins of rice agriculture in the south (Yangzi Valley)
 		Together, they show that the roots of Chinese cavitation came form both the Yangzi (Rice) and (Millet) basins
