@@ -186,7 +186,7 @@ Identification Question:
 	7. ==During the Warring States period, the feudal domains of the early Zhou came to function as independent states. Over time the number of states rapidly declined as the more powerful ones conquered and absorbed their neighbours.
 	8. ==During the late Warring States period, Qin took a series of steps to make itself a more efficient and powerful state. It abolished the aristocracy, substituting a hierarchy of military titles awarded on the objective criterion of the number of enemy heads cut off in battle. Thus the state alone determined rank and the privileges attached to it
 	9. 
-21. Yang Shang (Lord Shang)  
+21. ==Yang Shang (Lord Shang)==  
 	1. A powerful prime miniser, who initiated series of reforms to build a strong legalist state in 359 BCE (Legalist - Law expert)
 		1. Architect of qin success
 	2. He divided Qin society into interlocking units
