@@ -1,17 +1,17 @@
 Identification Question:
 1. [[Homo Sapiens]]  (The beginning)
-	1. Human skull found 40,000 BC, one found in Liujiang (aprox 68,000 years old)
-	2. Modern human reached <u>China</u> about 50,000 years ago. <u>Korean Peninsula</u> about 40-45,000 years ago, <u>Japan archipelago</u> about 35-38,000 years ago
-	3. They reached China by going through India and southeast asia about 50,000 years ago
-	4. ==appeared in east asia around 100,000 years ago spreading around africa
-	5. ==During Old stone age (100,000 to 10,000 BC)(Paleolithic period), humans began to speak 
+	1. Sites along Oma river, Ethiopia yield the earliest fossil evidence for anatomically modern homo sapiens, about 200,000 years ago
+	2. Human skull found 40,000 BC, one found in Liujiang (aprox 68,000 years old)
+	3. Modern human reached <u>China</u> about 50,000 years ago. <u>Korean Peninsula</u> about 40-45,000 years ago, <u>Japan archipelago</u> about 35-38,000 years ago
+	4. They reached China by going through India and southeast asia about 50,000 years ago
+	5. ==appeared in east asia around 100,000 years ago spreading around africa
+	6. ==During Old stone age (100,000 to 10,000 BC)(Paleolithic period), humans began to speak 
 		1. Language expandid symbolic capabilitie, allowing for development of notions of gods and kinship, for instance
-	6. ==Over the course of these thousands of years, we can reasonably assume that many bands of people migrated across the Chinese subcontinent, fighting with each other when threatened, splitting up or merging when survival dictated. Some early bands moved on to the Pacific islands or the Americas
-	7. 
+	7. ==Over the course of these thousands of years, we can reasonably assume that many bands of people migrated across the Chinese subcontinent, fighting with each other when threatened, splitting up or merging when survival dictated. Some early bands moved on to the Pacific islands or the Americas
+	8. 
 2. Out of Africa theory (The beginning)
 	1. Widely accepted theory/explanation that homo sapiens first evolved in Africa and migrated to other parts of the world
-	2. Sites along Oma river, Ethiopia yield the earliest fossil evidence for anatomically modern homo sapiens, about 200,000 years ago
-	3. Mitochondrial Eve is the matrilineal most recent common ancestor (MRCA) of all currently living humans (between 100,000 and 200,000 years ago)
+	2. Mitochondrial Eve is the matrilineal most recent common ancestor (MRCA) of all currently living humans (between 100,000 and 200,000 years ago)
 	* Emergence of M and N mitochondrial haplogroups – around 70,00 to 60,000 years ago, migration out of Africa (home sapiens who migrated may have interbred with Neanderthals they encountered)
 	* ==
 3. Cognitive revolution (The beginning)

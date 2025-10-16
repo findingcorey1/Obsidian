@@ -1,1 +1,1 @@
-There are many significance with term homo sapiens as they were scientifically known as Modern humans due to the their overall structure and most notably their human skull. 
+There are many significance with term homo sapiens as they were scientifically known as Modern humans due to the their overall structure and most notably their human skull.  The first signs of life was from 200,000 years ago, from the remains found along the Oma river in Ethiopia. Many of these homo sapiens had traveled to many places around the world and adapted to many different places.  A term 
