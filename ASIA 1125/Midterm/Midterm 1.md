@@ -107,7 +107,8 @@ Identification Question:
 	1. 
 17. Zhou dynasty  
 	1. 1046 -2256 BCE
-	2. 
+	2. Zhou was in alliance with qiang who conquered the Shang
+	3. 
 18. Spring and Autumn Period  
 19. Duke Wen of Jin – Double Ears  
 20. Warring States  
