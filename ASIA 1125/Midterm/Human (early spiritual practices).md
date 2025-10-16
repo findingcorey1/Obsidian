@@ -1,0 +1,1 @@
+Early Human spiritual practices shows many signifance in early China, at the time many believed in spirits and spiritual rituals will help them. It was told that humans were believed to be composed of countless energies, souls, and powers. Some significant spiritual forms consisted of qi (氣) - related to human emoptions, 
