@@ -1,0 +1,1 @@
+The out of Africa theory was a widely accepted theory, thoroughly explaining that homo sapiens were first evolved from Africa and soon after migrated to many parts of the world like China. From this theory we can tell this was true because researchers had found numerous fossils and skulls dating back 50,000 years ago in China, 40-45,000 years ago in Korea, and approximately   
