@@ -167,13 +167,14 @@ Identification Question:
 	5. ==In the Spring and Autumn period the head of one state was sometimes able to get the others to recognize him as hegemon or overlord, chief of an alliance of states. The most notable of these was Duke Huan of Qi (r. 685-643 BC).
 19. Duke Wen of Jin – Double Ears  (Early Civilizations and States Xia, Shang and Zhou)
 	1. (636-628 BCE)
-	2. was very successful, zhou king awardid him the title duke wen after death
+	2. was very successful, zhou king awarded him the title duke wen after death
 	3. ruled Jin realm, originally territory of younger brother of a Zhou king (present Shanxi province), capital Hoama
 	4. Wen was born to non-Chinese (Rong) mother, and fought with his half-brothers to regain control of his father’s realm; he tripled the army after he became ruler of Jin
 	5. After Wen’s defeat of Chu forces rulers of several small polities acknowledged the dominant position of Jin by taking an oath before gods, called blood covenants, which bound the participants to adhere to the agreements Duke 
 	6. was shown that he was the most powerful leader, he adhered to ancient ritual nforms by presenting 400 horses and thousands of men taken from the chu forces
 	7. The Zhou king recognized Wen of Jin as the protector of all the other polities
-	8. 
+	8. ==King Wen (the 'Cultured King') formed alliances with neighboring states and tribes in preparation for attacking the Shang
+	9. ==King Wu died young, only six years after the conquest, and his brother, the Duke of Zhou, acted as regent for King Wu's young son
 20. Warring States  (Early Civilizations and States Xia, Shang and Zhou), (First Chinese Empire)
 	1.  Seven Warring States in the 3rd century BCЕ: Qin ( 秦 ), Qi ( 齊 / 齐 ), Chu ( 楚 ), Yan ( 燕 ), Han ( 韓 / 韩 ), Zhao ( 趙 / 赵 ), Wei ( 魏 )
 	2. Urbanization; militarization; peak of Chinese bronze-ware making 
