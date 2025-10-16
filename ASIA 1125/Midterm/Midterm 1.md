@@ -46,6 +46,7 @@ Identification Question:
 		* Yellow Emperor and his court officials are credited with the institutions of rule are credited with the institutions of rule, sophisticated calendars, and writing
 	* Jianhu and Peiligang culture (around 7000 - 5000 BCE) (Henan, Yellow River)
 		* one of the earliest northern villages, with millet farming, music (bone flutes), and proto writing
+	* 
 7. Early modern humans (Home Sapiens) in China  (Myth and Archeology)
 	1. Modern humans reached china around 50,000 years ago
 	2. There were at the time different kinds of modern humans that developed in parrallel in several parts of the worl.
@@ -70,7 +71,6 @@ Identification Question:
 	4. There were graves for the first time since farmers built vilalges and burried their dead bodies in cemeteries outside those villages
 		1. ==Elite burioalas become more elaborate
 		2. ==Richest graves consisted of 50+ items ranging from necklace and bracelets made from jade to stone and pottery beads. 
-		3. 
 	5. Hierarchical order in cluster of tombs
 		1. suggest segmentary lineage type of kinship organization
 		2. Each lineage is stratified according to the distance of the stem
