@@ -76,7 +76,7 @@ Identification Question:
 		4. ==Used wooden tools like hoes, spears, mallets, and paddles
 		5. ==Hemudu villagers were at a higher technological level compared to those in the north amergican indian tribes in the seventeenth century
 		6. ==Neolithic cultures can be divided east-west on the basis of artistic styles and burial practices by the middle of the neolithic period
-9. [[Longshan culture (Not Done)]] (Myth and Archeology)
+9. [[Longshan culture]] (Myth and Archeology)
 	1. (3000 - 2000 BCE), ==Late Neolithic Period== 
 	2. ==Increased social and political complexity as well as incerase contact
 	3. Societies became stratisfied, large number of ordered communities (ex. wan guo "ten thousands state")
