@@ -356,3 +356,67 @@ _(The time is chosen to minimize interference with your weekly schedule.)_ 
 - Sources:  Patricia Buckley Ebrey, _The Cambridge Illustrated History of China_ (pp. 1-89); lecture notes and recordings; class discussions; assigned documents and documentaries.
     
 - Lecture notes and recordings are available on Brightspace.
+
+
+
+**ASIA 1125 — Midterm Exam**
+
+**Time:** 1 hour 15 minutes
+
+### **Submission Instructions**
+
+Please **write all your answers in one Word file (.docx)** using **double spacing** and **12-point font size**.  
+Leave **space between answers**, and clearly **identify the question you are answering** at the beginning of each response.
+
+Submit the completed file under  
+**Assessment → Assignments → Midterm Exam Submission Folder** in Brightspace.
+
+**Important Note:**  
+All work must be written in your **own words,** demonstrating your understanding of the material.  
+**Plagiarism will disqualify the exam.**
+
+**I. Identification Questions (3 × 20 = 60 points)**
+
+Select **three (3)** of the following terms, events, or figures.  
+For each, **identify**, **describe**, and **explain** its **historical significance** in about **200 words**.
+
+1. Neolithic (agricultural) revolution
+2. Yellow Emperor
+3. Late Bronze culture
+4. Wu Ding
+5. Warring States
+6. Yang Shang (Lord Shang)
+7. Qin Shi Huangdi
+8. Ancestors (early spiritual practices)
+
+**Guidelines:**
+
+- Define the term or person clearly.
+- Provide relevant **historical context** (time, location, major features).
+- Explain **why it matters** — its impact on Chinese political, social, or cultural development.
+- Use **specific examples**
+
+---
+
+**II. Documentary Essay (1 × 40 = 40 points)**
+
+**Documentary:** _The Birth of a Dynasty – China’s First Emperor (min 5-23)_  
+[Watch from min. 5:00 – 23:00](https://www.youtube.com/watch?v=h-SC0vKIWV0&t=11s)
+
+[https://www.youtube.com/watch?v=h-SC0vKIWV0&t=11s](https://www.youtube.com/watch?v=h-SC0vKIWV0&t=11s)
+
+This segment examines the rise of King Zheng of Qin (Yíng Zheng) — later known as Qin Shi Huang (the First Emperor) — who unified China and established the foundations of its imperial system.
+
+**Instructions:**  
+Watch carefully and answer **one (1)** of the following questions in about 300 words:
+
+1. How did King Zheng of Qin (later Qin Shi Huang) come to power, and what did his rise mean for the state of Qin and for China as a whole?
+2. What were the main advantages of the Qin military compared with other Warring States, and how did these advantages contribute to its success?
+3. What were the key driving factors behind Qin’s unification of China? Consider political, economic, military, and ideological dimensions.
+
+**Tips:**
+
+- Base your answer on the documentary segment (5:00–23:00) and class material.
+- Show cause and effect - how reforms or strategies led to unification.
+- Organize clearly: introduction → main points → conclusion.
+- Write in your own words (no quotations or citations needed).
