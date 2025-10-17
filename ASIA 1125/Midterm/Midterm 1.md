@@ -240,11 +240,11 @@ Identification Question:
 		1. ==A king and dynasty could rule only so long as they retained heavens favour
 		2. If a king neglected his sacred duties and acted tyrannically, heaven would display its displeasure by sending down ominous portents and natural disasters.
 		3. 
-25. [[Ancestors (not done)]] (early spiritual practices)
+25. [[Ancestors]] (early spiritual practices)
 	1. The goal was to use sacrifice to transform the recently deceased spirits into ancestors who the would be called upon in support of their descendants
 	2. The separation of the souls from the spirit and converting the spirit into ancestor is not always successful; for the recently deceased the spirit could link up with the souls and energies and thus become dangerous ghosts and the more distant ancestors tend to become indifferent to the needs of the living
 	3. With each passing generations sacrifices would be given to the most recently deceased ancestors who would be called to serve the next highest in the lineage, all the way up to these ancestors who would be called upon to serve Heaven
-	4. 
+	4. ==pg 21 in textbook
 
 Dear All,
 
