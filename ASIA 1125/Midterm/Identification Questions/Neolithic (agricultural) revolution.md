@@ -1,0 +1,1 @@
+The neolithic revolution was a massive turning point for the human history, it was the shift from hunter and 
