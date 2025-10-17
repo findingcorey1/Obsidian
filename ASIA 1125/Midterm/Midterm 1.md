@@ -170,7 +170,7 @@ Identification Question:
 	8. Early zhou was the first period from which texts have been transmitted
 		1. ==Book of documents (shujing), later was deeemed on of teh confucian classics containing texts from the beginning of the zhou giving a version of their history
 	9. 
-18. [[Spring and Autumn Period]]  (Early Civilizations and States Xia, Shang and Zhou)
+18. [[Spring and Autumn Period (not done)]]  (Early Civilizations and States Xia, Shang and Zhou)
 	1. Zhou period was split into two halves(
 		1. Spring and Autumn period (770-481 BCE),
 		2. Jin and the Warring States period (481-221 BCE)
@@ -178,7 +178,7 @@ Identification Question:
 	3. ==aristocratic period, and the zhou king continued to reighn in louyang during these centuries, but regional lords had much of the poiwer and competed agaisnt each other making and breaking alliances exchanging hostages, and sporadically taking up arms
 	4. ==During the Spring and Autumn period a code of chivalrous or sportsmanlike conduct still regulated warfare between the states. For instance, one state would not attack another while it was in mourning for its ruler, and during battle one side would not attack before the other side had time to line up. Perhaps out of fear of the wrath of the ancestors   of defeated rulers , efforts were made not to wipe out ruling houses, but to         leave at least one successor to continue the sacrifices. 
 	5. ==In the Spring and Autumn period the head of one state was sometimes able to get the others to recognize him as hegemon or overlord, chief of an alliance of states. The most notable of these was Duke Huan of Qi (r. 685-643 BC).
-19. Duke Wen of Jin – Double Ears  (Early Civilizations and States Xia, Shang and Zhou)
+19. [[Duke Wen of Jin – Double Ears (not done)]]  (Early Civilizations and States Xia, Shang and Zhou)
 	1. (636-628 BCE)
 	2. was very successful, zhou king awarded him the title duke wen after death
 	3. ruled Jin realm, originally territory of younger brother of a Zhou king (present Shanxi province), capital Hoama
@@ -188,7 +188,7 @@ Identification Question:
 	7. The Zhou king recognized Wen of Jin as the protector of all the other polities
 	8. ==King Wen (the 'Cultured King') formed alliances with neighboring states and tribes in preparation for attacking the Shang
 	9. ==King Wu died young, only six years after the conquest, and his brother, the Duke of Zhou, acted as regent for King Wu's young son
-20. Warring States  (Early Civilizations and States Xia, Shang and Zhou), (First Chinese Empire)
+20. [[Warring States (not done)]]  (Early Civilizations and States Xia, Shang and Zhou), (First Chinese Empire)
 	1.  Seven Warring States in the 3rd century BCЕ: Qin ( 秦 ), Qi ( 齊 / 齐 ), Chu ( 楚 ), Yan ( 燕 ), Han ( 韓 / 韩 ), Zhao ( 趙 / 赵 ), Wei ( 魏 )
 	2. Urbanization; militarization; peak of Chinese bronze-ware making 
 	3. The written script evolved into its modern form with the use of an archaic clerical script that emerged during the late Warring States period 
@@ -199,7 +199,7 @@ Identification Question:
 	7. ==During the Warring States period, the feudal domains of the early Zhou came to function as independent states. Over time the number of states rapidly declined as the more powerful ones conquered and absorbed their neighbours.
 	8. ==During the late Warring States period, Qin took a series of steps to make itself a more efficient and powerful state. It abolished the aristocracy, substituting a hierarchy of military titles awarded on the objective criterion of the number of enemy heads cut off in battle. Thus the state alone determined rank and the privileges attached to it
 	9. 
-21. ==Yang Shang (Lord Shang)== (not done) 
+21. ==[[Yang Shang (not done)]] (Lord Shang)== (not done) 
 	1. A powerful prime miniser, who initiated series of reforms to build a strong legalist state in 359 BCE (Legalist - Law expert)
 		1. Architect of qin success
 	2. He divided Qin society into interlocking units
@@ -240,7 +240,7 @@ Identification Question:
 		1. ==A king and dynasty could rule only so long as they retained heavens favour
 		2. If a king neglected his sacred duties and acted tyrannically, heaven would display its displeasure by sending down ominous portents and natural disasters.
 		3. 
-25. [[Ancestors]] (early spiritual practices)
+25. [[Ancestors (not done)]] (early spiritual practices)
 	1. The goal was to use sacrifice to transform the recently deceased spirits into ancestors who the would be called upon in support of their descendants
 	2. The separation of the souls from the spirit and converting the spirit into ancestor is not always successful; for the recently deceased the spirit could link up with the souls and energies and thus become dangerous ghosts and the more distant ancestors tend to become indifferent to the needs of the living
 	3. With each passing generations sacrifices would be given to the most recently deceased ancestors who would be called to serve the next highest in the lineage, all the way up to these ancestors who would be called upon to serve Heaven
