@@ -209,7 +209,7 @@ Identification Question:
 			2. They organized armies, carried out public work, collected taxes, and administered jsutice
 	3. Shang established private ownership of land
 		1. land continued to be viewed under rulers property but the link between the land ownership and military service provided people with stronger claim to the land than when they worked in estates in earlier times 
-22. [[Qin Shi Huangdi ( Not Done)]]
+22. [[Qin Shi Huangdi]]
 	1. King of Qiun 247-220 BCE
 	2. Emperor (220-210)
 		1. To consolidate power, he toured the empire five times between 220 - 210 to prove to people of his powers and make offering to spirits
