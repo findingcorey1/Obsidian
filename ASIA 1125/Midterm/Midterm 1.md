@@ -188,6 +188,7 @@ Identification Question:
 	7. The Zhou king recognized Wen of Jin as the protector of all the other polities
 	8. ==King Wen (the 'Cultured King') formed alliances with neighboring states and tribes in preparation for attacking the Shang
 	9. ==King Wu died young, only six years after the conquest, and his brother, the Duke of Zhou, acted as regent for King Wu's young son
+	10. ==Jin had broken up into Zhao, WEio and han in 453 BC
 20. [[Warring States]]  (Early Civilizations and States Xia, Shang and Zhou), (First Chinese Empire)
 	1.  Seven Warring States in the 3rd century BCЕ: Qin ( 秦 ), Qi ( 齊 / 齐 ), Chu ( 楚 ), Yan ( 燕 ), Han ( 韓 / 韩 ), Zhao ( 趙 / 赵 ), Wei ( 魏 )
 	2. Urbanization; militarization; peak of Chinese bronze-ware making 
