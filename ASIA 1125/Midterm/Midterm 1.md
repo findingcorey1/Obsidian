@@ -170,7 +170,7 @@ Identification Question:
 	8. Early zhou was the first period from which texts have been transmitted
 		1. ==Book of documents (shujing), later was deeemed on of teh confucian classics containing texts from the beginning of the zhou giving a version of their history
 	9. 
-18. [[Spring and Autumn Period (not done)]]  (Early Civilizations and States Xia, Shang and Zhou)
+18. [[Spring and Autumn Period]]  (Early Civilizations and States Xia, Shang and Zhou)
 	1. Zhou period was split into two halves(
 		1. Spring and Autumn period (770-481 BCE),
 		2. Jin and the Warring States period (481-221 BCE)
