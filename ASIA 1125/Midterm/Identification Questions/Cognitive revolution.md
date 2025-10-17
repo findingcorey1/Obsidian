@@ -1,1 +1,1 @@
-The significance of the cognitive revolution started back at approximately 70,000 years ago where homo sapiens had started to develop more elaborate structures called culture. Every cul
+The significance of the cognitive revolution started back at approximately 70,000 years ago where homo sapiens had started to develop more elaborate structures called culture. Each culture varied in things they did and the stuff they created. This is show through what we called history, which was a development of the human culture. 
