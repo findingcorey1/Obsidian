@@ -202,12 +202,13 @@ Identification Question:
 21. ==[[Yang Shang (not done)]] (Lord Shang)== (not done) 
 	1. A powerful prime miniser, who initiated series of reforms to build a strong legalist state in 359 BCE (Legalist - Law expert)
 		1. Architect of qin success
-	2. He divided Qin society into interlocking units
+	2. ==The first of the two lengthy Legalist treatises that survive has traditionally been ascribed to Lord Shang (Gongsun Yang, d. 338 BC) , chief minister of the state of Qin,
+	3. He divided Qin society into interlocking units
 		1. Smallest were 5 and 10 households
 		2. Units formed larger units of county (Xian)
 			1. Provided local government's service
 			2. They organized armies, carried out public work, collected taxes, and administered jsutice
-	3. Shang established private ownership of land
+	4. Shang established private ownership of land
 		1. land continued to be viewed under rulers property but the link between the land ownership and military service provided people with stronger claim to the land than when they worked in estates in earlier times 
 22. [[Qin Shi Huangdi]]
 	1. King of Qiun 247-220 BCE

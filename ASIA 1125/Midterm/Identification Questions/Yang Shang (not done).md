@@ -1,0 +1,1 @@
+Yang Shang had a significant role as to building the empire alongside Shi Huangdi as he was the Legalist (known as Law Expert) and also the chief minister of the state of Qin. During that time it was known that Qin had adopted  the Legalist policies the most fully as compared to the others. 
