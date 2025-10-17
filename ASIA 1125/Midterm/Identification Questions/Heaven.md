@@ -1,1 +1,1 @@
-Heaven was one of the key points in early spiritual practices, 
+Heaven was one of the key points in early spiritual practices, it was conceived as something like the sacred moral power of the cosmos. In heaven there were filled with many other spirits, those include various nature spirits
