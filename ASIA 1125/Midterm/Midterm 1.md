@@ -188,7 +188,7 @@ Identification Question:
 	7. The Zhou king recognized Wen of Jin as the protector of all the other polities
 	8. ==King Wen (the 'Cultured King') formed alliances with neighboring states and tribes in preparation for attacking the Shang
 	9. ==King Wu died young, only six years after the conquest, and his brother, the Duke of Zhou, acted as regent for King Wu's young son
-20. [[Warring States (not done)]]  (Early Civilizations and States Xia, Shang and Zhou), (First Chinese Empire)
+20. [[Warring States]]  (Early Civilizations and States Xia, Shang and Zhou), (First Chinese Empire)
 	1.  Seven Warring States in the 3rd century BCЕ: Qin ( 秦 ), Qi ( 齊 / 齐 ), Chu ( 楚 ), Yan ( 燕 ), Han ( 韓 / 韩 ), Zhao ( 趙 / 赵 ), Wei ( 魏 )
 	2. Urbanization; militarization; peak of Chinese bronze-ware making 
 	3. The written script evolved into its modern form with the use of an archaic clerical script that emerged during the late Warring States period 
@@ -198,8 +198,8 @@ Identification Question:
 		1. At that time King Zheng of Qin crowned himself China first emperor
 	7. ==During the Warring States period, the feudal domains of the early Zhou came to function as independent states. Over time the number of states rapidly declined as the more powerful ones conquered and absorbed their neighbours.
 	8. ==During the late Warring States period, Qin took a series of steps to make itself a more efficient and powerful state. It abolished the aristocracy, substituting a hierarchy of military titles awarded on the objective criterion of the number of enemy heads cut off in battle. Thus the state alone determined rank and the privileges attached to it
-	9. 
-21. ==[[Yang Shang (not done)]] (Lord Shang)== (not done) 
+	9. ==By the late Warring States period, great smelters might employ more than 200 workmen, and ironmongers were prominent among the rich entrepreneurs making their appearance in this period.
+21. ==[[Yang Shang (not done)]] (Lord Shang)== (
 	1. A powerful prime miniser, who initiated series of reforms to build a strong legalist state in 359 BCE (Legalist - Law expert)
 		1. Architect of qin success
 	2. ==The first of the two lengthy Legalist treatises that survive has traditionally been ascribed to Lord Shang (Gongsun Yang, d. 338 BC) , chief minister of the state of Qin,
