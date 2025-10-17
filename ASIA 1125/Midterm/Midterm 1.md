@@ -101,7 +101,7 @@ Identification Question:
 		* Bronze jue - wine vessel
 	4. ==Bronze production was less advance in the erlitou stage, only a few locallyproduced bronze object, mostly cups
 	5. ==The earliest bronze vessel were dateed about 1700BC in the province of Henan, which was during the Xia dynasty. At that time they Bronze production was relatively still new and less advanced due to the limited amount of locals that produced the bronze items but when they do it's mostly made into cups and vessels. The vessels found there were very thin, as thin as 1mm thick. It also included complex shapes, sharp angles and crimped edges, it almost looks like it was made from a sheet-metal prototype of the modern day technology. But eventually the bronze vessels were significantly improving later in the Shang time. 
-11. Shu culture (Myth and Archeology)
+11. [[Shu culture]] (Myth and Archeology)
 	1. 1300 - 1100 BCE
 	2. At the time they created sacrificial altars
 		1. It consisted of 3 levels: 
