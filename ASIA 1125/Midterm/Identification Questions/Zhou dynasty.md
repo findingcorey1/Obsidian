@@ -1,1 +1,1 @@
-The Zhou Dynasty occurred between 1046-256 BCE, its significance played a role the Chinese evolution 
+The Zhou Dynasty occurred between 1046-256 BCE, its significance played a role the Chinese evolution most arguably greater than Xia or Shang Dynasty in terms of core political and philosophical ideas that would define the Chinese civilization going forward. 
