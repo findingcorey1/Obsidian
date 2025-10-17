@@ -1,0 +1,1 @@
+Heaven was one of the key points in early spiritual practices, 
