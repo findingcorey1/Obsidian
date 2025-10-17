@@ -1,1 +1,1 @@
-The Spring and Autumn period was a time of 
+The Spring and Autumn period was a time of major transformation between it was at the time where bonds were between the Zhou dynasty and the chaotic Warring States period between 770-221 BCE. The spring and autumn period exist on the first half of zhou period between 770-481 BCE
