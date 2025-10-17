@@ -1,0 +1,1 @@
+The Shang Dynasty holds a historical era for the Chinese civilization because of the contemporary written records
