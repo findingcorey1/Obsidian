@@ -115,7 +115,7 @@ Identification Question:
 		6. Bronze Mask
 		7. Bronze Birds
 		8. Jade Blades
-12. Late bronze culture 
+12. [[Late bronze culture]] 
 	1. During the Shang Dynasty
 	2. Shang Dynasty: ex. Two handled bronze vessel, bronze axe
 	3. By the late bronze culture (Late shang), huge bronze vessels were produced
