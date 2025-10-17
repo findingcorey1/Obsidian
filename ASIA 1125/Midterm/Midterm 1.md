@@ -38,7 +38,7 @@ Identification Question:
 	9. With the move to permanent villages and the increase in food supply, the population began to grow
 	10. Food surpluses, combined with new transportation technology enabled more and more people to gather first into large villages, then into towns, and finally into cities, all of them joined together by new kingdoms and commercial networks 
 	11. ==Destinctive pottery forms, such as tripods, were repoduced in shang bronzes, showing link between artistic tradition of the shang and the previous culture of the area
-5. [[Jade Emperor]] (Myth and Archeology)
+5. [[Jade Emperor (not done)]] (Myth and Archeology)
 	1. Yu Huang Dadi 玉皇大帝]
 	2. Story functions as a cosmogonic myth (myth: beginning of the universe and the worlds order)
 	3. Mythology: the hade emperor was once a prince in an ancient kingdom, he was known for kindness, compassion, and deep sense of justice. he practiced virtue for thousands of years
@@ -46,7 +46,7 @@ Identification Question:
 	5. His role in the cosmos was that he became the supreme ruler of Heaven, Earth, and the Underworld, governing gods, spirits, and humans. He was often portrayed as majestic figure in a imperial robe, which shows how divine order mirrors early bureaucracy
 	6.His Heavenly court functions much like the Chinese imperial court 
 		With ministers, generals, scribes, and inspectors who report on human deeds
-6. [[Yellow Emperor]] (Myth and Archeology)
+6. [[Yellow Emperor (not done)]] (Myth and Archeology)
 	1.  Founding myth: Yellow Emperor
 		* Huangdi 黄帝 (2697-2598 BCE) - the ancestor of Huaxia
 			* concept of Chinese civilization
@@ -59,7 +59,7 @@ Identification Question:
 		* ==fought a great battle against alien tribes, thus securing the yellow river plain for his people
 		* ==China's earlist history stated he was said to be the first of the five great pre-dynastic rulers
 		* 
-7. Early modern humans (Home Sapiens) in China  (Myth and Archeology)
+7. [[Early modern humans (Home Sapiens) in China]]  (Myth and Archeology)
 	1. Modern humans reached china around 50,000 years ago
 	2. There were at the time different kinds of modern humans that developed in parrallel in several parts of the worl.
 	3. Modern chinese man originated from the Chinese territory found in xuchang (2007) which lead to a theory that modern humans originated from homo errectus in CHina
