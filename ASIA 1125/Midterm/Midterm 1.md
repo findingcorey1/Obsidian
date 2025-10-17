@@ -420,3 +420,8 @@ Watch carefully and answer **one (1)** of the following questions in about 300
 - Show cause and effect - how reforms or strategies led to unification.
 - Organize clearly: introduction → main points → conclusion.
 - Write in your own words (no quotations or citations needed).
+
+2.  What were the main advantages of the Qin military compared with other Warring States, and how did these advantages contribute to its success?
+	1. Over the next decade he mustard the curage to do it in the military
+	2. In the 10 years he came to the thrown in 247 BC, king yin zhen strengthened his power through war, he fights for his life and for a dream
+		1. fordge a new natio
