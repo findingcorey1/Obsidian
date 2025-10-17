@@ -150,11 +150,11 @@ Identification Question:
 		3. 1200 BCE, inscription on tutle shells and scapula bones, oracle bone inscription, divination
 		4. Oracle bone pit
 		5. ==cups, goblets, steamers, and cauldrons beutifially shaped and decorated in variety of shapes and sizes     
-15. Wu Ding  (Early Civilizations and States Xia, Shang and Zhou)
+15. [[Wu Ding]]  (Early Civilizations and States Xia, Shang and Zhou)
 	1. Wu ding was the 11th king (reign 1250-1192 BCE) of the Shang (17 Kings) and the earliest figure in the history of the Chinese dynasties who has been confirmed by contemporary records
 	2. has yielded the remains of 90 followers who accompanied him in death, 74 human sacrifices, 12 horses, and eleven dogs.
 		1. Victims were placed in a ashaft, ledges and ramps
-16. Fu Hao  (Early Civilizations and States Xia, Shang and Zhou)
+16. [[Fu Hao]]  (Early Civilizations and States Xia, Shang and Zhou)
 	1. 
 17. Zhou dynasty  (Early Civilizations and States Xia, Shang and Zhou)
 	1. 1046 -2256 BCE
