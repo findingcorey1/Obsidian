@@ -59,14 +59,14 @@ Identification Question:
 		* ==fought a great battle against alien tribes, thus securing the yellow river plain for his people
 		* ==China's earlist history stated he was said to be the first of the five great pre-dynastic rulers
 		* 
-7. [[Early modern humans (Home Sapiens) in China]]  (Myth and Archeology)
+7. [[Early modern humans (Home Sapiens) in China (not done)]]  (Myth and Archeology)
 	1. Modern humans reached china around 50,000 years ago
 	2. There were at the time different kinds of modern humans that developed in parrallel in several parts of the worl.
 	3. Modern chinese man originated from the Chinese territory found in xuchang (2007) which lead to a theory that modern humans originated from homo errectus in CHina
 	4. ==Several major language families that formed among the hunter gathereres in the chinese continents==
 		1. ==Siino-tibetan (family that chinese belongs), Austroasiatic, Austronesian, Austronesian, Monk-mer, and Tai kdai==
 	5. ==Language expanded symbolic capabilities, which allowed for development of notions of god and kinship== 
-8. First Neolithic villages in China (Yellow River and Yangtze River basins) (Myth and Archeology)
+8. [[First Neolithic villages in China (Yellow River and Yangtze River basins)]] (Myth and Archeology)
 	1. Early village, linked to the origins of rice agriculture in the south (Yangzi Valley)
 		Together, they show that the roots of Chinese cavitation came form both the Yangzi (Rice) and (Millet) basins
 	2. ==can be divided by lantitude into the yangzi rice zone and the northern millet zone
