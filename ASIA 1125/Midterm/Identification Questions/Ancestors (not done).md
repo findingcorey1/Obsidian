@@ -1,0 +1,1 @@
+The term ancestors were not simply talking about the dead of past grandparents, it was about how with those who were lui
