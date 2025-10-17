@@ -4,4 +4,4 @@ His most profound legacy was the comprehensive system of standardization he impo
 
 However, his significance is also defined by his tyrannical methods. The massive mobilization of labor for projects like roads and walls, the **burning of books** to suppress dissent, and the harsh Legalist policies created a model of absolute, autocratic rule. This combination of visionary unification and ruthless control cemented his legacy. Ultimately, the over-centralization and brutality that enabled his achievements also led to the Qin Dynasty's swift collapse after his death, serving as a permanent lesson for future rulers about the dangers of excessive tyranny, even as they adopted the administrative framework he created.
 
-Qin Shi Huangdi at the time was the King of Qiun back in 247-220 BCE. 
+Qin Shi Huangdi at the time was the King of Quin back in 247-220 BCE but then later he had reached his climax 

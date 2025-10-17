@@ -213,6 +213,7 @@ Identification Question:
 	1. King of Qiun 247-220 BCE
 	2. Emperor (220-210)
 		1. To consolidate power, he toured the empire five times between 220 - 210 to prove to people of his powers and make offering to spirits
+		2. Reach climax in 221BCE  when qin conquerred the rest of thekingdonm and created an empire in the late Zhou 
 	3. ruler required all six defeated kings move to his capital with the noble families of their kingdoms
 	4. He took the title Shi Huangdi (First Augustus Emperor); Di (emperor, highest deity); fusing god-like king with great conqueror made self-divinization plausible 
 	5. He emphasized farming as the mainstay of the economy
