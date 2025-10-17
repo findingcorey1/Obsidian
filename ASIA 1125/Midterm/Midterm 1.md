@@ -76,7 +76,7 @@ Identification Question:
 		4. ==Used wooden tools like hoes, spears, mallets, and paddles
 		5. ==Hemudu villagers were at a higher technological level compared to those in the north amergican indian tribes in the seventeenth century
 		6. ==Neolithic cultures can be divided east-west on the basis of artistic styles and burial practices by the middle of the neolithic period
-9. Longshan culture (Myth and Archeology)
+9. [[Longshan culture]] (Myth and Archeology)
 	1. (3000 - 2000 BCE), ==Late Neolithic Period== 
 	2. ==Increased social and political complexity as well as incerase contact
 	3. Societies became stratisfied, large number of ordered communities (ex. wan guo "ten thousands state")
@@ -100,6 +100,7 @@ Identification Question:
 	3. Erlitou monopolized the production of ritual bronze vessels, including the earliest recovered dings
 		* Bronze jue - wine vessel
 	4. ==Bronze production was less advance in the erlitou stage, only a few locallyproduced bronze object, mostly cups
+	5. ==The earliest bronze vessel were dateed about 1700BC in the province of Henan, which was during the Xia dynasty. At that time they Bronze production was relatively still new and the vessels found there were very thin, as thin as 1mm thick. 
 11. Shu culture (Myth and Archeology)
 	1. 1300 - 1100 BCE
 	2. At the time they created sacrificial altars
