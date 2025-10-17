@@ -1,1 +1,1 @@
-The Shang Dynasty holds a historical era for the Chinese civilization because of the contemporary written records. 
+The Shang Dynasty holds a historical era for the Chinese civilization because of the contemporary written records. Most of thing things at the time were written on inscriptions of oracle bones, which makes it easy to date back to what happened during the dynasty. The inscriptions not only talked about the king but it also revealed ancestor worships, fortune telling's, and the hierarchical social orders. 
