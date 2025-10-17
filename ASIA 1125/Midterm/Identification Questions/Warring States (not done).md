@@ -1,1 +1,1 @@
-The Warring Sate period exited between 400-220BC, 
+The Warring Sate period exited between 403-221BC, it also at the time during the Later Eastern Zhou period. It was called the Warring state because of the constant military conflicts that occurred and it was becoming more deadly. By that time the Zhou king was not a major contributor and it later all the smaller states were conquered and as well took over 6 of the largest ones as well. During this times, it was the time of great innovation and technologies as the introduciton of ir
