@@ -199,7 +199,7 @@ Identification Question:
 	7. ==During the Warring States period, the feudal domains of the early Zhou came to function as independent states. Over time the number of states rapidly declined as the more powerful ones conquered and absorbed their neighbours.
 	8. ==During the late Warring States period, Qin took a series of steps to make itself a more efficient and powerful state. It abolished the aristocracy, substituting a hierarchy of military titles awarded on the objective criterion of the number of enemy heads cut off in battle. Thus the state alone determined rank and the privileges attached to it
 	9. 
-21. ==Yang Shang (Lord Shang)==  
+21. ==Yang Shang (Lord Shang)== (not done) 
 	1. A powerful prime miniser, who initiated series of reforms to build a strong legalist state in 359 BCE (Legalist - Law expert)
 		1. Architect of qin success
 	2. He divided Qin society into interlocking units
@@ -240,7 +240,7 @@ Identification Question:
 		1. ==A king and dynasty could rule only so long as they retained heavens favour
 		2. If a king neglected his sacred duties and acted tyrannically, heaven would display its displeasure by sending down ominous portents and natural disasters.
 		3. 
-25. Ancestors (early spiritual practices)
+25. [[Ancestors]] (early spiritual practices)
 	1. The goal was to use sacrifice to transform the recently deceased spirits into ancestors who the would be called upon in support of their descendants
 	2. The separation of the souls from the spirit and converting the spirit into ancestor is not always successful; for the recently deceased the spirit could link up with the souls and energies and thus become dangerous ghosts and the more distant ancestors tend to become indifferent to the needs of the living
 	3. With each passing generations sacrifices would be given to the most recently deceased ancestors who would be called to serve the next highest in the lineage, all the way up to these ancestors who would be called upon to serve Heaven
