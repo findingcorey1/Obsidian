@@ -1,0 +1,1 @@
+Duke Wen of Jin was the model of the crucial link between ancestorial and legitimate power in the Early Zhou and his early stories expresses that. Jin reigned 
