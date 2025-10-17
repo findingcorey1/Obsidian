@@ -137,7 +137,7 @@ Identification Question:
 		2. Was said initially that he declined the thrown but lowkcal lords praised him and was with how popular he was, the chiefs also agreed that he became the emperor at age 53
 	5. Established capital of Anyi, ruins of which are in modern Xia County in southern Shanxi Province 
 	6. Divided the realm into nine provinces ==(regions) and had bronzes vessels casted to represent each one==
-14. [[Shang dynasty]] (Early Civilizations and States Xia, Shang and Zhou)
+14. [[Shang dynasty (not done)]] (Early Civilizations and States Xia, Shang and Zhou)
 	1. 1600 - 1046 BCE
 	2. Qi overthew the impious and cruel final Xia ruler Jie in the battle of Mingtao and became the first king of Shang
 	3. Wu ding was the 11th king (reign 1250-1192 BCE) of the Shang (17 Kings) and the earliest figure in the history of the Chinese dynasties who has been confirmed by contemporary records
