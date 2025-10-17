@@ -223,6 +223,7 @@ Identification Question:
 		3. replacing monies of Warring States in the forms of knives, shovels, and shel
 	7. Qin divided the territory into regional units – commanderies; the initial 36 were increased to 42
 	8. whole of Qin was divided into administrative units: first commanderies, then counties (Xian), townships (Xiang) and hundred-family units (Li), which roughly corresponds to the modern-day subdistricts and communities
+	9. ==To attract migrants from other states, new settlers were offered lands and houses.
 23. [[Human (early spiritual practices)  ]]
 	1. Believed to be composed by numerous energies, souls, and powers
 	2. Some forms of qi (氣) were associated with human emotions, while the souls - the hun (魂, the yang soul – mind and heaven) and po (魄, the yin soul – body and earth) - were linked to aspects of personality
