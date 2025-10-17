@@ -1,1 +1,1 @@
-The Spring and Autumn period was split into two halve, 
+The Spring and Autumn period was a time of 
