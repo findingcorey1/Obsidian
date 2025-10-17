@@ -156,8 +156,8 @@ Identification Question:
 		1. Victims were placed in a ashaft, ledges and ramps
 16. [[Fu Hao]]  (Early Civilizations and States Xia, Shang and Zhou)
 	1. 
-17. Zhou dynasty  (Early Civilizations and States Xia, Shang and Zhou)
-	1. 1046 -2256 BCE
+17. [[Zhou dynasty]]  (Early Civilizations and States Xia, Shang and Zhou)
+	1. 1046 -256 BCE
 		1. ==1046 BCE, zhou rose agaisnt shang and defeated it in battle==
 			1. ==THe first phase of the zhour period was descrivbed as the western zhou (1046 - 770BCE since the capital was in the west, in the wei river valley of Shaanxi province==
 	2. Zhou was in alliance with qiang who conquered the Shang
