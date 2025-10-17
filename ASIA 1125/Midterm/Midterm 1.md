@@ -434,3 +434,5 @@ Watch carefully and answer **one (1)** of the following questions in about 300
 			2. Looking after captives would slow down his campaigns
 			3. Heads chopped off as a way to treat weakness
 				1. all 10,000 were executed and was defined as empire
+
+
