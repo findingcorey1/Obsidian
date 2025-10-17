@@ -424,4 +424,13 @@ Watch carefully and answer **one (1)** of the following questions in about 300
 2.  What were the main advantages of the Qin military compared with other Warring States, and how did these advantages contribute to its success?
 	1. Over the next decade he mustard the curage to do it in the military
 	2. In the 10 years he came to the thrown in 247 BC, king yin zhen strengthened his power through war, he fights for his life and for a dream
-		1. fordge a new natio
+		1. fordge a new nation, china
+	3. many new kings tried before him but all of them had failed
+		1. this time is different, youngest king to lead the nation to war (greatest warrior), visionary leader burning with ambition
+	4. Ancient china made from 7 warren states
+		1. 6 of the 7 weakened by endless warfare, one continued to grow, the state of qin
+		2. qin army takles over 10,000 prisoners 
+			1. Prisoners must be cared for
+			2. Looking after captives would slow down his campaigns
+			3. Heads chopped off as a way to treat weakness
+				1. all 10,000 were executed and was defined as empire
