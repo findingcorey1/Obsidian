@@ -25,7 +25,7 @@ Identification Question:
 			1. <u>Behavioral and cognitive traits</u> that distinguish homo sapiens as sapiens as compared to other anatomically modem humans 
 			2. <u>Traits</u> included: Burial, fishing, giurative art (cave painting, figurines), self ornaments (jewelry, ochre), bone tools and blade technology, transportation, distinct artifacts (region specific), fireplaces
 			3. Appearance of new ways of thinking and communicating constitutes cognitive revolution 
-4. Neolithic (agricultural) revolution (The beginning)
+4. [[Neolithic (agricultural) revolution]] (The beginning)
 	1. It was the shift from hunting and gathering to farming and settled living
 		1. Domestication of plants and animals
 	2. Early Centre of agriculture Fertile Crescent (11,000BC), the Yangtze and Yellow River basins (9,000 BC)
