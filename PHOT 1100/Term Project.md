@@ -6,8 +6,11 @@ Inspired by the greats
 
 Most Photofraby fits into one of the three categories
 * Portraiture
-* Still Life
-* 
+* Still Life 
 	* Creating image of objuect thigns
 * Photojournalism
 	* Capturing the moment place,object,person
+
+Portratiture
+* Family portrait
+* 
