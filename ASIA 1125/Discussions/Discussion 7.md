@@ -35,3 +35,5 @@ This single sentence captures the fundamental moral orientation of the _junzi_. 
 Therefore, 4:16 serves as the foundational principle from which all other descriptions of the _junzi_ flow.
 
 
+What picture of Confucius as a teacher and learner emerges from the text?
+- In the book, they paint Confucious as a 
