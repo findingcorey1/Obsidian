@@ -14,3 +14,24 @@ When you write your response, please cite specific segments (Book and passage nu
     
 6. What picture of Confucius as a teacher and learner emerges from the text?
 
+### 1. What passage best captures Confucius’s idea of the junzi (noble person), and why?
+
+While many passages describe the _junzi_, a particularly comprehensive and illuminating one is **4:16**:
+
+> _The Master said: “The noble man is aware of fairness, the inferior man is aware of advantage.”_
+
+**Why this passage?**  
+This single sentence captures the fundamental moral orientation of the _junzi_. It's not about a list of specific behaviors, but about a core mindset. The _junzi_'s actions are guided by _yi_ (righteousness, fairness, moral rightness), an objective standard of what is proper. In contrast, the small-minded person is driven by self-interest and personal profit (_li_). This distinction underpins all other characteristics of the _junzi_ found elsewhere in the text:
+
+- **He is not a utensil (2:12):** He is not a narrow specialist but a generalist whose virtue is adaptable.
+    
+- **He is all-embracing and not partial (2:14):** His sense of fairness prevents him from factionalism.
+    
+- **He corrects himself (1:8):** His commitment to rightness means he is quick to rectify his own errors.
+    
+- **He is self-confident without being arrogant (13:26):** His confidence comes from his inner moral integrity, not from comparing himself to others.
+    
+
+Therefore, 4:16 serves as the foundational principle from which all other descriptions of the _junzi_ flow.
+
+
