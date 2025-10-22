@@ -36,4 +36,7 @@ Therefore, 4:16 serves as the foundational principle from which all other descri
 
 
 What picture of Confucius as a teacher and learner emerges from the text?
-- In the book, they paint Confucius as a one who was willing to learn and one who wants to spend the rest of life doing. It can be said in Book 2, 
+	- In the book, they paint Confucius as a one who was willing to learn and one who wants to spend the rest of life doing. 
+		- It can be said in [2:14] The Master said: “At fifteen my heart was set on learning; at thirty I stood firm; at forty I had no more doubts; at fifty I knew the mandate of heaven; at sixty my ear was obedient; at seventy I could follow my heart's desire without transgressing the norm.
+		- This quote is a self reflection of his past at 15 when he first wanted to be a teacher and was standing by on it. By the time he was 70, he looked back at his past stating he followed what his heart wanted to do and it paid off. He constantly reviewed and refined his understanding, emphasizing that true wisdom grows from reflection and moral efforts.
+		- 
