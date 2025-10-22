@@ -36,4 +36,4 @@ Therefore, 4:16 serves as the foundational principle from which all other descri
 
 
 What picture of Confucius as a teacher and learner emerges from the text?
-- In the book, they paint Confucious as a 
+- In the book, they paint Confucius as a one who was willing to learn and one who wants to spend the rest of life doing. It can be said in Book 2, 
