@@ -35,8 +35,10 @@ This single sentence captures the fundamental moral orientation of the _junzi_. 
 Therefore, 4:16 serves as the foundational principle from which all other descriptions of the _junzi_ flow.
 
 
-What picture of Confucius as a teacher and learner emerges from the text?
-	- In the book, they paint Confucius as a one who was willing to learn and one who wants to spend the rest of life doing. 
-		- It can be said in [2:14] The Master said: “At fifteen my heart was set on learning; at thirty I stood firm; at forty I had no more doubts; at fifty I knew the mandate of heaven; at sixty my ear was obedient; at seventy I could follow my heart's desire without transgressing the norm.
-		- This quote is a self reflection of his past at 15 when he first wanted to be a teacher and was standing by on it. By the time he was 70, he looked back at his past stating he followed what his heart wanted to do and it paid off. He constantly reviewed and refined his understanding, emphasizing that true wisdom grows from reflection and moral efforts.
-		- 
+What picture of Confucius as a teacher and learner emerges from the text?  
+    - In the book, they paint Confucius as one who was willing to learn and one who wants to spend the rest of his life doing.   
+        - It can be said in [2:14] The Master said: “At fifteen my heart was set on learning; at thirty I stood firm; at forty I had no more doubts; at fifty I knew the mandate of heaven; at sixty my ear was obedient; at seventy I could follow my heart's desire without transgressing the norm.  
+        - This quote is a self-reflection of his past at 15 when he first wanted to be a teacher and was standing by it. By the time he was 70, he looked back at his past, stating he followed what his heart wanted to do, and it paid off. He constantly reviewed and refined his understanding, emphasizing that true wisdom grows from reflection and moral efforts.  
+    - Confucius was a patient teacher who was willing to only teach those who wanted to learn and think for themselves. He wanted those who would participate and ask questions instead of memorization.  Throughout book 7, he states all these problems and things he saw with his students  
+        - One most notable quote in book 7 that illustrates it is,   
+          [7:8] The Master said: “If a student is not eager, I won't teach him; if he is not struggling with the truth, I won't reveal it to him. If I lift up one corner and he can't come back with the other three, I  won't do it again.”
