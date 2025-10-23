@@ -52,4 +52,4 @@ Please see the recording and the posted lecture notes, then choose **one** of 
 
 Which episode of Confucius’ life stands out in your opinion, and what does it reveal about his philosophy or character?
 
-The most notable part of Confucius life that stands out to me was that 
+The most notable part of Confucius life that stands out to me was he left his downtown to pursue his principles elsewhere. At the time, he believed that his ideas and principles of beliefs were more powerful than what Zhou had believed at the time. So he stuck to his own ideas rather than having a comfortable job. For 15 years, he travelled to different states with his students to find a leader to listen to his ideas and beliefs, that type of commit he showed 
