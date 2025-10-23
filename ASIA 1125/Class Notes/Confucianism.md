@@ -18,4 +18,19 @@ School of Thoughts Confucianism
 * Shortly after 500 BCE, when Confucius was about fifty, the plan failed, and Confucius was forced to leave his home state
 * For about fifteen years, he traveled with a retinue of disciples from state to state in eastern China, looking for a ruler who would employ him and adopt the policies he advocated
 * After traveling to several polities he returned to Lu where he taught until his death in 479 BCE, training young men in the literary, ritual, and musical arts that he saw as central to the culture of the Zhou
+* Three themes of Confucius’ time were:
+	* 1) warfare, which had been pervasive among the feudal lords since the devolution of power into their hands;
+	* 2) the further devolution of power from the Zhou-appointed feudal houses into the hands of subordinate families that managed to accumulate power locally;
+	* 3) and the rising fluidity of social mobility which this type of open competition for power encouraged, as intelligence and warrior skills in their assistants proved more valuable to competing power-holders than did hereditary pedigree
+* Confucius emphasized personal and governmental morality, correctness of social relationships, justice and sincerity
+* His followers competed with many other schools during the Hundred Schools of Thought era (6th-3rd centuries BCE), and were suppressed in favour of the Legalists during the Qin Dynasty
+* During Han dynasty, Confucius’ teaching received official endorsement and was further developed into a system known as Confucianism
+*  Confucius lived at a time before circulated books were written, his conversations were at first orally transmitted and then written by his students (and their students) – The Analects (“discussions and conversations” or “arranged discourses)
+* The Analects is the main source for understanding Confucius’ teaching
+* Confucius liked talking and spent most of his life in conversations
+* Confucius claimed that he did not introduce new ideas, rather, he was seeking to return the disordered realm to earlier time
+* The Master sought to end the warfare if his time by restoring the Zhou dynasty in Lu
+* <u>Eleventh-century-BCE Duke of Zhou was his model of virtue</u>; to restore the moral excellence of the duke’s time by reinstating the system of ritual (the lineage of dukes of Lu had begun with the brother of Duke of Zhou) 
+* Archeology suggests that Confucius knew rather little about the distant duke’s era
+* It was not the duke but a much later ritual revolution around 850 BCE that had given restrained, carefully graded rites, assigning all members of a broad elite to places in hierarchy
 * 
