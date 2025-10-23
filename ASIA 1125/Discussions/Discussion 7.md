@@ -42,3 +42,5 @@ What picture of Confucius as a teacher and learner emerges from the text?
     - Confucius was a patient teacher who was willing to only teach those who wanted to learn and think for themselves. He wanted those who would participate and ask questions instead of memorization.  Throughout book 7, he states all these problems and things he saw with his students  
         - One most notable quote in book 7 that illustrates it is,   
           [7:8] The Master said: “If a student is not eager, I won't teach him; if he is not struggling with the truth, I won't reveal it to him. If I lift up one corner and he can't come back with the other three, I  won't do it again.”
+
+ What is the defining idea of Confucius in your view, and why?

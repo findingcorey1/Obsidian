@@ -33,4 +33,19 @@ School of Thoughts Confucianism
 * <u>Eleventh-century-BCE Duke of Zhou was his model of virtue</u>; to restore the moral excellence of the duke’s time by reinstating the system of ritual (the lineage of dukes of Lu had begun with the brother of Duke of Zhou) 
 * Archeology suggests that Confucius knew rather little about the distant duke’s era
 * It was not the duke but a much later ritual revolution around 850 BCE that had given restrained, carefully graded rites, assigning all members of a broad elite to places in hierarchy
+* Around 600 BCE rituals had changed again as a few super powerful men began being buried with huge wealth, setting themselves above the rest of the elite
+* Treasuring Zhou traditions with which he was associated, after the decline of the Zhou royal house the state of Lu had become known as the purest repository of Zhou aristocratic culture
+* But during the 6th century, these traditions of Zhou were undermined, as powerful warlord families gained increasing control of government and resources in Lu, gradually marginalizing the legitimate ducal house, and distorting the norms of government form and ceremonial ritual that had made Lu distinct
+* Confucius, educated but not particularly rich shi (gentry scholar), was probably reacting to the second change, idealizing the stable ritual order that flourished between 850 and 600 BCE and projecting it back onto the Duke of Zhou
+* To follow the ritual meant to practice humanness (ren): caring more about the living family than about ancestors; valuing honest reverence over showy sanctimony; esteeming virtue, not descent; performing rituals accurately and with simple equipment; and following precedent
+* But Confucius innovated: he taught students how to behave virtuously and how to govern; in the antiquity, it was believed that sons of high-ranking families were born with that knowledge
+* Confucius introduced something new in the concept of ritual: his contemporaries used the term for specific rituals, while Confucius recognized abstract quality common to them that applied to the forms of social interactions
+* If men could learn to employ this quality, society could be reformed
+* The ritual (li 礼 )offered the best opportunity for individual to develop his own humanness (ren 仁 ) – an essential quality which is also translated as “benevolence”, “perfect virtue”, “goodness”, “exemplary humanity” and “manhood at its best”
+* The reasons why rituals work involve several different elements: one theme is that of refinement – through the practice of ritual, humans refine their dispositions such that they learn to respond to situations in ways that help those around them be better human being
+* Through rituals: movement from dispositions (nature) to propriety – responding to things properly, instead of by immediate disposition
+* A second recurring theme is one of extension: this involves taking certain patterns of behavior or particular dispositions and extending them into other domains
+* Rituals allow one to take feelings one has for immediate kin and extend these to strangers and aspects of the natural world
+* Practitioners thus come to see ghosts as ancestors and see the ruler as both father and mother, as well as the Son of Heaven
+* Therefore, in what was once a world of competing families, in a cosmos perceived to be at best indifferent to humanity and perhaps governed by capricious spirits, rituals create a world in which humans come to think of the entire cosmos as a family
 * 
