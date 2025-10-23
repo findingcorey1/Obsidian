@@ -48,4 +48,30 @@ School of Thoughts Confucianism
 * Rituals allow one to take feelings one has for immediate kin and extend these to strangers and aspects of the natural world
 * Practitioners thus come to see ghosts as ancestors and see the ruler as both father and mother, as well as the Son of Heaven
 * Therefore, in what was once a world of competing families, in a cosmos perceived to be at best indifferent to humanity and perhaps governed by capricious spirits, rituals create a world in which humans come to think of the entire cosmos as a family
-* 
+* It is a fractured and fragmented world, and it will always be so
+* Such a project is never-ending, but, when it works, it can, for periods of time, create pockets of order in which humans can flourish
+* Yi ( 義 / 义 ) is translated as “righteousness”, “justice”, “meaning”; li (ritual) is the action which has been deemed appropriate by society, yi is the action that is indeed correct, while ren deals with the relationship between the agent and object of the action
+* Li is the outward expression of Confucian ideals, while ren is both the inward and outward expressions of those same ideals
+* The Way (dao, 道 ) was Confucius term for his teachings; by extension its is the means of governance used by ancient kings, which he hoped to restore 
+* Individuals can make progress in the Way of self-cultivation; developing a sense of justice, loving treatment of parents, respect for elders, honesty with friends, etc. – becoming nobleman or gentleman
+* The centre is defined (in the Doctrine of the Mean, Zhongyong) as that which precedes humans’ beings pulled in situations by different emotions; once these emotions have emerged, they need to be modulated by a centering process equivalent to what existed prior to their emergence – a modulation that is then termed harmony 
+* The implication of this argument is that the danger for humans is to be pulled by their emotions in different situations, and humans must endlessly attempt to center and harmonize themselves
+* In any given situation, the gentleman is he who creates an order by forming the center: all the disparate phenomena thus come to be ordered by the center, which unifies them around a common activity 
+* This would be true in everyday affairs, dealing with human emotions, and equally true of the larger activities of humanity
+* An example includes the ritual systems of centering that is developed in the sacrifice chapters of the Liji (Book of Rites), in which, through the ritual extension of familial emotions, the world comes to be ordered like a genealogical family, with the ruler as the centre 
+* The Daxue (Great Learning) works along comparable lines as well, here too, one sees an attempt to build a continuous line, starting from the person properly cultivated to the family to the larger realm and back again 
+* Only when such a line of continuity has been created that runs from the individual to the entire realm can true order be achieved 
+* Ritual works by taking disparate phenomena, linking them together and connecting them into chains of continuity
+* Filial piety (xiao 孝 ) is a virtue of respect for one’s father, elders, and ancestors 
+	* For Confucius, filial piety was not blind loyalty to one’s parents; the norms of ren and yi were even more important; filial piety was a display of humanness (ren) which was ideally applied in one’s relations with all elders - a norm of intergenerational relations
+	* Filial piety was emphasized in Confucianism because devotion to one’s parents was often associated with devotion to the state 
+* The main bond in the family is between parent and child; Confucius described family unit in which sons lived together with their wives and parents 
+	* Children should obey and honor their parents, even when they disagree with them, because parents raised them from birth – obligation that cannot be repaid 
+	* During their lifetime children should obey their parents’ wishes, and after their deaths, children should continue to conduct family affairs as their parents did for three years 
+	* Confucius advocated three-year mourning for one's parents
+* Confucius stressed the obligations of the individual because if each person could tap into his own humanity while adhering to the dictates of ritual within his family, the realm as a whole would be reformed and the Way restored 
+	* One can influence the world simply by behaving as a gentleman at home, even when the world is chaotic 
+	* If rulers developed benevolence, they would be able to check all chaotic forces in society
+* Confucius sought to stop warfare by emphasizing ritual and man’s innate capacity for benevolence (highly idealistic view) 
+	* He did not support punishments because he felt that the rule who relied on coercion could not command people’s respect 
+	* Confucius looked down non-Chinese people (Yi and Di), but they, like common people, could respond to gentleman’s presence
