@@ -59,6 +59,5 @@ Discussion Questions:
     
 6. How do the Chinese schools of thought compare with philosophical or religious traditions in other ancient civilizations (for example, Mesopotamia, India, or Greece)?
 
-What were the main teachings of Mozi and the Mohist school?
-* Mozi
-	* Came from a lower social level
+How would you define Daoism and its vision of the ideal way of life or government?
+* 
