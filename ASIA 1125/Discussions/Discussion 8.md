@@ -61,10 +61,10 @@ Discussion Questions:
 
 Which later Confucian scholars helped shape and expand Confucianism after Confucius?
 * Mencius (370-300 BC)
-	* He studied with Confucius grandson
-	* He travelled around offering advice to rulers of nearby states. Reminded the rulers of the mandate of heaven and telling to their face directly if they didn't rule well, heaven would say that their people would rebel and oust them
-	* Also made the rulers responsibility to see if people had enough to eat at ever meal in good years and could avoid starving in bad years
+	* He studied with Confucius grandson and travelled around offering advice to rulers of nearby states. Mencius would reminded the rulers of the mandate of heaven and telling to their face directly if they didn't rule well, heaven would say that their people would rebel and oust them
+	* He also made made the rulers responsibility to see if people had enough to eat at ever meal in good years and could avoid starving in bad years
 * Xunzi (310-220 BC)
 	* At that time they survived in a much more structured form because the Xunzi is a set of essay that Xunzi wrote himself
 	* Xunzi had a political and administrative experience and showed a lot of consideration for the rulers that faced numerous amounts of difficulties from rituals and virtue.
-	* Xunzi applied a 
+	* Xunzi applied a lot of critical and analytical thinking who extended the philosophical foundations of many ideas
+	* He also argued that human nature is selfish and needs to be cultivated through education, ritual, and moral discipline. Also he reinforced the importance of li ritual and proper conduct as tools for shaping moral behavior and maintaining social order.
