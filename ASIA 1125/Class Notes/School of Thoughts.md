@@ -1,9 +1,8 @@
-# **Schools of Thought**
 
 - **Karl Jaspers called the centuries around 500 BCE the “Axial Age” – they formed as axis around which history turned: “Man, as we know him today, came into being”**
 - **Axial Age writings: Confucian and Daoist texts in the East, Buddhist and Jain documents in South Asia, the Greek philosophy and the Hebrew Bible (with its descendants the New Testament and the Koran) in the Mediterranean**
 
-Rafael: _The_ _School of Athens_ (1511), Apostolic Palace in the Vatican
+**Rafael: _The_ _School of Athens_ (1511), Apostolic Palace in the Vatican**
 
 # **Confucianism**
 
@@ -28,12 +27,12 @@ Rafael: _The_ _School of Athens_ (1511), Apostolic Palace in the Vatican
 - **For about fifteen years, he traveled with a retinue of disciples from state to state in eastern China, looking for a ruler who would employ him and adopt the policies he advocated**
 - **After traveling to several polities he returned to Lu where he taught until his death in 479 BCE, training young men in the literary, ritual, and musical arts that he saw as central to the culture of the Zhou**
 
-Confucius, Tang dynasty portrait
+**Confucius, Tang dynasty portrait**
 
 - **Three themes of Confucius’ time were:**
-1) warfare, which had been pervasive among the feudal lords since the devolution of power into their hands;
-2) the further devolution of power from the Zhou-appointed feudal houses into the hands of subordinate families that managed to accumulate power locally;**
-3) and the rising fluidity of social mobility which this type of open competition for power encouraged, as intelligence and warrior skills in their assistants proved more valuable to competing power-holders than did hereditary pedigree**
+1) **warfare, which had been pervasive among the feudal lords since the devolution of power into their hands;**
+2) **the further devolution of power from the Zhou-appointed feudal houses into the hands of subordinate families that managed to accumulate power locally;****
+3) **and the rising fluidity of social mobility which this type of open competition for power encouraged, as intelligence and warrior skills in their assistants proved more valuable to competing power-holders than did hereditary pedigree****
 
 - **Confucius emphasized personal and governmental morality, correctness of social relationships, justice and sincerity**
 - **His followers competed with many other schools during the Hundred Schools of Thought era (6th-3rd centuries BCE), and were suppressed in favour of the Legalists during the Qin Dynasty**
@@ -75,8 +74,8 @@ Confucius, Tang dynasty portrait
 - **The notion is that one never creates a full unity, but one can, through ritual, develop more productive ways of connecting with other people and with the larger world**
 - **Such a project is never-ending, but, when it works, it can, for periods of time, create pockets of order in which humans can flourish**
 
-- _**Yi**_ **(義/义) is translated as “righteousness”, “justice”, “meaning”; _li_ (ritual) is the action which has been deemed appropriate by society, _yi_ is the action that is indeed correct, while _ren_ deals with the relationship between the agent and object of the action**
-- _**Li**_ **is the outward expression of Confucian ideals, while _ren_ is both the inward and outward expressions of those same ideals**
+- **_Yi_ (義/义) is translated as “righteousness”, “justice”, “meaning”; _li_ (ritual) is the action which has been deemed appropriate by society, _yi_ is the action that is indeed correct, while _ren_ deals with the relationship between the agent and object of the action**
+- **_Li_ is the outward expression of Confucian ideals, while _ren_ is both the inward and outward expressions of those same ideals**
 
 - **The Way (_dao_, 道) was Confucius term for his teachings; by extension its is the means of governance used by ancient kings, which he hoped to restore**
 - **Individuals can make progress in the Way of self-cultivation; developing a sense of justice, loving treatment of parents, respect for elders, honesty with friends, etc. – becoming nobleman or gentleman**
@@ -115,13 +114,13 @@ Confucius, Tang dynasty portrait
 - **He did not support punishments because he felt that the rule who relied on coercion could not command people’s respect**
 - **Confucius looked down non-Chinese people (Yi and Di), but they, like common people, could respond to gentleman’s presence**
 
-- **Mencius****, 孟子 Mengzi (372-289 BCE) was born in Zou, near Confucius’ hometown in state of Lu; he studied Confucian teachings as a young man**
+- **Mencius, 孟子 Mengzi (372-289 BCE) was born in Zou, near Confucius’ hometown in state of Lu; he studied Confucian teachings as a young man******
 - **Mencius advanced the ideas of Confucius’ Analects further**
 - **Notwithstanding its early importance to Confucianism, the Mencius was not canonized as one of the Chinese Classics until over 1000 years later during the Song dynasty**
 
-Mencius, Myths & Legends of China
+**Mencius, Myths & Legends of China**
 
-By E.T.C. Werner, 1922
+**By E.T.C. Werner, 1922**
 
 - **A central question for Mencius was whether men were endowed with good or bad natures at birth**
 - **As the environment had altered the nature of Bull Mountain (the surroundings of Mencius), so too could it transform people**
@@ -130,7 +129,7 @@ By E.T.C. Werner, 1922
 - **People could be trusted to select a new ruler, and Mencius interpreted the concept of Mandate of Heaven to mean that the ruler can rule only with the help of his subjects**
 - **This did not mean right of people to express their opinion; that was reserved only to king’s ministers**
 
-- **Xunzi** **(310-210 BCE) thought that only assiduous education could counteract the original weakness of human nature; man was originally evil and can be improved by study**
+- **Xunzi (310-210 BCE) thought that only assiduous education could counteract the original weakness of human nature; man was originally evil and can be improved by study**
 - **In the two centuries between Confucius and his successors, the Zhou dynasty had become very weak, so neither Mencius nor Xunzi could seriously advocate their return to rule**
 - **Both Mencius nor Xunzi advocated unification under competent ruler, whom they no longer expected to be descendent from Zhou**
 
@@ -166,9 +165,9 @@ By E.T.C. Werner, 1922
 - **Laozi was a record keeper at the Zhou court by whose name the text is known in China**
 - **The text took shape in the 3rd century BCE, but at that time there was no clearly identifiable group who could be called Daoists**
 
-Laozi depicted as Daode Tianzun
+**Laozi depicted as Daode Tianzun**
 
-(the Heavenly Lord of Dao and its Virtue)
+**(the Heavenly Lord of Dao and its Virtue)**
 
 - **Only in the 1st century BCE was the label Daoist attached to _Daodejing_**
 - **At that time, Daoist referred to any teacher who practiced breathing techniques, meditation, austere eating regime in hope of extending his life span or even of gaining immortality**
@@ -177,22 +176,20 @@ Laozi depicted as Daode Tianzun
 - **Everything is connected to everything else; no one knows where the Way leads; we must become one with the Way, but cannot do so through fanatic activity**
 
 - **The Dao is nameless, goes beyond distinctions, and transcends language**
-- _**Daodejing**_ **begins as follows:**
-	- “_The ways that can be walked of are not the eternal Way;_**
+- **_Daodejing_ begins as follows:**
+	- **“_The ways that can be walked of are not the eternal Way;_****
+	- **_The names that can be named are not the eternal name._**
+	- **It was from the Nameless that Heaven and Earth sprang;_**
 
-## _**The names that can be named are not the eternal name.**_
+## **_The named is but the mother that rears the ten thousand_**
 
-## _**It was from the Nameless that Heaven and Earth sprang;**_
-
-## _**The named is but the mother that rears the ten thousand**_
-
-## _**creatures, each after its kind**_**.”**
+## **_creatures, each after its kind_.”**
 
 - **The _Daodejing_ advocates “female” (Yin) values, emphasizing the passive, solid, and quiescent qualities of nature (which is opposed to the active and energetic), and “having without possessing“**
 - **Yin (“female”) and Yang (“male”) should be balanced, “Know masculinity, Maintain femininity, and be a ravine for all under heaven”**
 - **The text praises self-gained knowledge with emphasis on that knowledge being gained with humility**
 
-- _**Wuwei**_**, “effortless action” – spontaneity and noninterference, letting things follow their own natural course (often mistakenly translated as non-action)**
+- **_Wuwei_, “effortless action” – spontaneity and noninterference, letting things follow their own natural course (often mistakenly translated as non-action)**
 - **Water embodies the quality of _wuwei_, but so do too women and infants, who manage to get their desires even though they are weak**
 
 - **He who governs, or the sage, should adopt the principle of allowing things to follow their natural course**
@@ -200,12 +197,12 @@ Laozi depicted as Daode Tianzun
 - **Like the Analects, the Way of Integrity Classic looks to the past for model states**
 
 - **The Daoist text targets Confucian values of sagehood, humanness, and righteousness, and Mozi’s emphasis on profit**
-- _**Daodejing**_ **evokes the purity of those things that have not been touched by human hands – undyed silk and unhewn logs**
-- _**Daodejing**_ **states: “_Abolish learning and you will be without worries_.”**
+- **_Daodejing_ evokes the purity of those things that have not been touched by human hands – undyed silk and unhewn logs**
+- **_Daodejing_ states: “_Abolish learning and you will be without worries_.”**
 
-Confucius meets Laozi, Shih Kang, Yuan dynasty
+**Confucius meets Laozi, Shih Kang, Yuan dynasty**
 
-- **Zhuangzi** **(linked to person who lived from 355 to 275 BC) is another Daoist text in the first century BC**
+- **Zhuangzi (linked to person who lived from 355 to 275 BC) is another Daoist text in the first century BC**
 - **It focuses on individual, while Daodejing often addresses the ruler of a state**
 - **Zhuangzi delighted in paradox and challenged the reader to abandon preconceived notions, often by making reader lough**
 
@@ -225,66 +222,66 @@ Confucius meets Laozi, Shih Kang, Yuan dynasty
 
 - **Neither be good, nor do good, because “_A state that uses the wicked to govern the good always enjoys order and become strong_” (more Machiavellian than Machiavelli)**
 - **If in enterprise you undertake what the enemy is ashamed to do, you have the advantage**
-- **Waste no time on rituals, activism, and fatalism; instead draw up comprehensive law codes with brutal penalties (beheading, burial alive, hard labour) and impose them rigidly on everyone**
+********- **Waste no time on rituals, activism, and fatalism; instead draw up comprehensive law codes with brutal penalties (beheading, burial alive, hard labour) and impose them rigidly on everyone**********
 
-- **Legalists liked to say that like carpenter’s square laws force messy materials to conform**
-- **Han Fei’s writings greatly influenced the First Emperor Qin, but they were officially vilified by the Han Dynasty**
-- **Despite its outcast status throughout the history of imperial China, Han’s political theory continued to heavily influence every dynasty thereafter, and the Confucian ideal of a rule without laws was never again realized**
+********- **Legalists liked to say that like carpenter’s square laws force messy materials to conform**********
+********- **Han Fei’s writings greatly influenced the First Emperor Qin, but they were officially vilified by the Han Dynasty**********
+********- **Despite its outcast status throughout the history of imperial China, Han’s political theory continued to heavily influence every dynasty thereafter, and the Confucian ideal of a rule without laws was never again realized**********
 
-# **Art of War**
+********# **Art of War**********
 
-- **Sun Tzu – _The Art of War_ was attributed to military general (6th century BCE): Sun Wu was a military theorist from the end of the Spring and Autumn period who fled his home state of Qi to the southeastern kingdom of Wu, where he is credited to have made Wu’s armies powerful enough to challenge their western rivals in the state of Chu**
-- **For almost 1,500 years it was the lead text in an anthology that would be formalised as the Seven Military Classics by Emperor Shenzong of Song in 1080**
+********- **Sun Tzu – _The Art of War_ was attributed to military general (6th century BCE): Sun Wu was a military theorist from the end of the Spring and Autumn period who fled his home state of Qi to the southeastern kingdom of Wu, where he is credited to have made Wu’s armies powerful enough to challenge their western rivals in the state of Chu**********
+********- **For almost 1,500 years it was the lead text in an anthology that would be formalised as the Seven Military Classics by Emperor Shenzong of Song in 1080**********
 
-Sun Tzu (544-496 BCE)
+********Sun Tzu (544-496 BCE)********
 
-- **Each of 13 chapters was devoted to an aspect of warfare and how it applies to military strategy and tactics: planning, waging war, attack, positioning, maneuvering, movement of forces, configuration of terrain, intelligence**
-- **“_Hence the saying: If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle_.” (Last verse, Chapter 3)**
+********- **Each of 13 chapters was devoted to an aspect of warfare and how it applies to military strategy and tactics: planning, waging war, attack, positioning, maneuvering, movement of forces, configuration of terrain, intelligence**********
+********- **“_Hence the saying: If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle_.” (Last verse, Chapter 3)**********
 
-**Battle of Boju, 506 BCE, Sun Tzu was credited to have led Wu forces**
+**********Battle of Boju, 506 BCE, Sun Tzu was credited to have led Wu forces**********
 
-- **“_All warfare is based on deception. Hence, when we are able to attack, we must seem unable; when using our forces, we must appear inactive; when we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near_.” (Verse 18, Chapter 1)**
+********- **“_All warfare is based on deception. Hence, when we are able to attack, we must seem unable; when using our forces, we must appear inactive; when we are near, we must make the enemy believe we are far away; when far away, we must make him believe we are near_.” (Verse 18, Chapter 1)**********
 
-- **Chinese Axial thought ranged from mysticism to authoritarianism, and constantly evolving**
-- **Xunzi for example combined Confucianism with Mozi’s ideas and Daoism and sought middle ground with Legalism (although he found the Legalist teachings in Qin as repellent)**
-- **Plenty of Legalists welcomed Mozi’s work ethic and Daoists’ acceptance of things**
+********- **Chinese Axial thought ranged from mysticism to authoritarianism, and constantly evolving**********
+********- **Xunzi for example combined Confucianism with Mozi’s ideas and Daoism and sought middle ground with Legalism (although he found the Legalist teachings in Qin as repellent)**********
+********- **Plenty of Legalists welcomed Mozi’s work ethic and Daoists’ acceptance of things**********
 
-# **Chinese Medicine**
+********# **Chinese Medicine**********
 
-- **The Chinese Medicine is based on Daoist concepts; it can be considered an offspring of Daoism in its cosmological concept**
-- **Therapeutic practices can be traced to Shang dynasty but there was no concept of “medicine” as distinct from other fields; their oracular inscriptions on bones and tortoise shells refer to illnesses that affected the Shang royal family: eye disorders, toothaches, bloated abdomen, etc.**
-- **The doctrines of Chinese medicine are rooted in books such as the Yellow Emperor’s Inner Canon (黄帝内经Huangdi Neijing) and the Treatise on Cold Damage**
+********- **The Chinese Medicine is based on Daoist concepts; it can be considered an offspring of Daoism in its cosmological concept**********
+********- **Therapeutic practices can be traced to Shang dynasty but there was no concept of “medicine” as distinct from other fields; their oracular inscriptions on bones and tortoise shells refer to illnesses that affected the Shang royal family: eye disorders, toothaches, bloated abdomen, etc.**********
+********- **The doctrines of Chinese medicine are rooted in books such as the Yellow Emperor’s Inner Canon (黄帝内经Huangdi Neijing) and the Treatise on Cold Damage**********
 
-- **Systematization of traditional medicine started during the Spring and Autumn period and matured during Western Han**
-- **It continued to develop during Tang – Wang Bing, a Daoist monk , and other authors complied various texts, including Inner Cannon (the contemporary version of the Inner Cannon is largely based on Wang Bin’s collection)**
+********- **Systematization of traditional medicine started during the Spring and Autumn period and matured during Western Han**********
+********- **It continued to develop during Tang – Wang Bing, a Daoist monk , and other authors complied various texts, including Inner Cannon (the contemporary version of the Inner Cannon is largely based on Wang Bin’s collection)**********
 
-- **Huangdi Neijing’s two main texts: the first text, the Suwen, also known as Basic Questions, covers the theoretical foundation of Chinese Medicine and its diagnostic methods**
-- **The second and generally less referred-to text, the Lingshu (Spiritual Pivot), discusses acupuncture therapy in detail**
-- **Song dynasty sponsored empire-wide compilation of herbal recipes**
-- **Education in medicine was through apprenticeship; often those who failed at exams became medical practitioners**
+********- **Huangdi Neijing’s two main texts: the first text, the Suwen, also known as Basic Questions, covers the theoretical foundation of Chinese Medicine and its diagnostic methods**********
+********- **The second and generally less referred-to text, the Lingshu (Spiritual Pivot), discusses acupuncture therapy in detail**********
+********- **Song dynasty sponsored empire-wide compilation of herbal recipes**********
+********- **Education in medicine was through apprenticeship; often those who failed at exams became medical practitioners**********
 
-- **The medicine is based on cosmological notions such as yin–yang and the five phases (elements): wood, fire, earth, metal, water**
-- **One-qi theory – formless beginning of the world; qi becomes yin and yang; and from yin and yang – emerge five phases (stages representing dynamism of yin and yang); from the five phases come ten thousand things or the material world**
-- **To follow nature’s law – fundamental principle: the body and cosmos are linked through cyclical dynamism of yin and yang (the five phases are material manifestation of this dynamism)**
+********- **The medicine is based on cosmological notions such as yin–yang and the five phases (elements): wood, fire, earth, metal, water**********
+********- **One-qi theory – formless beginning of the world; qi becomes yin and yang; and from yin and yang – emerge five phases (stages representing dynamism of yin and yang); from the five phases come ten thousand things or the material world**********
+********- **To follow nature’s law – fundamental principle: the body and cosmos are linked through cyclical dynamism of yin and yang (the five phases are material manifestation of this dynamism)**********
 
-# **TCM Wellness and Lifestyle**
+********# **TCM Wellness and Lifestyle**********
 
-- **Spring**
-- **Sleep cycle: go to sleep late and wake up early**
-- **Actions and thoughts: beginnings and more active**
-- **Food: chives, sprouts, fruits (cherries, oranges, etc.), beans (general rule is if it grows you eat it)**
+********- **Spring**********
+********- **Sleep cycle: go to sleep late and wake up early**********
+********- **Actions and thoughts: beginnings and more active**********
+********- **Food: chives, sprouts, fruits (cherries, oranges, etc.), beans (general rule is if it grows you eat it)**********
 
-- **Summer**
-- **Sleep: go to sleep late, wake up early**
-- **Actions and thoughts: not to get angry, not to hate the sun**
-- **Food: watermelon, fruits like grapes, apples**
+********- **Summer**********
+********- **Sleep: go to sleep late, wake up early**********
+********- **Actions and thoughts: not to get angry, not to hate the sun**********
+********- **Food: watermelon, fruits like grapes, apples**********
 
-- **Autumn**
-- **Sleep: go to sleep early, wake up early**
-- **Actions and thoughts: peaceful attitude**
-- **Food: chestnuts, beans, persimmons, potatoes, dairy**
+********- **Autumn**********
+********- **Sleep: go to sleep early, wake up early**********
+********- **Actions and thoughts: peaceful attitude**********
+********- **Food: chestnuts, beans, persimmons, potatoes, dairy**********
 
-- **Winter**
-- **Sleep: go to sleep early, wake up late**
-- **Actions and thoughts: slowing down and nurturing your body**
-- **Food: chicken soup, all kinds of soup, sticky rice, red beans, carrots, radishes**
+********- **Winter**********
+********- **Sleep: go to sleep early, wake up late**********
+********- **Actions and thoughts: slowing down and nurturing your body**********
+********- **Food: chicken soup, all kinds of soup, sticky rice, red beans, carrots, radishes**********
