@@ -11,6 +11,7 @@ Questions:
 3. How can we link Traditional Chinese Medicine (TCM) to the major Schools of Thought — Confucianism, Daoism, Legalism, and others?
 
 **What were the main differences between Mohism and Daoism in their understanding of ethics, governance, and social order?**
+
 Ethics
 * Mohism:
 	* Mozi emphasized “impartial caring” (jian ai 兼愛) — the idea that one should care for all people equally, not just family or friends
@@ -20,6 +21,7 @@ Ethics
 	* Daoist ethics focused on harmony with the Dao (the Way) — the natural order of the universe
 	* Daoism rejected the very foundations of Confucian and Mohist ethics. It  targets sagehood, humanness, and righteousnes" (Confucian values) and Mozi's "profit" as artificial constructs that interfere with the natural Dao
 	* The ideal moral life was spontaneous, effortless, and natural, also known as wuwei. It involves the non-interference, spontaneity, and becoming one with the flow of nature
+
 Governance
 * Mohism
 	* Advocated for a strong, centralized government led by a ruler who promoted universal welfare by increasing the basic goods of order, wealth, and the population.
@@ -28,6 +30,7 @@ Governance
 	* Advocated for minimal government and non-interference
 	* The ruler practiced wuwei governing by not imposing excessive law or moral codes
 	* The best governance is minimal governance, allowing things to follow their own course.
+
 Social Order
 * Mohism
 	* It is built on the principle of "impartial caring," where everyone has a responsibility toward everyone else. This was a direct challenge to the Confucian focus on familial bonds and hierarchical relationships
