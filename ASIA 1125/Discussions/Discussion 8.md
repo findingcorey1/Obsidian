@@ -58,3 +58,7 @@ Discussion Questions:
 5. What regional, cultural, and ethnic identities characterized late Zhou China?
     
 6. How do the Chinese schools of thought compare with philosophical or religious traditions in other ancient civilizations (for example, Mesopotamia, India, or Greece)?
+
+What were the main teachings of Mozi and the Mohist school?
+* Mozi
+	* Came from a lower social level
