@@ -59,5 +59,7 @@ Discussion Questions:
     
 6. How do the Chinese schools of thought compare with philosophical or religious traditions in other ancient civilizations (for example, Mesopotamia, India, or Greece)?
 
-How would you define Daoism and its vision of the ideal way of life or government?
-* 
+Which later Confucian scholars helped shape and expand Confucianism after Confucius?
+* Mencius (370-300 BC)
+	* He studied with Confucius grandson
+	* He travelled around offering advice to rulers of nearby states. Reminded the rulers of the mandate of heaven and telling to their face directly if they didn't rule well, heaven would say that their people wopuld rev
