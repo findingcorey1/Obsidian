@@ -1,3 +1,3 @@
 Photographer: Chris Shonting
 
-For this term project at first i focused on looking at the streetwear photography because 
+For this term project at first i focused on looking at the streetwear photography because that type of style would be right up 
