@@ -1,3 +1,3 @@
 Photographer: Chris Shonting
 
-For this Term Project i
+For this term project at first i focused on looking at the streetweare 
