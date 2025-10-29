@@ -1,3 +1,3 @@
 Photographer: Chris Shonting
 
-For this term project at first i focused on looking at the streetwear/fashion photography because that type of style that would be something i would be interested in. Then i came across and took Inspiration from Chris Shonting, who's a New York based photographer 
+For this term project at first i focused on looking at the streetwear/fashion photography because that type of style that would be something i would be interested in. Then i came across and took Inspiration from Chris Shonting, who's a New York based photographer that's known for portraits that focuses and mixes between skate, street, and youth culture with fashion. For me his works shows and captures 
