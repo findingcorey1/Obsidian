@@ -35,3 +35,5 @@ Be sure to use specific examples from the film.
 What was the role of Emperor Wu of Han in the empire’s expansion, reforms, and military campaigns?
 Emperor Wu of Han fundamentally transformed the empire by launching an aggressive military campaign to end the appeasement of the Xiongnu, developing a powerful cavalry to defeat them and securing the Hexi Corridor, which doubled Han territory and established control over the Silk Road. Domestically, he centralized power by weakening regional rulers and endorsing Confucianism as the state philosophy, founding an Imperial University to create a unified bureaucratic elite. However, his prolonged wars drained the treasury, and his later reign was marked by paranoia and a tyrannical search for immortality, mirroring the first Qin emperor he sought to surpass.
 [[Transcript of video (D9)]]
+
+Dong Zhou was a brutal and ambitious warlord form the province of Liang, at the time he commanded a battle army who were loyal to him personally. HIs role at the time were that the primary 
