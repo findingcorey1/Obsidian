@@ -8,7 +8,7 @@
 Introduction:
 With the case of Emily, James, and Dr. Lukas, there are many complications that arise between the confidentiality and autonomy of the doctor and the patients. After James learned about the complications that arise from the genetic mutations that he carries, he has the rights of confidentiality as a patient to not let his partner, Emily, know about the condition that would most likely lead to her to choosing an abortion, which it she had expressed before to her partner. Now Dr. Lucas is caught between either informing Emily about the information, which also would breach the confidentiality of the rights as a doctor. At the same time Dr. Lucas would have the rights to inform Emily about the information, In not telling her would violate her own autonomy and potentially causing significant harm later in the pregnancy. After comparing about the pros and cons of the situation, I would argue that Dr. Lucas should disclose Jame’s genetic test results to Emily because not doing so would violate her autonomy, preventing informed consent, and exposing her to inevitable harm. Which in this case in informing Emily about the harm outweighs Jame’s confidentiality requests.
 
-[[Paragraph 1]] Explain the harm if Dr. Lucas does not disclose the information
+[[Paragraph 1]] Explain the harm if Dr. Lucas does not disclose the information (Same as P2)
 * Dr. Lucas’s confidentiality as a doctor
 * Duty to warn and inform
 
