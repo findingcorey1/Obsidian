@@ -15,5 +15,5 @@ Something that Dr. Lukas could aim to do is speaking privately with James and di
 P3 (Abortion....)
 
 Another reason Dr. Lucas should disclose the genetic results is that abortion can be another idea where Emily could consider, whether or not if she chooses to continue with the pregnancy. 
-Judith Thomson explained that no one is required to use their body to support another life without consent and having the right to life does not guarantee it, even for the sakes of keeping the child (Thomson, p. 257). Her principle further highlights emily's 
+Judith Thomson explained that no one is required to use their body to support another life without consent and having the right to life does not guarantee it, even for the sakes of keeping the child ==(Thomson, p. 257)==. Her principle further highlights Emily's morals of not taking any chances of carrying a fetus with a severe, life-limiting condition. If Dr. Lukas does decide to not tell the truth about James genetic results, then it would in turn be further on defending James and in turn lead the fetus to continue to use Emily's body.  With that it would be forcing Emily to carry a child that would not live a normal life and is forced to have to live with James genes and cause more harm. 
 conclude
