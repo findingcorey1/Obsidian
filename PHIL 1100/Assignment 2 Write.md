@@ -23,6 +23,6 @@ V. Practical and Ethical Resolution
 
 A morally responsible resolution should aim to minimize harm to all parties while upholding core ethical principles. Dr. Lukas should first engage in further dialogue with James, explaining the moral and professional obligations involved. He should stress that Emily’s right to know derives from her role as a directly affected patient, and that non-disclosure could cause greater harm in the long term. Dr. Lukas should encourage joint disclosure, offering counseling to help the couple discuss the implications together. If James still refuses, Dr. Lukas would be ethically justified—indeed, morally obligated—to disclose the information directly to Emily.
 
-Something that Dr. Lukas could aim to do is speaking privately with James and discuss the complications that could occur if the test results cannot ethically stay confidential as the genetic results can directly affect Emily's health and rep  
+Something that Dr. Lukas could aim to do is speaking privately with James and discuss the complications that could occur if the test results cannot ethically stay confidential as the genetic results can directly affect Emily's health and reproductive decisions. Dr. Lucas and follow up and provide counseling to James by having a one on one conversation to process his fears and ethical concerns. And also to have the therapist to encourage him to voluntarily in disclosing the information about the genetic test results to Emily so they can at least have emotional support through therapist and the doctor as well. 
 
 conclude
