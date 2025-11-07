@@ -1,9 +1,3 @@
-- Emily is 8 weeks pregnant
-- James carries a mutation with high likelihood that any fetus inheriting it would have a condition that is incompatible with survival
-	- Holds personal moral objecting to abortion
-	- Concerned that if is emily is aware of the risks, she might choose to terminate the pregnancy 
-		- Previously expressed that she would not want to take the chance of carrying the fetus with a severe, life-limiting conditions
-	- James request the physician to not disclose the test result to emily, stating that disclosure would conflict with his deeply held belief and cause him significant distress
 
 Introduction:
 With the case of Emily, James, and Dr. Lukas, there are many complications that arise between the confidentiality and autonomy of the doctor and the patients. After James learned about the complications that arise from the genetic mutations that he carries, he has the rights of confidentiality as a patient to not let his partner, Emily, know about the condition that would most likely lead to her to choosing an abortion, which it she had expressed before to her partner. Now Dr. Lucas is caught between either informing Emily about the information, which also would breach the confidentiality of the rights as a doctor. At the same time Dr. Lucas would have the rights to inform Emily about the information, In not telling her would violate her own autonomy and potentially causing significant harm later in the pregnancy. After comparing about the pros and cons of the situation, I would argue that Dr. Lucas should disclose Jame’s genetic test results to Emily because not doing so would violate her autonomy, preventing informed consent, and exposing her to inevitable harm. Which in this case in informing Emily about the harm outweighs Jame’s confidentiality requests.
@@ -16,8 +10,7 @@ The ethical principles for Dr. Lucas centers around the principle of Autonomy fo
 * Duty to warn and inform
 
 
-[[P3]] Talk about abortion and all the problems attached
-
+[[P3]] 
 Something that Dr. Lukas could aim to do is speaking privately with James and discuss the complications that could occur if the test results cannot ethically stay confidential as the genetic results can directly affect Emily's health and reproductive decisions. Dr. Lucas and follow up and provide counseling to James by having a one on one conversation to process his fears and ethical concerns. And also to have the therapist to encourage him to voluntarily in disclosing the information about the genetic test results to Emily so they can at least have emotional support through therapist and the doctor as well. According to Kipnis, it states even though patients understand the information gathered during the treatment, it can be passed on to others even without the persons consent ==(Kipnis, 102)==. This further would justify Dr. Lukas's rights to pass on the information to Emily and also at the same time to the therapist as it can cause harm to not only Emily but also to James himself. If James still refuses, then  Dr. Lukas would be obligated to disclose the information directly to Emily because it is a doctors job to help protect their patients and their autonomy, which in this case is Emily and her baby. At the same the issue that arises is after disclosing the information can be less damaging than if Dr. Lukas does follow with James's confidentiality, which could in turn cause much more harm to Emily and himself. 
 
 conclude
