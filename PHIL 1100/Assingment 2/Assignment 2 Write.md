@@ -14,5 +14,6 @@ Something that Dr. Lukas could aim to do is speaking privately with James and di
 
 P3 (Abortion....)
 
-Theoretically if we 
+Another reason Dr. Lucas should disclose the genetic results is that abortion can be another idea where Emily could consider, whether or not if she chooses to continue with the pregnancy. 
+If we view 
 conclude
