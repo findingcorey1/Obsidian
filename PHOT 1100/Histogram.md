@@ -1,7 +1,7 @@
 * Learning Outcomes
 	* Evaluate digital exposure using histograms
 * What is a Histogram?
-	* Bar chart hsowing you the number of pixels of each brightness in your image
+	* Bar chart showing you the number of pixels of each brightness in your image
 	* Black is far left, White is far right
 	* ![](Pasted%20image%2020251008002216.png)
 * How to read Histogram?

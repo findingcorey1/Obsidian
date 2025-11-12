@@ -1,0 +1,6 @@
+![[image.png]]
+Callahan's communitarian perspective aims to talk about how medicine should not be used to control the time or manner in which a person dies. Through Callahan's view, we can say that he would likely defend that deep sedation until death could shorten their life. It also prioritizes the individual's autonomy over the broader social and moral implications of intentionally ending their life. Callahan would argue that the physician's role is to relieve the suffering of a patient's life by not directly causing death or shortening their lifespan. The patient's autonomy does not extend to allowing a physician to perform a morally impermissible act. 
+
+But from Boyle's perspective, drawing from the principles of "double effect", it allows it to distinguish between the action that can be permissible even if it speeds up death as long as the physician intends to relieve suffering and not cause death. If the physician intends to relieve suffering from the patient and not cause death, and the treatment is proportionate, then Boyle could find it morally acceptable. 
+
+Personally, I find Boyle's double effect reasoning to be more convincing because it allows the physician to show sympathy for end-of-life care for the patient without requiring the patient to endure pain while still maintaining a clear and ethical boundary against intentionally killing.

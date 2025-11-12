@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90a199ee23bd2b03",
+            "id": "498f66d821276f4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photo Gallery Assignemnt.md",
+                "file": "PHOT 1100/Quality of Light.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Photo Gallery Assignemnt"
+              "title": "Quality of Light"
+            }
+          },
+          {
+            "id": "08e5f31154ae0613",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHIL 1100/Assignment 2 Write.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assignment 2 Write"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,8 +101,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "e093df2d7ae07143",
@@ -99,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Photo Gallery Assignemnt.md",
+            "file": "PHIL 1100/Assignment 2 Write.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -146,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -155,42 +170,49 @@
       "bases:Create new base": false
     }
   },
-  "active": "90a199ee23bd2b03",
+  "active": "632708bc1e4060fc",
   "lastOpenFiles": [
-    "ASIA 1125/Midterm/Midterm 1.md",
+    "PHIL 1100/Assignment 2.md",
+    "PHIL 1100/Assignment 2 Write.md",
+    "Untitled.md",
+    "PHOT 1100/Untitled 1.md",
+    "ASIA 1125/Discussions/Transcript of video (D9).md",
+    "ASIA 1125/Discussions/Discusssion 9.md",
+    "PHOT 1100/Quality of Light.md",
+    "PHOT 1100/Same Subject different Light.md",
+    "PHOT 1100/Term Project Plan - Inspiration.md",
+    "PHOT 1100/Blur-Freeze Motion.md",
+    "PHOT 1100/Histogram.md",
+    "PHIL 1100/Week 1.md",
+    "ASIA 1125/Midterm/Identification Questions/First Neolithic villages in China (Yellow River and Yangtze River basins).md",
+    "ASIA 1125/Discussions/Discussion 7.md",
+    "ASIA 1125/Class Notes/Photo Attatch pc/Pasted image 20251022174331.png",
+    "ASIA 1125/Class Notes/Photo Attatch pc/Pasted image 20251022174046.png",
+    "ASIA 1125/Class Notes/Confucianism.md",
+    "ASIA 1125/Midterm/Identification Questions/Qin Shi Huangdi.md",
+    "ASIA 1125/Midterm/Identification Questions/Shang dynasty.md",
+    "ASIA 1125/Midterm/Identification Questions/Ancestors.md",
+    "ASIA 1125/Midterm/Identification Questions/Warring States.md",
+    "ASIA 1125/Midterm/Identification Questions/Spring and Autumn Period.md",
+    "ASIA 1125/Midterm/Identification Questions/Duke Wen of Jin – Double Ears.md",
+    "ASIA 1125/Midterm/Identification Questions/Longshan culture.md",
+    "PHOT 1100/Term Project.md",
+    "ASIA 1125/Midterm/Identification Questions/Heaven.md",
+    "ASIA 1125/Midterm/Identification Questions/Human (early spiritual practices).md",
+    "ASIA 1125/Midterm/Identification Questions/Neolithic (agricultural) revolution.md",
+    "ASIA 1125/Midterm/Identification Questions/Photo Attatch pc/Pasted image 20251016204303.png",
+    "ASIA 1125/Midterm/Identification Questions/Photo Attatch pc",
     "Untitled.canvas",
-    "Photo Gallery Assignemnt.md",
     "PHOT 1100/Photo attatchments_/20251016_094044.jpeg",
-    "PHOT 1100/File size and Image Quality.md",
-    "README.md",
-    "ASIA 1125/Discussions/Discussion 6.md",
-    "ASIA 1125/Class Notes/First Chinese Empire.md",
-    "ASIA 1125/Class Notes/Early Spirtiual practice spring and autumn period.md",
-    "ASIA 1125/Class Notes/Early civilizations and states Zhou.md",
     "ASIA 1125/Class Notes/Photo Attatch pc/Pasted image 20251014172746.png",
     "ASIA 1125/Class Notes/Photo Attatch pc/Pasted image 20251014165207.png",
     "ASIA 1125/Class Notes/Photo Attatch pc/Pasted image 20251014160547.png",
     "ASIA 1125/Class Notes/Photo Attatch pc/Pasted image 20251014230109.png",
     "ASIA 1125/Class Notes/Photo Attatch pc/Pasted image 20251014212145.png",
     "ASIA 1125/Class Notes/Photo Attatch pc/Pasted image 20251014160150.png",
-    "ASIA 1125/Class Notes/Photo Attatch pc/Pasted image 20251014200848.png",
-    "ASIA 1125/Class Notes/Photo Attatch pc/Pasted image 20251014194935.png",
-    "ASIA 1125/Class Notes/Photo Attatch pc/Pasted image 20251014172737.png",
-    "ASIA 1125/Midterm/Identification Questions/Qin Shi Huangdi.md",
-    "ASIA 1125/Midterm/Identification Questions/Homo Sapiens.md",
-    "ASIA 1125/Midterm/Identification Questions/Human (early spiritual practices).md",
     "ASIA 1125/Midterm/Identification Questions",
-    "ASIA 1125/Class Notes/Early Civilizations and  States Xia, Shang and Zhou.md",
-    "PHOT 1100/mc deepseek/Exposure mc.md",
-    "PHOT 1100/mc deepseek/Histogram.md",
-    "PHOT 1100/mc deepseek/Lighting Assignment.md",
-    "PHOT 1100/mc deepseek/Same subject different light mc.md",
-    "PHOT 1100/mc deepseek/Quality of Light mc.md",
-    "PHIL 1100/Week 1.md",
     "PHOT 1100/mc deepseek",
     "PHOT 1100/Photo Attatch pc",
-    "ASIA 1125/Discussions/Discussion 1.md",
-    "PHIL 1100",
-    "PHOT 1100/Same Subject different Light.md"
+    "PHIL 1100"
   ]
 }
