@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Syllabus"
             }
+          },
+          {
+            "id": "ef3223b54ef7fbf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes (Qing Dynasty 1644 - 1912).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes (Qing Dynasty 1644 - 1912)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,8 +171,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "e21282ba7a12e847",
+  "active": "ef3223b54ef7fbf7",
   "lastOpenFiles": [
+    "ASIA 1125/Paper/Syllabus.md",
+    "Notes (Qing Dynasty 1644 - 1912).md",
+    "PHOT 1100/Term Project Paper.md",
     "ASIA 1125/Paper/Asia Paper.md",
     "ASIA 1125/Discussions/Discussion 2.md",
     "Untitled.canvas",
@@ -186,9 +204,6 @@
     "ASIA 1125/Midterm/Identification Questions/Qin Shi Huangdi.md",
     "ASIA 1125/Midterm/Identification Questions/Shang dynasty.md",
     "ASIA 1125/Midterm/Identification Questions/Ancestors.md",
-    "ASIA 1125/Midterm/Identification Questions/Warring States.md",
-    "ASIA 1125/Midterm/Identification Questions/Spring and Autumn Period.md",
-    "ASIA 1125/Midterm/Identification Questions/Duke Wen of Jin – Double Ears.md",
     "ASIA 1125/Midterm/Identification Questions/Photo Attatch pc/Pasted image 20251016204303.png",
     "ASIA 1125/Midterm/Identification Questions/Photo Attatch pc",
     "PHOT 1100/Photo attatchments_/20251016_094044.jpeg",
