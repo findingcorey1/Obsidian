@@ -18,7 +18,7 @@ The Qing "Golden Era" was made up of the reigns of three emperors:
 
 https://www.britannica.com/topic/Qing-dynasty
 
-Agricultural?
+### Agricultural?
 https://doi.org/10.3390/land13081183
 - Looks at how population pressure in Qing China affected land use, the commercial economy, and agricultural “involution.”
 - grain price data from southern China (1776–1910) to trace how surplus labor moved into non-agricultural sectors as land became saturated
@@ -30,6 +30,13 @@ https://doi.org/10.3390/land13081183
 	- . The worsening population–land ratio meant the land reached a point where it **could not absorb more labor**
 - The surplus population, unable to be supported by agriculture, was **forced to transition to non-agricultural industries** in search of livelihoods
 - 
-Silver/Domestic Trade/Market Integration
-Canton System/Foreign Trade 
+### Silver/Domestic Trade/Market Integration
+### Canton System/Foreign Trade 
+https://doi.org/10.3390/land13081183
+- **Commerce and Trade:** The surplus population was pushed into **commerce** 
+	- This shift involved activities aimed at **exchange and profit**
+- **Handicrafts and Processing:** Labor shifted into the **handicrafts** industry
+	- This included the cultivation and preliminary **processing of cash crops** in family workshops, such as tea production, sugar making, and fruit processing
+	- In regions like the Jiangnan area, **handicrafts evolved from household sidelines to the main means of livelihood** for farming households
+- 
 
