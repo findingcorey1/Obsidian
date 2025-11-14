@@ -43,6 +43,9 @@ https://www.jstor.org/stable/2055447?seq=1
 - The central argument regarding the 1700–1850 period is that **food production alone cannot explain the rapid population rise**. Instead, the growth was primarily a response to commercial and industrial expan
 - **Scale of Immigration:** The immigrant population grew significantly, increasing from only a few percent in **1700** to roughly 10 percent within fifty years, and reaching almost **20 percent** (3 to 4 million people) of the 20 million total population by the mid-nineteenth century
 - **Industrial Magnet:** Unlike earlier Ming migrations driven by government policy, immigration after 1700 was a response to the **rising demand for labor** created by the **expansion of the southwestern mining industry**. Increased economic opportunity pulled large numbers of immigrants to the Southwest.
+Farming
+- **Crop Switching and Rotation:** From 1700 onward in the Southwest, farmers began adopting **early ripening rice** and moving to **double and even triple cropping** to increase food base efficiency.
+- 
 
 <u>**Conflicting Counsels to confuse the Age (Book)**</u>
 Types of crops
