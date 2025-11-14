@@ -45,8 +45,24 @@ https://www.jstor.org/stable/2055447?seq=1
 - **Industrial Magnet:** Unlike earlier Ming migrations driven by government policy, immigration after 1700 was a response to the **rising demand for labor** created by the **expansion of the southwestern mining industry**. Increased economic opportunity pulled large numbers of immigrants to the Southwest.
 
 <u>**Conflicting Counsels to confuse the Age (Book)**</u>
+Types of crops
 - **Liquor/Alcoholic Spirits:** The creation and consumption of alcohol were widespread and frequently regulated by the state
-- 
+- **Yellow Liquor:** This was a higher-quality product that required fine food grains, such as wheat, glutinous rice, or glutinous millet/setaria.
+- **Meat and Fish:** These items were purchased for feasting and hospitality.
+- **Spices and Flavorings:** **Cinnamon and pepper** were listed among the requirements for feasts.
+- Rice/Wheat/Millet
+- **Cotton:** Used for raw cotton and cloth.
+- **Silk and Raw Silk:** These were prominent commodities, particularly in the Jiangnan region.
+- **Fruit:** Includes common fruits such as **dates, persimmons, and grapes**, all of which could be used for distillation.
+- **Medicaments:** Mentioned among crops under cultivation.
+- **Tobacco:** Cultivation was a concern for officials, who sometimes sought to prohibit the diversion of good crop land to this crop.
+Farming Techniques
+- 1. Water Management and Land Reclamation
+	- The maintenance and restoration of hydraulic systems were crucial for agriculture, often requiring significant official intervention:
+	- **River System Management:** Officials, such as county magistrates, undertook dedicated efforts to restore **complex river systems** to make the local countryside safe for agriculture. This included **guiding** rivers, streams, creeks, and channels to control their flow, sometimes dividing or gathering them.
+- 2. Intensive Cultivation and Labor Input
+	- • **Intensive Farming:** Population pressure drove farmers to engage in **intensive farming practices** and increased **labor inputs** to boost per-unit area yields and sustain livelihoods on limited land
+	- **Plowing and Tilling:** General agricultural diligence included **ploughing**. It was noted that good farming required iron implements with which to plough.
 
 ### Canton System/Foreign Trade 
 https://doi.org/10.3390/land13081183
