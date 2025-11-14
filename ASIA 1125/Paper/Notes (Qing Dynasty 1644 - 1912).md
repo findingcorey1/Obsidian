@@ -2,6 +2,9 @@
 
 Thesis: 
 Between 1700 and 1800, Qing China experienced remarkable economic growth driven by agricultural expansion and internal commerce, yet its restrictive trade policies—most notably the Canton System—revealed a tension between self-sufficiency and emerging global economic integration
+or 
+(Agri + Trade)
+“During the 17th century, China’s expanding agricultural productivity—driven by new crops, improved farming techniques, and population growth—created the surplus wealth that enabled the Qing state to develop the Canton System as a controlled gateway for foreign trade, linking domestic agrarian strength with carefully managed global commercial exchange.”
 
 Notes:
 https://www.chinahighlights.com/travelguide/china-history/the-qing-dynasty.htm
