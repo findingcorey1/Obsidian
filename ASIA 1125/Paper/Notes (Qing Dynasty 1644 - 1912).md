@@ -31,6 +31,7 @@ https://doi.org/10.3390/land13081183
 - The surplus population, unable to be supported by agriculture, was **forced to transition to non-agricultural industries** in search of livelihoods
 - 
 ### Silver/Domestic Trade/Market Integration
+
 ### Canton System/Foreign Trade 
 https://doi.org/10.3390/land13081183
 - **Commerce and Trade:** The surplus population was pushed into **commerce** 
