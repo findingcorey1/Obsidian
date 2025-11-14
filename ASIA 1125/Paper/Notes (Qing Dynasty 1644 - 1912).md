@@ -104,4 +104,7 @@ Cohong: https://www.britannica.com/money/cohong
 - A critical function was established in the **1740s**. A system required that every foreign ship arriving at Guangzhou had to be **supervised by a hong merchant**.
 - This designated hong merchant served as a guarantor to the Chinese government, ensuring both the **payment of all duties** and the **proper behaviour of the foreign traders**.
 - Despite being subject to **heavy exactions from officials**, some hong merchants were able to accumulate **great wealth**
-    
+
+Effects on the Domestic Economy and Society 
+https://www.jstor.org/stable/23891200?seq=1
+
