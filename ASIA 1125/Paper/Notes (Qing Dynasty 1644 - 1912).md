@@ -116,3 +116,4 @@ https://www.jstor.org/stable/23891200?seq=1
 
 
 - **Tolerance of Daily Services:** Although only specially licensed Chinese were officially allowed contact with foreigners, the situation in day-to-day practice was different. **Barbers, washwomen, prostitutes, and others were allowed to engage the seamen on a regular basis**. This was tolerated because these services kept foreigners content, which helped maintain harmony.
+
