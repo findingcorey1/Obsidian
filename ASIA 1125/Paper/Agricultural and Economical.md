@@ -1,1 +1,1 @@
-During the Qing Dynasty, China's Agricultural and Economic status 
+During the time of Qing Dynasty, China's Agricultural and Economic status flourished with the 
