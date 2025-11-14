@@ -1,4 +1,5 @@
 [[Layout CHAT]]
+[[Layout CHAT 2]]
 
 Thesis: 
 Between 1700 and 1800, Qing China experienced remarkable economic growth driven by agricultural expansion and internal commerce, yet its restrictive trade policies—most notably the Canton System—revealed a tension between self-sufficiency and emerging global economic integration
@@ -42,8 +43,6 @@ https://www.jstor.org/stable/2055447?seq=1
 - **Scale of Immigration:** The immigrant population grew significantly, increasing from only a few percent in **1700** to roughly 10 percent within fifty years, and reaching almost **20 percent** (3 to 4 million people) of the 20 million total population by the mid-nineteenth century
 - **Industrial Magnet:** Unlike earlier Ming migrations driven by government policy, immigration after 1700 was a response to the **rising demand for labor** created by the **expansion of the southwestern mining industry**. Increased economic opportunity pulled large numbers of immigrants to the Southwest.
 - 
-
-### Silver/Domestic Trade/Market Integration
 
 ### Canton System/Foreign Trade 
 https://doi.org/10.3390/land13081183
