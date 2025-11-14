@@ -18,7 +18,9 @@ The Qing "Golden Era" was made up of the reigns of three emperors:
 
 https://www.britannica.com/topic/Qing-dynasty
 
-
+Agricultural?
+https://doi.org/10.3390/land13081183
+- 
 Silver/Domestic Trade/Market Integration
 Canton System/Foreign Trade 
 
