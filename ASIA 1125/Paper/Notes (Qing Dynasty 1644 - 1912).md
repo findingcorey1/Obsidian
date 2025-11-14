@@ -20,7 +20,8 @@ https://www.britannica.com/topic/Qing-dynasty
 
 Agricultural?
 https://doi.org/10.3390/land13081183
-- 
+- Looks at how population pressure in Qing China affected land use, the commercial economy, and agricultural “involution.”
+- grain price data from southern China (1776–1910) to trace how surplus labor moved into non-agricultural sectors as land became saturated
 Silver/Domestic Trade/Market Integration
 Canton System/Foreign Trade 
 
