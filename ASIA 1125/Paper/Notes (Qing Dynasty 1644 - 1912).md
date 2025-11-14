@@ -27,7 +27,7 @@ The Qing "Golden Era" was made up of the reigns of three emperors:
 https://www.britannica.com/topic/Qing-dynasty
 
 ### Agricultural?
-https://doi.org/10.3390/land13081183
+https://doi.org/10.3390/land13081183 
 - Looks at how population pressure in Qing China affected land use, the commercial economy, and agricultural “involution.”
 - grain price data from southern China (1776–1910) to trace how surplus labor moved into non-agricultural sectors as land became saturated
 - **Malthusian Pressure:** The Qing Dynasty experienced an **unprecedented population boom** that created immense **"Malthusian" population pressure** due to limited arable land and stagnant technological advancement (1)
