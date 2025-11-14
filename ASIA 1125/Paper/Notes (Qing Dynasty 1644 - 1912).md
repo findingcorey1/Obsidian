@@ -17,3 +17,8 @@ The Qing "Golden Era" was made up of the reigns of three emperors:
 - China's population surpassed 100 million for the first time in its history and grew to 300 million, which laid the foundation for China to become the most populous country.
 
 https://www.britannica.com/topic/Qing-dynasty
+
+
+Silver/Domestic Trade/Market Integration
+Canton System/Foreign Trade 
+
