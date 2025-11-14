@@ -70,3 +70,13 @@ https://www.ebsco.com/research-starters/history/canton-system-1757-1842#research
 * **Price Manipulation:** The price of rice was subject to **"speculation by hoarders"** and price manipulation by retailers. Shopkeepers acted with **"solidarity within the trade"** (_qihang_), often spreading false rumors about weather (like wind signaling drought or two days of rain portending flood) to push prices up multiple times in a single day
 * **Supplementary Reserves:** Emida secured imperial assent to set up a **large supplementary grain reserve** for stabilizing sales in Guangzhou. This reserve was intended to protect the city's population from price manipulations by merchants who controlled the grain supply.
 * **Set Price:** A set price of **"one tael per bushel"** by granary measure was established as an "everlasting rule" [98, 105n].
+
+Cohong: https://www.britannica.com/money/cohong
+- The cohong was essentially a **guild of Chinese merchants**. It is also known by the names **cong-hong, gonghang, hong, or kung-hang**
+- The central government **authorized the cohong to trade with Western merchants** specifically at **Guangzhou (Canton)**
+- When Guangzhou became the **only Chinese port open to foreign trade in 1757**, the hong merchants were the **only merchants in the city permitted to sell commodities like tea and silk to Westerners**
+- Theoretically, the number of merchants was **13**, although they frequently numbered **no more than 4**
+- A critical function was established in the **1740s**. A system required that every foreign ship arriving at Guangzhou had to be **supervised by a hong merchant**.
+- This designated hong merchant served as a guarantor to the Chinese government, ensuring both the **payment of all duties** and the **proper behaviour of the foreign traders**.
+- Despite being subject to **heavy exactions from officials**, some hong merchants were able to accumulate **great wealth**
+    
