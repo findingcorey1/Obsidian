@@ -61,4 +61,4 @@ https://www.ebsco.com/research-starters/history/canton-system-1757-1842#research
 - **Canton Emergence:** Over time, Canton emerged as the most favorable trade location for foreign merchants and became China's leading trade port
 - **Formal Restriction (1757):** While the restriction was unofficial previously, the Qing formally announced in **1757** that Canton was the only Chinese port open to foreign traders, officially enacting the Canton System.
 - **Government Oversight**: Qing officials were sent to port cities to oversee trade business, as maritime trade was deemed lucrative and politically delicate
-- 
+
