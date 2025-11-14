@@ -42,5 +42,14 @@ https://doi.org/10.3390/land13081183
 - **Southern Focus:** The study specifically examines 12 southern provinces, including **Guangdong** (where Canton/Guangzhou is located)
 	- The southern region was noted as the economic heart of the nation with bustling trade (9)
 
-
-
+https://www.ebsco.com/research-starters/history/canton-system-1757-1842#research-starter-title
+- **Policy Scope:** The system was a foreign trade policy established by the Qing dynasty designed to regulate and restrict foreign trade
+- **Restriction:** Under this policy, trade with foreign merchants was restricted solely to the southern port city of Guangzhou, which was known to outsiders as **Canton**
+- **Qing Motivation:**
+   - The system emerged in response to growing Western interest in Chinese goods.
+   - The Qing dynasty sought to maintain control over foreign influences and activities of foreign merchants.
+   - By the 1750s, Qing officials were worried about the rising number of foreigners entering the country and the potential influence on Chinese culture.
+- **Canton Emergence:** Over time, Canton emerged as the most favorable trade location for foreign merchants and became China's leading trade port
+- **Formal Restriction (1757):** While the restriction was unofficial previously, the Qing formally announced in **1757** that Canton was the only Chinese port open to foreign traders, officially enacting the Canton System.
+- **Government Oversight**: Qing officials were sent to port cities to oversee trade business, as maritime trade was deemed lucrative and politically delicate
+- 
