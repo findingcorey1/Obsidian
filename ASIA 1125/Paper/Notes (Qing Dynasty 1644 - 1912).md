@@ -29,7 +29,15 @@ https://doi.org/10.3390/land13081183
 - **Inability to Sustain Population:** The **carrying capacity of arable land** and traditional agricultural production **could not sustain the surplus population**
 	- . The worsening population–land ratio meant the land reached a point where it **could not absorb more labor**
 - The surplus population, unable to be supported by agriculture, was **forced to transition to non-agricultural industries** in search of livelihoods
+
+https://www.jstor.org/stable/2055447?seq=1
+- **Explosive Growth Rate:** Between **1700 and 1850**, the population of Southwest China (Yunnan, Guizhou, and parts of Sichuan Province) quadrupled, expanding from 5 million to approximately 20 million people
+- **Decisive Recovery:** The Southwest began to recover from the devastations of the Ming-Qing transition after 1681. By **1700**, the population had already recovered its sixteenth-century level of 4 to 5 million.
+- The central argument regarding the 1700–1850 period is that **food production alone cannot explain the rapid population rise**. Instead, the growth was primarily a response to commercial and industrial expan
+- **Scale of Immigration:** The immigrant population grew significantly, increasing from only a few percent in **1700** to roughly 10 percent within fifty years, and reaching almost **20 percent** (3 to 4 million people) of the 20 million total population by the mid-nineteenth century
+- **Industrial Magnet:** Unlike earlier Ming migrations driven by government policy, immigration after 1700 was a response to the **rising demand for labor** created by the **expansion of the southwestern mining industry**. Increased economic opportunity pulled large numbers of immigrants to the Southwest.
 - 
+
 ### Silver/Domestic Trade/Market Integration
 
 ### Canton System/Foreign Trade 
