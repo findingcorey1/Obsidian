@@ -38,5 +38,7 @@ https://doi.org/10.3390/land13081183
 - **Handicrafts and Processing:** Labor shifted into the **handicrafts** industry
 	- This included the cultivation and preliminary **processing of cash crops** in family workshops, such as tea production, sugar making, and fruit processing
 	- In regions like the Jiangnan area, **handicrafts evolved from household sidelines to the main means of livelihood** for farming households
-- 
+- **Commercial Prosperity:** During the Qing Dynasty, the **commercial economy was exceptionally active**, featuring flourishing long-distance trade and the expansion of domestic markets (6)
+- **Southern Focus:** The study specifically examines 12 southern provinces, including **Guangdong** (where Canton/Guangzhou is located)
+	- The southern region was noted as the economic heart of the nation with bustling trade
 
