@@ -1,5 +1,7 @@
 [[Layout CHAT]]
 [[Layout CHAT 2]]
+[[Layout CHAT 3]]
+
 
 Thesis: 
 Between 1700 and 1800, Qing China experienced remarkable economic growth driven by agricultural expansion and internal commerce, yet its restrictive trade policies—most notably the Canton System—revealed a tension between self-sufficiency and emerging global economic integration
@@ -107,4 +109,10 @@ Cohong: https://www.britannica.com/money/cohong
 
 Effects on the Domestic Economy and Society 
 https://www.jstor.org/stable/23891200?seq=1
+- **Government Revenue and Merchant Roles:** The thirteen Chinese **hong merchants** (organized as the Cohong in 1720) were essential to the system, benefiting both the Qing government and foreign traders. They were responsible for collecting **customs dues and taxes for the Qing government**
+- **Protection against Official Exactions:** The Cohong merchants established the **Consoo fund in 1775**. Each member contributed ten percent of his trade profits to this fund, which was intended to protect the members from the financial "exactions" of Qing officials
+- **Widespread Participation in Commerce:** Canton was described as a "contact zone" with a culture that was both local and international. While most Chinese living within the city walls never met a foreigner, most of those _outside_ the walls participated directly in commercial activities with foreigners.
+- **Trade Volume and Flexibility:** The trade volume resulting from the Canton System was immense, perhaps unrivaled globally. Despite the official restrictions, China's external trade under the Canton System was often more free than usually assumed, not confined strictly to Canton or entirely monopolized by the Cohong. This flexibility was achieved because foreign traders often dealt with smaller Cantonese merchants outside the official system, traded directly along the coast, and utilized Chinese smugglers as intermediaries.
 
+
+- **Tolerance of Daily Services:** Although only specially licensed Chinese were officially allowed contact with foreigners, the situation in day-to-day practice was different. **Barbers, washwomen, prostitutes, and others were allowed to engage the seamen on a regular basis**. This was tolerated because these services kept foreigners content, which helped maintain harmony.
