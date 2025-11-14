@@ -22,10 +22,10 @@ https://www.britannica.com/topic/Qing-dynasty
 https://doi.org/10.3390/land13081183
 - Looks at how population pressure in Qing China affected land use, the commercial economy, and agricultural “involution.”
 - grain price data from southern China (1776–1910) to trace how surplus labor moved into non-agricultural sectors as land became saturated
-- **Malthusian Pressure:** The Qing Dynasty experienced an **unprecedented population boom** that created immense **"Malthusian" population pressure** due to limited arable land and stagnant technological advancement 
-	- The population explosion led to the **lowest historical per capita arable land** in the mid- to late Qing dynasty
+- **Malthusian Pressure:** The Qing Dynasty experienced an **unprecedented population boom** that created immense **"Malthusian" population pressure** due to limited arable land and stagnant technological advancement (1)
+	- The population explosion led to the **lowest historical per capita arable land** in the mid- to late Qing dynasty (1)
 - **Agricultural Saturation and "Involution":** The growth in population resulted in the **over-concentration of agricultural labor** and the **saturation of the farming population**
-	- Farmers engaged in more **intensive farming practices** on limited land, but this led to the "involution" of agriculture, characterized by **diminishing marginal returns on labor** and low productivity
+	- Farmers engaged in more **intensive farming practices** on limited land, but this led to the "involution" of agriculture, characterized by **diminishing marginal returns on labor** and low productivity (1)
 - **Inability to Sustain Population:** The **carrying capacity of arable land** and traditional agricultural production **could not sustain the surplus population**
 	- . The worsening population–land ratio meant the land reached a point where it **could not absorb more labor**
 - The surplus population, unable to be supported by agriculture, was **forced to transition to non-agricultural industries** in search of livelihoods
@@ -40,5 +40,7 @@ https://doi.org/10.3390/land13081183
 	- In regions like the Jiangnan area, **handicrafts evolved from household sidelines to the main means of livelihood** for farming households
 - **Commercial Prosperity:** During the Qing Dynasty, the **commercial economy was exceptionally active**, featuring flourishing long-distance trade and the expansion of domestic markets (6)
 - **Southern Focus:** The study specifically examines 12 southern provinces, including **Guangdong** (where Canton/Guangzhou is located)
-	- The southern region was noted as the economic heart of the nation with bustling trade
+	- The southern region was noted as the economic heart of the nation with bustling trade (9)
+
+
 
