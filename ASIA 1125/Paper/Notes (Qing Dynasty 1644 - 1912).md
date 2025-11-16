@@ -90,7 +90,7 @@ https://www.ebsco.com/research-starters/history/canton-system-1757-1842#research
 - **Canton Emergence:** Over time, Canton emerged as the most favorable trade location for foreign merchants and became China's leading trade port
 - **Formal Restriction (1757):** While the restriction was unofficial previously, the Qing formally announced in **1757** that Canton was the only Chinese port open to foreign traders, officially enacting the Canton System.
 - **Government Oversight**: Qing officials were sent to port cities to oversee trade business, as maritime trade was deemed lucrative and politically delicate
-
+**
 <u>Conflicting Counsels to confuse the Age (Book)</u>
 * **Population and Vulnerability:** Guangzhou had a **"particularly great numbers of poor people needing to be fed"**. The poor, such as artisan laborers, often worked for "few coppers" and were frequently unable to afford food when prices soared.
 * **Grain Source:** The markets of Guangzhou relied on grain imported from the adjacent Guangxi Province.
