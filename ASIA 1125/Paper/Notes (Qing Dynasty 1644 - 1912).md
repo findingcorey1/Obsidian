@@ -117,6 +117,8 @@ https://www.jstor.org/stable/23891200?seq=1
 
 - **Tolerance of Daily Services:** Although only specially licensed Chinese were officially allowed contact with foreigners, the situation in day-to-day practice was different. **Barbers, washwomen, prostitutes, and others were allowed to engage the seamen on a regular basis**. This was tolerated because these services kept foreigners content, which helped maintain harmony.
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10437944/
+
 The rising population also pushed agricultural boundaries  further into previously marginal lands, reinforcing the cycle of agricultural expansion and economic growth
 
 The population at the time pushed agricultural boundaries which increased into previously marginal lands and it further improved the agricultural expansion and economic growth
