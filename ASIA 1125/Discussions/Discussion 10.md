@@ -30,3 +30,7 @@ Compare Han and Tang:
     
 
 Please cite the text for examples.
+
+Part 1:
+ In your opinion, what was the most significant achievement of the Tang dynasty, and why?
+* The most significant achievement from the tang dynasty was the creation and the international distribution of the institutional structures, most notably being the tang code and the six boards. The highly successfull Tang code was adopted by subsequent chinese dynasties and neighbors like the Korea, Japan, and Vietnam, while the administrative framework of the six ministries (Revenue, Civil Appointments, Rites, Works, Punishments, and War) was so endring that it still remained in use until
