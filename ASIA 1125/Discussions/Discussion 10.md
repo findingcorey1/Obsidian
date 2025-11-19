@@ -38,3 +38,4 @@ Part 1:
 Part 2:
 What were the main similarities in governance between the Han and Tang?
 * Both Dynasties established the structure of a centralized bureaucratic monarchy that was retained throughout Chinese history (p.114) 118
+* Relied on direct administration of position by officials who were centrally appointed and subject to dismissal and transfered a system that was retained by the Han from the qin dynasty (p.64
