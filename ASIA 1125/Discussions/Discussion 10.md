@@ -36,4 +36,5 @@ Part 1:
 * The most significant achievement from the tang dynasty was the creation and the international distribution of the institutional structures, most notably being the tang code and the six boards. The highly successful Tang code was adopted by subsequent Chinese dynasties and neighbors like the Korea, Japan, and Vietnam, while the administrative framework of the six ministries (Revenue, Civil Appointments, Rites, Works, Punishments, and War) was so enduring that it still remained in use until the 20th century. 
 
 Part 2:
-- 
+What were the main similarities in governance between the Han and Tang?
+* Both Dynasties established the structure of a centralized bureaucratic monarchy that was retained throughout Chinese history (p.114) 118
