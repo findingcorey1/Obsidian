@@ -42,4 +42,5 @@ What were the main similarities in governance between the Han and Tang?
 	*  The Tang Code set out clear rules for officials, reflecting a highly systematized bureaucratic order.” (pp. 111–112)
 * Relied on direct administration of position by officials who were centrally appointed and subject to dismissal and transferred a system that was retained by the Han from the qin dynasty (p.64)
 * Both had used Confucian ideas to pursue loyalty and responsibilities among officials finding it "much less costly to appoint officials the government could trust than to supervise and monitor their every action" (p.120)
-	* Under Emperor Wu, Confucianism became the state orthodoxy, and officials were expected to embody Confucian moral values.” 
+	* Han: Under Emperor Wu, Confucianism became the state orthodoxy, and officials were expected to embody Confucian moral values.” (p. 79-84)
+	* Tang: Tang court had supported confucian learning as well
