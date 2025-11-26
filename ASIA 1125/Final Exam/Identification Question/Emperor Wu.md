@@ -1,0 +1,11 @@
+**Emperor Wu (140–87 BCE):**
+    - Established **Confucian institutions** and precedents for all successors.
+    - Endorsed **Confucianism as the national philosophy**, replacing the previously esteemed libertarian **Daoist ideals**.
+    - Eliminated checks on imperial power and expanded territory.
+    - Fought the **southern Yue** and the **Xiongnu in the north**.
+    - His campaigns resulted in a **drain of resources**, and his successors struggled to accumulate sufficient revenue.
+    - Limited the power of regional rulers empowered by the Han founder.
+    - Evicted noblemen back to their own fiefdoms so they could no longer live off government spending.
+    - Required that when a ruler died (**after 127 BCE**), his lands were divided among **all sons**, not just the oldest.
+    - Required these noble families to **move close to the capital** (similar to Qin policy).
+    - Refused to appoint sons of powerful families to high positions; instead, he recruited and promoted **talented commoners** to government positions.
