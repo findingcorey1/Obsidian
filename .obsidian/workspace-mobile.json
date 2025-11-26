@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e21282ba7a12e847",
+            "id": "929dfdd614dd5853",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASIA 1125/Paper/Syllabus.md",
+                "file": "ASIA 1125/Final Exam/Identification Question/Daoism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Syllabus"
+              "title": "Daoism"
             }
           },
           {
-            "id": "ef3223b54ef7fbf7",
+            "id": "47a44eccf6fb1638",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,41 +36,21 @@
             }
           },
           {
-            "id": "9aaf2351ed5d795b",
+            "id": "b1025e01fc1f0e7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASIA 1125/Paper/Notes (Qing Dynasty 1644 - 1912).md",
+                "file": "ASIA 1125/Final Exam/Identification Question/Liu Bang.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes (Qing Dynasty 1644 - 1912)"
+              "title": "Liu Bang"
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "08f0f8ea3f539168",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ef245523cd06d818",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASIA 1125/Paper/Agricultural and Economical.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Agricultural and Economical"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +65,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byModifiedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -181,7 +161,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ASIA 1125/Paper/Notes (Qing Dynasty 1644 - 1912).md",
+            "file": "ASIA 1125/Class Notes/Dynastic Development 10-13 Centuries.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -205,37 +185,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "9aaf2351ed5d795b",
+  "active": "b1025e01fc1f0e7d",
   "lastOpenFiles": [
     "ASIA 1125/Paper/Asia Paper.md",
     "ASIA 1125/Paper/Agricultural and Economical.md",
     "ASIA 1125/Paper/Layout CHAT 3.md",
+    "PHOT 1100/Term Project Script.md",
+    "PHOT 1100/Blur-Freeze Motion.md",
+    "ASIA 1125/Paper/Notes (Qing Dynasty 1644 - 1912).md",
+    "ASIA 1125/Paper/Agricultural and Economical.md",
     "ASIA 1125/Paper/Layout CHAT 2.md",
     "ASIA 1125/Paper/CHat.md",
-    "ASIA 1125/Paper/Layout CHAT.md",
-    "ASIA 1125/Paper/Asia Paper.md",
-    "ASIA 1125/Paper/Syllabus.md",
-    "Notes (Qing Dynasty 1644 - 1912).md",
-    "PHOT 1100/Term Project Paper.md",
-    "ASIA 1125/Discussions/Discussion 2.md",
     "Untitled.canvas",
-    "Untitled.base",
     "PHOT 1100/Photo attachments/Pasted image 20251007220438.png",
-    "PHIL 1100/Assingment 2/P3.md",
-    "PHIL 1100/Assingment 2/Assignment 2.md",
-    "PHIL 1100/Assingment 2/Assignment 2 Write.md",
-    "PHOT 1100/Quality of Light.md",
-    "PHIL 1100/Assignment 2.md",
-    "PHIL 1100/Assignment 2 Write.md",
-    "Untitled.md",
-    "PHOT 1100/Untitled 1.md",
-    "ASIA 1125/Discussions/Transcript of video (D9).md",
-    "ASIA 1125/Discussions/Discusssion 9.md",
-    "PHOT 1100/Same Subject different Light.md",
-    "PHOT 1100/Term Project Plan - Inspiration.md",
-    "PHOT 1100/Blur-Freeze Motion.md",
-    "PHOT 1100/Histogram.md",
-    "PHIL 1100/Week 1.md",
     "ASIA 1125/Class Notes/Photo Attatch pc/Pasted image 20251022174331.png",
     "ASIA 1125/Class Notes/Photo Attatch pc/Pasted image 20251022174046.png",
     "ASIA 1125/Midterm/Identification Questions/Photo Attatch pc/Pasted image 20251016204303.png",
