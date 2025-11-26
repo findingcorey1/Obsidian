@@ -117,3 +117,48 @@ All work must be your own. Any form of plagiarism or unauthorized assistance wi
 You are strongly encouraged to begin your preparation for the exam.
 
 Cheers,
+
+
+Identification questions  
+1. Confucious  
+2. Confucianism  
+3. Mohism  
+4. Daoism  
+5. Legalism  
+6. Art of War  
+7. Traditional Chinese Medicine  
+8. Liu Bang  
+9. Han dynasty  
+10. Xiongnu  
+11. Emperor Wu  
+12. Confucianization of Han  
+13. Silk Road  
+14. Buddhism in China  
+15. Five Dynasties and Ten Kingdoms period  
+16. Sui Dynasty  
+17. Li Yuan  
+18. Tang dynasty  
+19. Emperor Taizong  
+20. Tang Code  
+21. Wu Zetian  
+22. An Lushan rebellion  
+23. Northern Song  
+24. Commercial revolution (Song)  
+25. Southern Song  
+26. Liao  
+27. Jin dynasty  
+28. Genghis Khan  
+29. Yuan dynasty  
+30. Kublai Khan  
+31. Zhu Yuanzhang  
+32. Ming dynasty  
+33. Zheng He  
+Essay topics  
+34. Discuss factors and trends in formation of Chinese civilizations.  
+35. Empire building in China.
+
+36. Discuss the formation of East Asian cultural sphere.  
+37. Concepts and patterns of Confucianism.  
+38. Discuss foreign relations of Imperial China.  
+39. Women in Imperial China.  
+40. Religion in Imperial China
