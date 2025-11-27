@@ -11,4 +11,4 @@ web: know when to fight and when not to fight: avoid what is strong and strike a
 - Xunzi for example combined Confucianism with Mozi’s ideas and Daoism and sought middle ground with Legalism (although he found the Legalist teachings in Qin as repellent)
 - Plenty of Legalists welcomed Mozi’s work ethic and Daoists’ acceptance of things
 
-"Art of War' was a book written by Sun Tzu (544 -496 BCE), it consisted of 13 chapters that was devoted to many 
+"Art of War' was a book written by Sun Tzu (544 -496 BCE), it consisted of 13 chapters that was devoted to many sides of warfare and how it applied to military strategies and tactics like planning, waging wars, attack positions and etc. There was a saying that was expressed in the book, "If you know the enemy and know yourself, you need not fear the result of a hundred battles." This quote was significant in saying that for worrying about what would happen in the war before it even start and knowing what your ene
