@@ -5,4 +5,4 @@
 * Mother was a concubine and he grew with her family (he was three when his father died)
 * He held low ranking positions managing accounts and watching over livestock
 
-Confucius was a philosopher who lived in the state of Lu during the time of Spring and Autumn period of 551 - 479 BCE.  During that time Confucious was also known as Kongzi or Master Kong, he promoted "The Way  (known as Dao)", which was a extension of the means of enphasizing principles like personal, justice, and sincerity. 
+Confucius was a philosopher who lived in the state of Lu during the time of Spring and Autumn period of 551 - 479 BCE.  During that time Confucious was also known as Kongzi or Master Kong, he promoted "The Way  (known as Dao)", which was a extension of the means of emphasizing principles like personal, justice, and sincerity. 
