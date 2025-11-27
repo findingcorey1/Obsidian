@@ -37,4 +37,6 @@ The goal of the discussion is to share your understanding based on the lecture a
 
 Part 1:
 Why and how was paper money invented?
-- Money was invented because at the time during the Song period, there was a bronze coin shortage and Sichuan only required to use iron coins as the primary form of payment. At the time iron was too heavy and bulky to be used as a curren
+- Money was invented because at the time during the Song period, there was a bronze coin shortage and Sichuan only required to use iron coins as the primary form of payment. At the time iron was too heavy and bulky to be used as a currency. With those concerns, it cause a major currency situation which led to the Sichuanese merchants to develop paper money as the new form of payment and it also served as a better way for long distant transactions. The benefit with paper money was that they were able to deposit all the iron coins into the merchant house and in turn get a deposit slip as a promissory notes.
+
+Part 2:
