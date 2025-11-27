@@ -10,3 +10,4 @@ web: know when to fight and when not to fight: avoid what is strong and strike a
 - Chinese Axial thought ranged from mysticism to authoritarianism, and constantly evolving
 - Xunzi for example combined Confucianism with Mozi’s ideas and Daoism and sought middle ground with Legalism (although he found the Legalist teachings in Qin as repellent)
 - Plenty of Legalists welcomed Mozi’s work ethic and Daoists’ acceptance of things
+
