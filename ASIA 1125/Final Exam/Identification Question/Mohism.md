@@ -19,3 +19,5 @@ Mohism
 
 - In the centuries following Mozi’s death, his followers battled with Confucians over the contentious issues of music, funerals, and spirits, but they all agreed that the gentleman had to remain engaged in society if he was going to reform it
 - Followers of another new school of thought argued instead that the best method of reforming society was to withdraw from society – Daoism
+
+Mohism was 
