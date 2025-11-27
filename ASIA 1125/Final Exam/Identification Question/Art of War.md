@@ -11,3 +11,4 @@ web: know when to fight and when not to fight: avoid what is strong and strike a
 - Xunzi for example combined Confucianism with Mozi’s ideas and Daoism and sought middle ground with Legalism (although he found the Legalist teachings in Qin as repellent)
 - Plenty of Legalists welcomed Mozi’s work ethic and Daoists’ acceptance of things
 
+"Art of War' was a book written by Sun Tzu (544 -496 BCE), it consisted of 13 chapters that was devoted to many 
