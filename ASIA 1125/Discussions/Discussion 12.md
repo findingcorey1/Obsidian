@@ -36,3 +36,5 @@ Please cite Ebrey for examples in your answers.
 The goal of the discussion is to share your understanding based on the lecture and readings.
 
 Part 1:
+Why and how was paper money invented?
+- Money was invented because at the time during the Song period, there was a bronze coin shortage and Sichuan only required to use iron coins as the primary form of payment. At the time iron was too heavy and bulky to be used as a curren
