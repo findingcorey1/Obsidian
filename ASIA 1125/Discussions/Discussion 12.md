@@ -41,4 +41,4 @@ Why and how was paper money invented?
 
 Part 2:
 Name one song invention that stood out, and explain why?
-- One invention that stood out for the Song Dynasty was the creation of Gunpowder. 
+- One invention that stood out for the Song Dynasty was the creation of Gunpowder (p. 142). At the time the Song army was rapidly increasing as the size tripled during a very short time of around 50 years. With that it lead to increased manufacturing of huge quantities of military equipment's and over the time the millitary expenses are over 3 quarters of the states revenue
