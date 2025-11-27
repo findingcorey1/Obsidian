@@ -43,4 +43,4 @@ _creatures, each after its kind_.”
 - _Daodejing_ states: “_Abolish learning and you will be without worries_.”
 
 
-Daoism is a philosophy of The Way and 
+Daoism is a philosophy of The Way and is influential in terms of the religious tradition that was originated in the east at around 500 BCE.  Daoism had a big enphasis on the presense of humaity within the
