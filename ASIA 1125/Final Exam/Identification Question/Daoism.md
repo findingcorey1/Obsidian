@@ -41,3 +41,5 @@ _creatures, each after its kind_.”
 - The Daoist text targets Confucian values of sagehood, humanness, and righteousness, and Mozi’s emphasis on profit
 - _Daodejing_ evokes the purity of those things that have not been touched by human hands – undyed silk and unhewn logs
 - _Daodejing_ states: “_Abolish learning and you will be without worries_.”
+
+
