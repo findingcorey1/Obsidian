@@ -9,4 +9,4 @@ Confucianism
 	1) warfare, which had been pervasive among the feudal lords since the devolution of power into their hands;
 	2) the further devolution of power from the Zhou-appointed feudal houses into the hands of subordinate families that managed to accumulate power locally;
 	3) and the rising fluidity of social mobility which this type of open competition for power encouraged, as intelligence and warrior skills in their assistants proved more valuable to competing power-holders than did hereditary pedigree
-	4) 
+
