@@ -19,3 +19,4 @@ Legalism
 - Legalists liked to say that like carpenter’s square laws force messy materials to conform
 - Han Fei’s writings greatly influenced the First Emperor Qin, but they were officially vilified by the Han Dynasty
 - Despite its outcast status throughout the history of imperial China, Han’s political theory continued to heavily influence every dynasty thereafter, and the Confucian ideal of a rule without laws was never again realized
+

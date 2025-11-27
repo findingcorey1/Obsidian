@@ -44,3 +44,6 @@ _creatures, each after its kind_.”
 
 
 Daoism is a philosophy of The Way and is influential in terms of the religious tradition that was originated in the east at around 500 BCE.  Daoism had a big emphasis on the presence of humanity within the cosmos. In turn this had a big contributing factor to the rise of the chinse landscape art named shan shui. 
+
+Daoism had also influenced the Chinese intellectual traditions like Neo-Confucianism, which is a part of a response to the influence of faosism and buddhism
+
