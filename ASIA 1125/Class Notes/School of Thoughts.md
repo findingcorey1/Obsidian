@@ -139,7 +139,6 @@ By E.T.C. Werner, 1922
 
 - Xunzi visited the kingdom of Qin before its conquest of Zhou and described the Legalist policies as harsh, predicting that the Qin could not last
 - The ideal ruler for him was the king who could rule with the support of people
-- A meritocracy would replace a system of privilege that had prevailed in the past
 
 Mohism
 

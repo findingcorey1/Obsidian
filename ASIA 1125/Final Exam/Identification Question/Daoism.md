@@ -43,3 +43,4 @@ _creatures, each after its kind_.”
 - _Daodejing_ states: “_Abolish learning and you will be without worries_.”
 
 
+Daoism is a philosophy of The Way and 
