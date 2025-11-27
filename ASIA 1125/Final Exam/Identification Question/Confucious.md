@@ -5,3 +5,4 @@
 * Mother was a concubine and he grew with her family (he was three when his father died)
 * He held low ranking positions managing accounts and watching over livestock
 
+Confucius, who was also known as Kongzi was a philosopher who lived in the state of Lu during the time of "Spring and Autumn period of 551 - 479 BCE. 
