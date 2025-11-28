@@ -76,7 +76,7 @@ Your reflection should:
 
 ## **Part III: Short Essay — 40%**
 
-Write an essay of 600**–**700 words on a topic chosen from the list, which is to be discussed and uploaded on Brightspace/ Exams.
+Write an essay of 600–**700 words on a topic chosen from the list, which is to be discussed and uploaded on Brightspace/ Exams.
 
 ### **Requirements**
 
