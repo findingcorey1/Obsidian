@@ -16,4 +16,4 @@ Chinese Medicine
 - One-qi theory – formless beginning of the world; qi becomes yin and yang; and from yin and yang – emerge five phases (stages representing dynamism of yin and yang); from the five phases come ten thousand things or the material world
 - To follow nature’s law – fundamental principle: the body and cosmos are linked through cyclical dynamism of yin and yang (the five phases are material manifestation of this dynamism)
 
-The Traditional Chinese medicine was based off on Daoist concept as it could have been considered an addition to  Daoism in the cosmological concept. 
+The Traditional Chinese medicine was based off on Daoist concept as it could have been considered an addition to  Daoism in the cosmological concept. Its significance can be backtracked to the shang dysnaty 
