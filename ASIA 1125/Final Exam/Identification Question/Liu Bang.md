@@ -1,4 +1,4 @@
 * Liu Bang assumed the title “emperor” (Huangdi) at the urging of his followers and is known posthumously as Emperor Gaozu
 * One of the foundations of the early rulers during western han 202BC - 9AD
 
-The significance of Liu Bang started during the rise of Han Dynasty as he was one of the founder and first emperor of the Han Dynasty back in (202 BC to 220 AD). Liu bang was also known as Emperor Gaozu back in (202 - 195BC). 
+The significance of Liu Bang started during the rise of Han Dynasty as he was one of the founder and first emperor of the Han Dynasty back in (202 BC to 220 AD). Liu bang was also known as Emperor Gaozu back in (202 - 195BC). During that time both Liu Bang of Han and Xiang Yu of Chu became the two to fight for the leader of China as other kingdoms had joined alliances with either one of them. Even though it was stated that Xiang yu was the more prominant and effective commander of China, Liu bang had defeted him at the battle of Gaixia in
