@@ -153,12 +153,13 @@ Identification questions
 31. Zhu Yuanzhang  
 32. Ming dynasty  
 33. Zheng He  
-Essay topics  
-34. Discuss factors and trends in formation of Chinese civilizations.  
-35. Empire building in China.
 
-36. Discuss the formation of East Asian cultural sphere.  
-37. Concepts and patterns of Confucianism.  
-38. Discuss foreign relations of Imperial China.  
-39. Women in Imperial China.  
-40. Religion in Imperial China
+
+Essay topics  
+1. Discuss factors and trends in formation of Chinese civilizations.  
+2. Empire building in China.
+3. Discuss the formation of East Asian cultural sphere.  
+4. Concepts and patterns of Confucianism.  
+5. Discuss foreign relations of Imperial China.  
+6. Women in Imperial China.  
+7. Religion in Imperial China
