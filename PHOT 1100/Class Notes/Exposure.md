@@ -31,7 +31,7 @@ What is Exposure?
 * f1.8 smallest, f/22 largest (in typical dslr)
 ![](Pasted%20image%2020251007194440.png)
 
-[[Depth of Field]]
+[[School/PHOT 1100/Class Notes/Depth of Field]]
 * The area of sharpness or focus (from near to far) within a photograph
 * Depth of field can be influeced by three factors
 	1. Aperture
