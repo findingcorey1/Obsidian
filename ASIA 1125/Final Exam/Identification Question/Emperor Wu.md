@@ -10,4 +10,4 @@
     - Required these noble families to **move close to the capital** (similar to Qin policy).
     - Refused to appoint sons of powerful families to high positions; instead, he recruited and promoted **talented commoners** to government positions.
 
-During 140 - 87 BCE, Emperor Wu was one of the rulers during the Han Dynasty. 
+During 140 - 87 BCE, Emperor Wu was one of the rulers during the Han Dynasty. Wu was one of the founders of the Confucian institution and precendents for all successors. 
